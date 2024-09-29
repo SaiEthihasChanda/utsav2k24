@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/building-corner.obj-bdc532d33ddb8261759d0cb1e84d16ea.mesh"
+
+[deps]
+
+files=[ "res://.import/building-corner.obj-bdc532d33ddb8261759d0cb1e84d16ea.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-corner.obj"
+dest_files=[ "res://.import/building-corner.obj-bdc532d33ddb8261759d0cb1e84d16ea.mesh", "res://.import/building-corner.obj-bdc532d33ddb8261759d0cb1e84d16ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

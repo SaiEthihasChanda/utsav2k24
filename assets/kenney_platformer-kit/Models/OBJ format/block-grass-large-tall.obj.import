@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-grass-large-tall.obj-546b67f84b99198d4b0a8a5bd55a0c7b.mesh"
+
+[deps]
+
+files=[ "res://.import/block-grass-large-tall.obj-546b67f84b99198d4b0a8a5bd55a0c7b.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-large-tall.obj"
+dest_files=[ "res://.import/block-grass-large-tall.obj-546b67f84b99198d4b0a8a5bd55a0c7b.mesh", "res://.import/block-grass-large-tall.obj-546b67f84b99198d4b0a8a5bd55a0c7b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

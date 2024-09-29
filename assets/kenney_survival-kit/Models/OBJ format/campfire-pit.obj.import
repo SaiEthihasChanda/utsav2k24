@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh"
+
+[deps]
+
+files=[ "res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/campfire-pit.obj"
+dest_files=[ "res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh", "res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

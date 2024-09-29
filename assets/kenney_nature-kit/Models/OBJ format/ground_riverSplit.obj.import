@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverSplit.obj-64fd865ff7d525bae55416e9e4c027f2.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverSplit.obj-64fd865ff7d525bae55416e9e4c027f2.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/ground_riverSplit.obj"
+dest_files=[ "res://.import/ground_riverSplit.obj-64fd865ff7d525bae55416e9e4c027f2.mesh", "res://.import/ground_riverSplit.obj-64fd865ff7d525bae55416e9e4c027f2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

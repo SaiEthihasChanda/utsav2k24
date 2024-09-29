@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tent.obj-b28fe7086109aaab252b1495e96db36d.mesh"
+
+[deps]
+
+files=[ "res://.import/tent.obj-b28fe7086109aaab252b1495e96db36d.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tent.obj"
+dest_files=[ "res://.import/tent.obj-b28fe7086109aaab252b1495e96db36d.mesh", "res://.import/tent.obj-b28fe7086109aaab252b1495e96db36d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

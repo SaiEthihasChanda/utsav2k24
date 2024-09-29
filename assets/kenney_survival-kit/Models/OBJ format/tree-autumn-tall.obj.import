@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree-autumn-tall.obj-7088b5aee130aa00bd85d0722b4d5af3.mesh"
+
+[deps]
+
+files=[ "res://.import/tree-autumn-tall.obj-7088b5aee130aa00bd85d0722b4d5af3.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tree-autumn-tall.obj"
+dest_files=[ "res://.import/tree-autumn-tall.obj-7088b5aee130aa00bd85d0722b4d5af3.mesh", "res://.import/tree-autumn-tall.obj-7088b5aee130aa00bd85d0722b4d5af3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

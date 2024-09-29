@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-snow-overhang-low-narrow.obj-93f701be24e412ef53679947eceb2edb.mesh"
+
+[deps]
+
+files=[ "res://.import/block-snow-overhang-low-narrow.obj-93f701be24e412ef53679947eceb2edb.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-snow-overhang-low-narrow.obj"
+dest_files=[ "res://.import/block-snow-overhang-low-narrow.obj-93f701be24e412ef53679947eceb2edb.mesh", "res://.import/block-snow-overhang-low-narrow.obj-93f701be24e412ef53679947eceb2edb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

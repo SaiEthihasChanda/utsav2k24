@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/window-brown-round-wide.obj-721392aa735a64b350d4b0a2c11eea8d.mesh"
+
+[deps]
+
+files=[ "res://.import/window-brown-round-wide.obj-721392aa735a64b350d4b0a2c11eea8d.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/window-brown-round-wide.obj"
+dest_files=[ "res://.import/window-brown-round-wide.obj-721392aa735a64b350d4b0a2c11eea8d.mesh", "res://.import/window-brown-round-wide.obj-721392aa735a64b350d4b0a2c11eea8d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

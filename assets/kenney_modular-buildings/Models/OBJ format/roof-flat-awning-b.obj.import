@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh"
+
+[deps]
+
+files=[ "res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-flat-awning-b.obj"
+dest_files=[ "res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh", "res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

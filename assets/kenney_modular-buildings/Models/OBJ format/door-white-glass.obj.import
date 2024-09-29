@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/door-white-glass.obj-5eedc5aa716f1e5c4007645423940425.mesh"
+
+[deps]
+
+files=[ "res://.import/door-white-glass.obj-5eedc5aa716f1e5c4007645423940425.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/door-white-glass.obj"
+dest_files=[ "res://.import/door-white-glass.obj-5eedc5aa716f1e5c4007645423940425.mesh", "res://.import/door-white-glass.obj-5eedc5aa716f1e5c4007645423940425.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

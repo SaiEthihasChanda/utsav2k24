@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh"
+
+[deps]
+
+files=[ "res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/crate-strong.obj"
+dest_files=[ "res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh", "res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

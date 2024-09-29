@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh"
+
+[deps]
+
+files=[ "res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-overhang-large-slope-steep.obj"
+dest_files=[ "res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh", "res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

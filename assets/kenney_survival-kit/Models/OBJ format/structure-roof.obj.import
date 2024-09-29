@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/structure-roof.obj-0f201f99495440c1384469caa3abb261.mesh"
+
+[deps]
+
+files=[ "res://.import/structure-roof.obj-0f201f99495440c1384469caa3abb261.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/structure-roof.obj"
+dest_files=[ "res://.import/structure-roof.obj-0f201f99495440c1384469caa3abb261.mesh", "res://.import/structure-roof.obj-0f201f99495440c1384469caa3abb261.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

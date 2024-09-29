@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flower_yellowC.obj-4ff17dc8337f1cd4a363c1acdb01911d.mesh"
+
+[deps]
+
+files=[ "res://.import/flower_yellowC.obj-4ff17dc8337f1cd4a363c1acdb01911d.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/flower_yellowC.obj"
+dest_files=[ "res://.import/flower_yellowC.obj-4ff17dc8337f1cd4a363c1acdb01911d.mesh", "res://.import/flower_yellowC.obj-4ff17dc8337f1cd4a363c1acdb01911d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

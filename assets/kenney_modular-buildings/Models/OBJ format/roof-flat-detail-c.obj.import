@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roof-flat-detail-c.obj-af6fcd24b7fbbc8109c88069b09d5263.mesh"
+
+[deps]
+
+files=[ "res://.import/roof-flat-detail-c.obj-af6fcd24b7fbbc8109c88069b09d5263.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-flat-detail-c.obj"
+dest_files=[ "res://.import/roof-flat-detail-c.obj-af6fcd24b7fbbc8109c88069b09d5263.mesh", "res://.import/roof-flat-detail-c.obj-af6fcd24b7fbbc8109c88069b09d5263.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

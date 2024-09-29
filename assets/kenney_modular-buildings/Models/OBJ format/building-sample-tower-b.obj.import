@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh"
+
+[deps]
+
+files=[ "res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-sample-tower-b.obj"
+dest_files=[ "res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh", "res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

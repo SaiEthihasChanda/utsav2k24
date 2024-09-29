@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roof-flat-corner.obj-68e5b9dd1bc25063632969b954b9ba23.mesh"
+
+[deps]
+
+files=[ "res://.import/roof-flat-corner.obj-68e5b9dd1bc25063632969b954b9ba23.mesh" ]
+
+source_file="res://assets/kenney_building-kit/Models/OBJ format/roof-flat-corner.obj"
+dest_files=[ "res://.import/roof-flat-corner.obj-68e5b9dd1bc25063632969b954b9ba23.mesh", "res://.import/roof-flat-corner.obj-68e5b9dd1bc25063632969b954b9ba23.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

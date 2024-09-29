@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-moving-blue.obj-449472db83262cec2dfcf2899df33593.mesh"
+
+[deps]
+
+files=[ "res://.import/block-moving-blue.obj-449472db83262cec2dfcf2899df33593.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-moving-blue.obj"
+dest_files=[ "res://.import/block-moving-blue.obj-449472db83262cec2dfcf2899df33593.mesh", "res://.import/block-moving-blue.obj-449472db83262cec2dfcf2899df33593.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

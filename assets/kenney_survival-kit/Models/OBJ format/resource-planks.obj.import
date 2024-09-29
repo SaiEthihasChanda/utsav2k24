@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/resource-planks.obj-befd140486229d7c19c4ddc5f000671d.mesh"
+
+[deps]
+
+files=[ "res://.import/resource-planks.obj-befd140486229d7c19c4ddc5f000671d.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/resource-planks.obj"
+dest_files=[ "res://.import/resource-planks.obj-befd140486229d7c19c4ddc5f000671d.mesh", "res://.import/resource-planks.obj-befd140486229d7c19c4ddc5f000671d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

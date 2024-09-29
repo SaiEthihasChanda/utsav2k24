@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rock-b.obj-955abfe92540f2801b8e96f02e5d80dc.mesh"
+
+[deps]
+
+files=[ "res://.import/rock-b.obj-955abfe92540f2801b8e96f02e5d80dc.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/rock-b.obj"
+dest_files=[ "res://.import/rock-b.obj-955abfe92540f2801b8e96f02e5d80dc.mesh", "res://.import/rock-b.obj-955abfe92540f2801b8e96f02e5d80dc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crop_pumpkin.obj-1402cf42e6d4e2b76d513172d9f402d6.mesh"
+
+[deps]
+
+files=[ "res://.import/crop_pumpkin.obj-1402cf42e6d4e2b76d513172d9f402d6.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/crop_pumpkin.obj"
+dest_files=[ "res://.import/crop_pumpkin.obj-1402cf42e6d4e2b76d513172d9f402d6.mesh", "res://.import/crop_pumpkin.obj-1402cf42e6d4e2b76d513172d9f402d6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

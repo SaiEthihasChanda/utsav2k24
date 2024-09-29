@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/workbench-anvil.obj-a1680ceecbe1ed2edeceaba2445530bf.mesh"
+
+[deps]
+
+files=[ "res://.import/workbench-anvil.obj-a1680ceecbe1ed2edeceaba2445530bf.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/workbench-anvil.obj"
+dest_files=[ "res://.import/workbench-anvil.obj-a1680ceecbe1ed2edeceaba2445530bf.mesh", "res://.import/workbench-anvil.obj-a1680ceecbe1ed2edeceaba2445530bf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/box-large-open.obj-92a5350aec7becdb3994a923126a2e5d.mesh"
+
+[deps]
+
+files=[ "res://.import/box-large-open.obj-92a5350aec7becdb3994a923126a2e5d.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/box-large-open.obj"
+dest_files=[ "res://.import/box-large-open.obj-92a5350aec7becdb3994a923126a2e5d.mesh", "res://.import/box-large-open.obj-92a5350aec7becdb3994a923126a2e5d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

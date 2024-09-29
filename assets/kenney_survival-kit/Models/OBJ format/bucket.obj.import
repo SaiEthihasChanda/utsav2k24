@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bucket.obj-3c675d297c2ed3462da36b78ccac9318.mesh"
+
+[deps]
+
+files=[ "res://.import/bucket.obj-3c675d297c2ed3462da36b78ccac9318.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/bucket.obj"
+dest_files=[ "res://.import/bucket.obj-3c675d297c2ed3462da36b78ccac9318.mesh", "res://.import/bucket.obj-3c675d297c2ed3462da36b78ccac9318.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

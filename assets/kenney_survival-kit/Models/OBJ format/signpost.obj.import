@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/signpost.obj-2e1e7da17465a1299eb06b17fe86ef73.mesh"
+
+[deps]
+
+files=[ "res://.import/signpost.obj-2e1e7da17465a1299eb06b17fe86ef73.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/signpost.obj"
+dest_files=[ "res://.import/signpost.obj-2e1e7da17465a1299eb06b17fe86ef73.mesh", "res://.import/signpost.obj-2e1e7da17465a1299eb06b17fe86ef73.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

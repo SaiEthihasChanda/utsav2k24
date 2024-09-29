@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/door-rotate-square-b.obj-e34d7eea0747be5f07be38681a4d1e7a.mesh"
+
+[deps]
+
+files=[ "res://.import/door-rotate-square-b.obj-e34d7eea0747be5f07be38681a4d1e7a.mesh" ]
+
+source_file="res://assets/kenney_building-kit/Models/OBJ format/door-rotate-square-b.obj"
+dest_files=[ "res://.import/door-rotate-square-b.obj-e34d7eea0747be5f07be38681a4d1e7a.mesh", "res://.import/door-rotate-square-b.obj-e34d7eea0747be5f07be38681a4d1e7a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

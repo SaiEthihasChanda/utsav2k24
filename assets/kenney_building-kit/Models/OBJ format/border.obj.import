@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/border.obj-913dd220f923311f986014efde49585a.mesh"
+
+[deps]
+
+files=[ "res://.import/border.obj-913dd220f923311f986014efde49585a.mesh" ]
+
+source_file="res://assets/kenney_building-kit/Models/OBJ format/border.obj"
+dest_files=[ "res://.import/border.obj-913dd220f923311f986014efde49585a.mesh", "res://.import/border.obj-913dd220f923311f986014efde49585a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

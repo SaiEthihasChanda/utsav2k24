@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh"
+
+[deps]
+
+files=[ "res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh" ]
+
+source_file="res://assets/kenney_building-kit/Models/OBJ format/plating.obj"
+dest_files=[ "res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh", "res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

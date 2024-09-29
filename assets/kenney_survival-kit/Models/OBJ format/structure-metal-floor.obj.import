@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh"
+
+[deps]
+
+files=[ "res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/structure-metal-floor.obj"
+dest_files=[ "res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh", "res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

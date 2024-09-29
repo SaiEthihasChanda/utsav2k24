@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/campfire-stand.obj-73217af59e81c96fb8acd5ca38024b2f.mesh"
+
+[deps]
+
+files=[ "res://.import/campfire-stand.obj-73217af59e81c96fb8acd5ca38024b2f.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/campfire-stand.obj"
+dest_files=[ "res://.import/campfire-stand.obj-73217af59e81c96fb8acd5ca38024b2f.mesh", "res://.import/campfire-stand.obj-73217af59e81c96fb8acd5ca38024b2f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

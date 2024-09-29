@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/resource-wood.obj-e388ef3c05408c984c54b12c25aedbd6.mesh"
+
+[deps]
+
+files=[ "res://.import/resource-wood.obj-e388ef3c05408c984c54b12c25aedbd6.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/resource-wood.obj"
+dest_files=[ "res://.import/resource-wood.obj-e388ef3c05408c984c54b12c25aedbd6.mesh", "res://.import/resource-wood.obj-e388ef3c05408c984c54b12c25aedbd6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

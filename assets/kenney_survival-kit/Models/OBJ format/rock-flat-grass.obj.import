@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh"
+
+[deps]
+
+files=[ "res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/rock-flat-grass.obj"
+dest_files=[ "res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh", "res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

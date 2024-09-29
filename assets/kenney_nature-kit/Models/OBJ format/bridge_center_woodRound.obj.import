@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bridge_center_woodRound.obj-acf31bb9fac6f938fd3539c310cb10bb.mesh"
+
+[deps]
+
+files=[ "res://.import/bridge_center_woodRound.obj-acf31bb9fac6f938fd3539c310cb10bb.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/bridge_center_woodRound.obj"
+dest_files=[ "res://.import/bridge_center_woodRound.obj-acf31bb9fac6f938fd3539c310cb10bb.mesh", "res://.import/bridge_center_woodRound.obj-acf31bb9fac6f938fd3539c310cb10bb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

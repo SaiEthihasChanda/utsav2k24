@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/door-white.obj-b93e3322c4e0cf42436b121bbf6a63b6.mesh"
+
+[deps]
+
+files=[ "res://.import/door-white.obj-b93e3322c4e0cf42436b121bbf6a63b6.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/door-white.obj"
+dest_files=[ "res://.import/door-white.obj-b93e3322c4e0cf42436b121bbf6a63b6.mesh", "res://.import/door-white.obj-b93e3322c4e0cf42436b121bbf6a63b6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

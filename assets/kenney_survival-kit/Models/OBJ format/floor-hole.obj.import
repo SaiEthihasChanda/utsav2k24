@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh"
+
+[deps]
+
+files=[ "res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/floor-hole.obj"
+dest_files=[ "res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh", "res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

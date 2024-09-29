@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_pathCornerSmall.obj-4b6e9be542bcf8a2420806be741e1d03.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_pathCornerSmall.obj-4b6e9be542bcf8a2420806be741e1d03.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/ground_pathCornerSmall.obj"
+dest_files=[ "res://.import/ground_pathCornerSmall.obj-4b6e9be542bcf8a2420806be741e1d03.mesh", "res://.import/ground_pathCornerSmall.obj-4b6e9be542bcf8a2420806be741e1d03.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

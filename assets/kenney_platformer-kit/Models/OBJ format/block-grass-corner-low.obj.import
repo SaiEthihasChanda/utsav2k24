@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-grass-corner-low.obj-4cfd90f952e2d3a0def94cb73deb602e.mesh"
+
+[deps]
+
+files=[ "res://.import/block-grass-corner-low.obj-4cfd90f952e2d3a0def94cb73deb602e.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-corner-low.obj"
+dest_files=[ "res://.import/block-grass-corner-low.obj-4cfd90f952e2d3a0def94cb73deb602e.mesh", "res://.import/block-grass-corner-low.obj-4cfd90f952e2d3a0def94cb73deb602e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

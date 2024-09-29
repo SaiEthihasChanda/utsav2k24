@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/building-windows-high-top-square.obj-54c1c63e7c314227afb18e8d38bb9a37.mesh"
+
+[deps]
+
+files=[ "res://.import/building-windows-high-top-square.obj-54c1c63e7c314227afb18e8d38bb9a37.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-windows-high-top-square.obj"
+dest_files=[ "res://.import/building-windows-high-top-square.obj-54c1c63e7c314227afb18e8d38bb9a37.mesh", "res://.import/building-windows-high-top-square.obj-54c1c63e7c314227afb18e8d38bb9a37.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

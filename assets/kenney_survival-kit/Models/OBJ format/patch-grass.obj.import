@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/patch-grass.obj-69f79ba36812b8254b8b3484c06cf373.mesh"
+
+[deps]
+
+files=[ "res://.import/patch-grass.obj-69f79ba36812b8254b8b3484c06cf373.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/patch-grass.obj"
+dest_files=[ "res://.import/patch-grass.obj-69f79ba36812b8254b8b3484c06cf373.mesh", "res://.import/patch-grass.obj-69f79ba36812b8254b8b3484c06cf373.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

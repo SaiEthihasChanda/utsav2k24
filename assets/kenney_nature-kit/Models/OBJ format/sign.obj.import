@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sign.obj-6501d941f3616ae2d7200386a210fdf8.mesh"
+
+[deps]
+
+files=[ "res://.import/sign.obj-6501d941f3616ae2d7200386a210fdf8.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/sign.obj"
+dest_files=[ "res://.import/sign.obj-6501d941f3616ae2d7200386a210fdf8.mesh", "res://.import/sign.obj-6501d941f3616ae2d7200386a210fdf8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

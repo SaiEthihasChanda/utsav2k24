@@ -1,0 +1,115 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://cactus_tall.tscn" type="PackedScene" id=1]
+
+[sub_resource type="CubeMesh" id=1]
+
+[sub_resource type="BoxShape" id=2]
+
+[sub_resource type="GDScript" id=6]
+script/source = "extends KinematicBody
+
+const GRAVITY = -9.8
+const JUMP_FORCE = 5
+const MOVE_SPEED = 10
+const MOUSE_SENSITIVITY = 0.01
+const MAX_FALL_SPEED = 50
+
+var velocity = Vector3.ZERO
+var direction = Vector3.ZERO
+var jump = false
+
+var camera
+var y_rotation = 0
+
+func _ready():
+	# Get reference to the camera
+	camera = $Camera
+	# Capture mouse
+	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+
+func _unhandled_input(event):
+	if event is InputEventMouseMotion:
+		# Horizontal rotation (yaw)
+		rotation.y -= event.relative.x * MOUSE_SENSITIVITY
+		# Vertical rotation (pitch) but clamp it to avoid looking too far up/down
+		y_rotation -= event.relative.y * MOUSE_SENSITIVITY
+		y_rotation = clamp(y_rotation, -90, 90)
+		camera.rotation_degrees.x = y_rotation
+
+func _physics_process(delta):
+	handle_movement(delta)
+
+func handle_movement(delta):
+	direction = Vector3.ZERO
+
+	# Movement based on input
+	if Input.is_action_pressed(\"ui_up\"):
+		direction += transform.basis.z
+	if Input.is_action_pressed(\"ui_down\"):
+		direction -= transform.basis.z
+	if Input.is_action_pressed(\"ui_left\"):
+		direction += transform.basis.x
+	if Input.is_action_pressed(\"ui_right\"):
+		direction -= transform.basis.x
+
+	direction = direction.normalized()
+
+	# Apply gravity
+	velocity.y += GRAVITY * delta
+
+	# Jumping logic
+	if is_on_floor():
+		if Input.is_action_just_pressed(\"ui_jump\"):
+			velocity.y = JUMP_FORCE
+
+	# Calculate horizontal velocity
+	var horizontal_velocity = direction * MOVE_SPEED
+	horizontal_velocity.y = velocity.y
+
+	# Move the player
+	velocity = move_and_slide(horizontal_velocity, Vector3.UP)
+
+	# Clamp falling speed
+	if velocity.y < -MAX_FALL_SPEED:
+		velocity.y = -MAX_FALL_SPEED
+"
+
+[sub_resource type="BoxShape" id=7]
+
+[sub_resource type="SpatialMaterial" id=4]
+albedo_color = Color( 0.25098, 0.964706, 0.0745098, 1 )
+
+[sub_resource type="CapsuleMesh" id=5]
+material = SubResource( 4 )
+
+[node name="world" type="Spatial"]
+
+[node name="StaticBody" type="StaticBody" parent="."]
+transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
+
+[node name="MeshInstance" type="MeshInstance" parent="StaticBody"]
+mesh = SubResource( 1 )
+material/0 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="StaticBody"]
+shape = SubResource( 2 )
+
+[node name="KinematicBody" type="KinematicBody" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.12696, 0 )
+script = SubResource( 6 )
+
+[node name="CollisionShape" type="CollisionShape" parent="KinematicBody"]
+transform = Transform( 1, 0, 0, 0, -6.15154e-08, -1.40731, 0, 1, -4.37114e-08, 0, 0, 0 )
+shape = SubResource( 7 )
+
+[node name="MeshInstance" type="MeshInstance" parent="KinematicBody"]
+transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 0 )
+mesh = SubResource( 5 )
+material/0 = null
+
+[node name="Camera" type="Camera" parent="KinematicBody"]
+transform = Transform( -1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 1.35706, -0.318151 )
+
+[node name="cactus_tall" parent="." instance=ExtResource( 1 )]
+transform = Transform( 5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 1.29648, 6 )

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/building-corner-window-narrow.obj-91674d7a2747e4f13f1f0f467404b118.mesh"
+
+[deps]
+
+files=[ "res://.import/building-corner-window-narrow.obj-91674d7a2747e4f13f1f0f467404b118.mesh" ]
+
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-corner-window-narrow.obj"
+dest_files=[ "res://.import/building-corner-window-narrow.obj-91674d7a2747e4f13f1f0f467404b118.mesh", "res://.import/building-corner-window-narrow.obj-91674d7a2747e4f13f1f0f467404b118.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

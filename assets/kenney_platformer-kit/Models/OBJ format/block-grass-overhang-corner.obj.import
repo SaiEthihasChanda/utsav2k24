@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-grass-overhang-corner.obj-0ca3e9d10ebeb1aa972aed53dd04335a.mesh"
+
+[deps]
+
+files=[ "res://.import/block-grass-overhang-corner.obj-0ca3e9d10ebeb1aa972aed53dd04335a.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-overhang-corner.obj"
+dest_files=[ "res://.import/block-grass-overhang-corner.obj-0ca3e9d10ebeb1aa972aed53dd04335a.mesh", "res://.import/block-grass-overhang-corner.obj-0ca3e9d10ebeb1aa972aed53dd04335a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

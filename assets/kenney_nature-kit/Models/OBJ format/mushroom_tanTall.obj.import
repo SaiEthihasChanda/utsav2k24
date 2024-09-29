@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh"
+
+[deps]
+
+files=[ "res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/mushroom_tanTall.obj"
+dest_files=[ "res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh", "res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

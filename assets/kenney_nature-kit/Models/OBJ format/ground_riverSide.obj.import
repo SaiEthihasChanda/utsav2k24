@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverSide.obj-52d9470d4d9df04faeecf04a660666af.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverSide.obj-52d9470d4d9df04faeecf04a660666af.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/ground_riverSide.obj"
+dest_files=[ "res://.import/ground_riverSide.obj-52d9470d4d9df04faeecf04a660666af.mesh", "res://.import/ground_riverSide.obj-52d9470d4d9df04faeecf04a660666af.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

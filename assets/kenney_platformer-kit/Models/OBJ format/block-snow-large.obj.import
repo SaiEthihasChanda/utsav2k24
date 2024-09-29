@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh"
+
+[deps]
+
+files=[ "res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-snow-large.obj"
+dest_files=[ "res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh", "res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

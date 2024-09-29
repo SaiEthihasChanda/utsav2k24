@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tool-hammer.obj-7f004b10875b7acc46a37b43f828855d.mesh"
+
+[deps]
+
+files=[ "res://.import/tool-hammer.obj-7f004b10875b7acc46a37b43f828855d.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tool-hammer.obj"
+dest_files=[ "res://.import/tool-hammer.obj-7f004b10875b7acc46a37b43f828855d.mesh", "res://.import/tool-hammer.obj-7f004b10875b7acc46a37b43f828855d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

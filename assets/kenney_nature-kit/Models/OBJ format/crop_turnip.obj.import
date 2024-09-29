@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crop_turnip.obj-6df8b3f1266b30c8447fee892231a40f.mesh"
+
+[deps]
+
+files=[ "res://.import/crop_turnip.obj-6df8b3f1266b30c8447fee892231a40f.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/crop_turnip.obj"
+dest_files=[ "res://.import/crop_turnip.obj-6df8b3f1266b30c8447fee892231a40f.mesh", "res://.import/crop_turnip.obj-6df8b3f1266b30c8447fee892231a40f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

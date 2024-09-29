@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bedroll-packed.obj-c5dbb74c8df10429cc073362c1e82e74.mesh"
+
+[deps]
+
+files=[ "res://.import/bedroll-packed.obj-c5dbb74c8df10429cc073362c1e82e74.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/bedroll-packed.obj"
+dest_files=[ "res://.import/bedroll-packed.obj-c5dbb74c8df10429cc073362c1e82e74.mesh", "res://.import/bedroll-packed.obj-c5dbb74c8df10429cc073362c1e82e74.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

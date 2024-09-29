@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/block-grass-overhang-low-narrow.obj-096d93bb129325e98d2a5126aca818f5.mesh"
+
+[deps]
+
+files=[ "res://.import/block-grass-overhang-low-narrow.obj-096d93bb129325e98d2a5126aca818f5.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-overhang-low-narrow.obj"
+dest_files=[ "res://.import/block-grass-overhang-low-narrow.obj-096d93bb129325e98d2a5126aca818f5.mesh", "res://.import/block-grass-overhang-low-narrow.obj-096d93bb129325e98d2a5126aca818f5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

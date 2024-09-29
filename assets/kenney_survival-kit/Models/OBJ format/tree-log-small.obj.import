@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree-log-small.obj-45b4b9d9a5a8aa27bd884e24c04c72da.mesh"
+
+[deps]
+
+files=[ "res://.import/tree-log-small.obj-45b4b9d9a5a8aa27bd884e24c04c72da.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tree-log-small.obj"
+dest_files=[ "res://.import/tree-log-small.obj-45b4b9d9a5a8aa27bd884e24c04c72da.mesh", "res://.import/tree-log-small.obj-45b4b9d9a5a8aa27bd884e24c04c72da.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

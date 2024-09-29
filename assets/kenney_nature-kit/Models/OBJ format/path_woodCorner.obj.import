@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/path_woodCorner.obj-90a8fd9be2d85a70c30fc41b18c39b64.mesh"
+
+[deps]
+
+files=[ "res://.import/path_woodCorner.obj-90a8fd9be2d85a70c30fc41b18c39b64.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/path_woodCorner.obj"
+dest_files=[ "res://.import/path_woodCorner.obj-90a8fd9be2d85a70c30fc41b18c39b64.mesh", "res://.import/path_woodCorner.obj-90a8fd9be2d85a70c30fc41b18c39b64.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

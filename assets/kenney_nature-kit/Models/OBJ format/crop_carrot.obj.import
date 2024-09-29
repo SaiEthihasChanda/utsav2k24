@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crop_carrot.obj-7f11251477433a6d2e0ccd5bdc1cc2c8.mesh"
+
+[deps]
+
+files=[ "res://.import/crop_carrot.obj-7f11251477433a6d2e0ccd5bdc1cc2c8.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/crop_carrot.obj"
+dest_files=[ "res://.import/crop_carrot.obj-7f11251477433a6d2e0ccd5bdc1cc2c8.mesh", "res://.import/crop_carrot.obj-7f11251477433a6d2e0ccd5bdc1cc2c8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

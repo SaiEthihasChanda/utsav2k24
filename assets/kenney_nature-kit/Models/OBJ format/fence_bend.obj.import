@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fence_bend.obj-76e7899328b0b03b430aac731cf37803.mesh"
+
+[deps]
+
+files=[ "res://.import/fence_bend.obj-76e7899328b0b03b430aac731cf37803.mesh" ]
+
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/fence_bend.obj"
+dest_files=[ "res://.import/fence_bend.obj-76e7899328b0b03b430aac731cf37803.mesh", "res://.import/fence_bend.obj-76e7899328b0b03b430aac731cf37803.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
