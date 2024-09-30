@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/button-round.png-be80162c00cd1daa471e9aa63dba3c58.stex"
+path="res://.import/button-round.png-dbcb75c7b4c8f98c4f07fc1fa34d71fd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/button-round.png"
-dest_files=[ "res://.import/button-round.png-be80162c00cd1daa471e9aa63dba3c58.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/button-round.png"
+dest_files=[ "res://.import/button-round.png-dbcb75c7b4c8f98c4f07fc1fa34d71fd.stex" ]
 
 [params]
 

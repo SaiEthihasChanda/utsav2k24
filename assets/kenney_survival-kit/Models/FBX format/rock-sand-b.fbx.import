@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rock-sand-b.fbx-d4c8d055a1ebe9b8ade5635a20f12656.scn"
+path="res://.import/rock-sand-b.fbx-54631e819386f0a9fd68bde14ed47f45.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/rock-sand-b.fbx"
-dest_files=[ "res://.import/rock-sand-b.fbx-d4c8d055a1ebe9b8ade5635a20f12656.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/rock-sand-b.fbx"
+dest_files=[ "res://.import/rock-sand-b.fbx-54631e819386f0a9fd68bde14ed47f45.scn" ]
 
 [params]
 

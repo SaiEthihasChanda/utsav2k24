@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree-autumn-trunk.png-9c52020b3f0e194f451c45355b9de592.stex"
+path="res://.import/tree-autumn-trunk.png-e8b63ea92c25fbad75e44d5c6cef3fdc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/tree-autumn-trunk.png"
-dest_files=[ "res://.import/tree-autumn-trunk.png-9c52020b3f0e194f451c45355b9de592.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tree-autumn-trunk.png"
+dest_files=[ "res://.import/tree-autumn-trunk.png-e8b63ea92c25fbad75e44d5c6cef3fdc.stex" ]
 
 [params]
 

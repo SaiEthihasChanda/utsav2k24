@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bedroll-frame.png-a88c9687e3a2df4a087a377e3840e33d.stex"
+path="res://.import/bedroll-frame.png-b6d5168039f9c7f8fe18a3918f8c0e39.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/bedroll-frame.png"
-dest_files=[ "res://.import/bedroll-frame.png-a88c9687e3a2df4a087a377e3840e33d.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/bedroll-frame.png"
+dest_files=[ "res://.import/bedroll-frame.png-b6d5168039f9c7f8fe18a3918f8c0e39.stex" ]
 
 [params]
 

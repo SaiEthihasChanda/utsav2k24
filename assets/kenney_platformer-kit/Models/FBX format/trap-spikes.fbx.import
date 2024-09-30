@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trap-spikes.fbx-46fe575ab38daca6771286446fb1c67f.scn"
+path="res://.import/trap-spikes.fbx-c6554c69476194058506c48a729f7445.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/trap-spikes.fbx"
-dest_files=[ "res://.import/trap-spikes.fbx-46fe575ab38daca6771286446fb1c67f.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/trap-spikes.fbx"
+dest_files=[ "res://.import/trap-spikes.fbx-c6554c69476194058506c48a729f7445.scn" ]
 
 [params]
 

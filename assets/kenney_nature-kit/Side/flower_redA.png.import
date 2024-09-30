@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flower_redA.png-9f5955bc7d5617ccd84e6ba789015a90.stex"
+path="res://.import/flower_redA.png-34de8c7fc2634f4a3e94470ada7a9231.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/flower_redA.png"
-dest_files=[ "res://.import/flower_redA.png-9f5955bc7d5617ccd84e6ba789015a90.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/flower_redA.png"
+dest_files=[ "res://.import/flower_redA.png-34de8c7fc2634f4a3e94470ada7a9231.stex" ]
 
 [params]
 

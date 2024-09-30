@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree-tall.glb-dc0ffec595a17c10d158518fd1377475.scn"
+path="res://.import/tree-tall.glb-f97360a1ed76616334d2f22126daf402.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/tree-tall.glb"
-dest_files=[ "res://.import/tree-tall.glb-dc0ffec595a17c10d158518fd1377475.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tree-tall.glb"
+dest_files=[ "res://.import/tree-tall.glb-f97360a1ed76616334d2f22126daf402.scn" ]
 
 [params]
 

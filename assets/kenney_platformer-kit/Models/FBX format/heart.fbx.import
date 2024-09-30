@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/heart.fbx-fa82daf29823719a1b7a08ceb0f764bd.scn"
+path="res://.import/heart.fbx-1ddc41557238d03a793e02cc98a2e91b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/heart.fbx"
-dest_files=[ "res://.import/heart.fbx-fa82daf29823719a1b7a08ceb0f764bd.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/heart.fbx"
+dest_files=[ "res://.import/heart.fbx-1ddc41557238d03a793e02cc98a2e91b.scn" ]
 
 [params]
 

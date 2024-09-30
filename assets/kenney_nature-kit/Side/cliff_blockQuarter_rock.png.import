@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cliff_blockQuarter_rock.png-4b4327b49cbb3bf5ab9f282a500553ff.stex"
+path="res://.import/cliff_blockQuarter_rock.png-801c24e68dead11794fc1d1504aeb250.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/cliff_blockQuarter_rock.png"
-dest_files=[ "res://.import/cliff_blockQuarter_rock.png-4b4327b49cbb3bf5ab9f282a500553ff.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/cliff_blockQuarter_rock.png"
+dest_files=[ "res://.import/cliff_blockQuarter_rock.png-801c24e68dead11794fc1d1504aeb250.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/statue_column.png-1ffccf586f542a4c5951af7e7f255819.stex"
+path="res://.import/statue_column.png-25db2a6b77301157037340786dd8bd83.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/statue_column.png"
-dest_files=[ "res://.import/statue_column.png-1ffccf586f542a4c5951af7e7f255819.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/statue_column.png"
+dest_files=[ "res://.import/statue_column.png-25db2a6b77301157037340786dd8bd83.stex" ]
 
 [params]
 

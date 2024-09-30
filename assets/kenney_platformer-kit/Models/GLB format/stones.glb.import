@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stones.glb-75b81b53e45d24f7ae8b572b74b38ef4.scn"
+path="res://.import/stones.glb-810b7ee45b838643990ff25ec4b39b52.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/stones.glb"
-dest_files=[ "res://.import/stones.glb-75b81b53e45d24f7ae8b572b74b38ef4.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/stones.glb"
+dest_files=[ "res://.import/stones.glb-810b7ee45b838643990ff25ec4b39b52.scn" ]
 
 [params]
 

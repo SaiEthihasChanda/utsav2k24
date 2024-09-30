@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-hoe-upgraded.glb-195229f8040a49f77dd086828c270027.scn"
+path="res://.import/tool-hoe-upgraded.glb-a17bbdf0680fada8f1064a6ef78cc55c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/tool-hoe-upgraded.glb"
-dest_files=[ "res://.import/tool-hoe-upgraded.glb-195229f8040a49f77dd086828c270027.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tool-hoe-upgraded.glb"
+dest_files=[ "res://.import/tool-hoe-upgraded.glb-a17bbdf0680fada8f1064a6ef78cc55c.scn" ]
 
 [params]
 

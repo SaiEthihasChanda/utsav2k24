@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-curve.fbx-c9bd7d7d2ebd02d8a07397a1c226a878.scn"
+path="res://.import/block-grass-curve.fbx-459df3657784cc6a0af50992ce0ad0d5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-curve.fbx"
-dest_files=[ "res://.import/block-grass-curve.fbx-c9bd7d7d2ebd02d8a07397a1c226a878.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-grass-curve.fbx"
+dest_files=[ "res://.import/block-grass-curve.fbx-459df3657784cc6a0af50992ce0ad0d5.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-curve-half.glb-c96057fc6db5fb07dc957ab6f61d098f.scn"
+path="res://.import/block-grass-curve-half.glb-36bbe0eb953e62a3e1a5cb0ba11633bd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-curve-half.glb"
-dest_files=[ "res://.import/block-grass-curve-half.glb-c96057fc6db5fb07dc957ab6f61d098f.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-grass-curve-half.glb"
+dest_files=[ "res://.import/block-grass-curve-half.glb-36bbe0eb953e62a3e1a5cb0ba11633bd.scn" ]
 
 [params]
 

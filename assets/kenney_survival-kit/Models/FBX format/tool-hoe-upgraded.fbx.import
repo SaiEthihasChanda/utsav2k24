@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-hoe-upgraded.fbx-5bf9e4007892d0ff348aa4f5ff73e075.scn"
+path="res://.import/tool-hoe-upgraded.fbx-1fb11b24f607d51c6048341c0f0cd5db.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/tool-hoe-upgraded.fbx"
-dest_files=[ "res://.import/tool-hoe-upgraded.fbx-5bf9e4007892d0ff348aa4f5ff73e075.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/tool-hoe-upgraded.fbx"
+dest_files=[ "res://.import/tool-hoe-upgraded.fbx-1fb11b24f607d51c6048341c0f0cd5db.scn" ]
 
 [params]
 

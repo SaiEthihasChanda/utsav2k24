@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ladder-broken.png-df11ca44670e2460228103525cb4bac3.stex"
+path="res://.import/ladder-broken.png-28beac801362b80a06251952409d6444.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/ladder-broken.png"
-dest_files=[ "res://.import/ladder-broken.png-df11ca44670e2460228103525cb4bac3.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/ladder-broken.png"
+dest_files=[ "res://.import/ladder-broken.png-28beac801362b80a06251952409d6444.stex" ]
 
 [params]
 

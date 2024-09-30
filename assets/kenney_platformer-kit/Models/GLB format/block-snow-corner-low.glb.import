@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-corner-low.glb-15420bc9e563f7cfeb95ab9124207bfb.scn"
+path="res://.import/block-snow-corner-low.glb-54dccca713ed8c631393cc243e0d9723.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-corner-low.glb"
-dest_files=[ "res://.import/block-snow-corner-low.glb-15420bc9e563f7cfeb95ab9124207bfb.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-snow-corner-low.glb"
+dest_files=[ "res://.import/block-snow-corner-low.glb-54dccca713ed8c631393cc243e0d9723.scn" ]
 
 [params]
 

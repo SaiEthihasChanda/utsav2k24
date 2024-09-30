@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-overhang-large-slope-steep-narrow.fbx-a864779876774df2291e61bb396394b0.scn"
+path="res://.import/block-snow-overhang-large-slope-steep-narrow.fbx-e3e578aefd587897e7e081d4a37ef6a7.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-overhang-large-slope-steep-narrow.fbx"
-dest_files=[ "res://.import/block-snow-overhang-large-slope-steep-narrow.fbx-a864779876774df2291e61bb396394b0.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-overhang-large-slope-steep-narrow.fbx"
+dest_files=[ "res://.import/block-snow-overhang-large-slope-steep-narrow.fbx-e3e578aefd587897e7e081d4a37ef6a7.scn" ]
 
 [params]
 

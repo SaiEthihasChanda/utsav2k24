@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree-log-small.png-a18caaca20b7e5ef05d36eafbb96c88a.stex"
+path="res://.import/tree-log-small.png-b165eb920d584a922f8c589048acfc4d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/tree-log-small.png"
-dest_files=[ "res://.import/tree-log-small.png-a18caaca20b7e5ef05d36eafbb96c88a.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tree-log-small.png"
+dest_files=[ "res://.import/tree-log-small.png-b165eb920d584a922f8c589048acfc4d.stex" ]
 
 [params]
 

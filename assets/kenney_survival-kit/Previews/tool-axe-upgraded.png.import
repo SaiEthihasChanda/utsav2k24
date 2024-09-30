@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tool-axe-upgraded.png-6a28ee6c560cd3f22fcdcea5ebc0e83e.stex"
+path="res://.import/tool-axe-upgraded.png-e521451b311ed4c1a8e265989810bef6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/tool-axe-upgraded.png"
-dest_files=[ "res://.import/tool-axe-upgraded.png-6a28ee6c560cd3f22fcdcea5ebc0e83e.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tool-axe-upgraded.png"
+dest_files=[ "res://.import/tool-axe-upgraded.png-e521451b311ed4c1a8e265989810bef6.stex" ]
 
 [params]
 

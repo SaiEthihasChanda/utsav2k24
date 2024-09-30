@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rock-flat.glb-3b995f190c8cc8171ab90abde8eaaa1c.scn"
+path="res://.import/rock-flat.glb-6c99088882c81c3b6040e7c83318cac0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/rock-flat.glb"
-dest_files=[ "res://.import/rock-flat.glb-3b995f190c8cc8171ab90abde8eaaa1c.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/rock-flat.glb"
+dest_files=[ "res://.import/rock-flat.glb-6c99088882c81c3b6040e7c83318cac0.scn" ]
 
 [params]
 

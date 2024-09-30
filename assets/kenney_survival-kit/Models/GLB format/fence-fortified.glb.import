@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence-fortified.glb-7d9d436017493d8cb34355ad354f6106.scn"
+path="res://.import/fence-fortified.glb-156500b10d64a09b27b73e7d54dc906c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/fence-fortified.glb"
-dest_files=[ "res://.import/fence-fortified.glb-7d9d436017493d8cb34355ad354f6106.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/fence-fortified.glb"
+dest_files=[ "res://.import/fence-fortified.glb-156500b10d64a09b27b73e7d54dc906c.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-low-large.fbx-f5c2d2fae2e027a518da7b61f0327fb6.scn"
+path="res://.import/block-snow-low-large.fbx-153041667ff903a5a2fbc9800056a7b4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-low-large.fbx"
-dest_files=[ "res://.import/block-snow-low-large.fbx-f5c2d2fae2e027a518da7b61f0327fb6.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-low-large.fbx"
+dest_files=[ "res://.import/block-snow-low-large.fbx-153041667ff903a5a2fbc9800056a7b4.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-hammer-upgraded.glb-c58e1b211e4d6a2350918652b0e00896.scn"
+path="res://.import/tool-hammer-upgraded.glb-db335e242bc1f714de47f7635c31dcd6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/tool-hammer-upgraded.glb"
-dest_files=[ "res://.import/tool-hammer-upgraded.glb-c58e1b211e4d6a2350918652b0e00896.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tool-hammer-upgraded.glb"
+dest_files=[ "res://.import/tool-hammer-upgraded.glb-db335e242bc1f714de47f7635c31dcd6.scn" ]
 
 [params]
 

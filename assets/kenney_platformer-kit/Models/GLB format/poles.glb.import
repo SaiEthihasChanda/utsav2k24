@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/poles.glb-6c06c7e03379e95764c991a6944a52f2.scn"
+path="res://.import/poles.glb-b5466cb1912b2f77b0da9cf76ffda3f1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/poles.glb"
-dest_files=[ "res://.import/poles.glb-6c06c7e03379e95764c991a6944a52f2.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/poles.glb"
+dest_files=[ "res://.import/poles.glb-b5466cb1912b2f77b0da9cf76ffda3f1.scn" ]
 
 [params]
 

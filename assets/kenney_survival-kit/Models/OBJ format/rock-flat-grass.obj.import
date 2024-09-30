@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rock-flat-grass.obj-0a2d9a5a30a5ea7649dd49c001ebdc30.mesh"
+path="res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh"
 
 [deps]
 
-files=[ "res://.import/rock-flat-grass.obj-0a2d9a5a30a5ea7649dd49c001ebdc30.mesh" ]
+files=[ "res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/rock-flat-grass.obj"
-dest_files=[ "res://.import/rock-flat-grass.obj-0a2d9a5a30a5ea7649dd49c001ebdc30.mesh", "res://.import/rock-flat-grass.obj-0a2d9a5a30a5ea7649dd49c001ebdc30.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/rock-flat-grass.obj"
+dest_files=[ "res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh", "res://.import/rock-flat-grass.obj-9fb0a5052f826111f5d74089d9c41c1e.mesh" ]
 
 [params]
 

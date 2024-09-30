@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence-low-straight.png-bb2a9f77f073b934fa920f32061c448d.stex"
+path="res://.import/fence-low-straight.png-88ab65e07a8865d43286b00725b57d3c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/fence-low-straight.png"
-dest_files=[ "res://.import/fence-low-straight.png-bb2a9f77f073b934fa920f32061c448d.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/fence-low-straight.png"
+dest_files=[ "res://.import/fence-low-straight.png-88ab65e07a8865d43286b00725b57d3c.stex" ]
 
 [params]
 

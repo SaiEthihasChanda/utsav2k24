@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/resource-planks.fbx-648635546eea0e46137565a96d49bc49.scn"
+path="res://.import/resource-planks.fbx-49e0a2b9faeb652e5e2790a0935ac0fa.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/resource-planks.fbx"
-dest_files=[ "res://.import/resource-planks.fbx-648635546eea0e46137565a96d49bc49.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/resource-planks.fbx"
+dest_files=[ "res://.import/resource-planks.fbx-49e0a2b9faeb652e5e2790a0935ac0fa.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/statue_obelisk.png-6eb33c2901445d4bcd339bea7da31713.stex"
+path="res://.import/statue_obelisk.png-378026c1d7cf9d883adc8b75361f5a0a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/statue_obelisk.png"
-dest_files=[ "res://.import/statue_obelisk.png-6eb33c2901445d4bcd339bea7da31713.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/statue_obelisk.png"
+dest_files=[ "res://.import/statue_obelisk.png-378026c1d7cf9d883adc8b75361f5a0a.stex" ]
 
 [params]
 

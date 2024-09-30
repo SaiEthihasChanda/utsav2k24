@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/spike-block-wide.obj-f0e0ac7b6b2f34fe677d803082eff2b9.mesh"
+path="res://.import/spike-block-wide.obj-9403c83bbaa2771a6dacaed6d05599a2.mesh"
 
 [deps]
 
-files=[ "res://.import/spike-block-wide.obj-f0e0ac7b6b2f34fe677d803082eff2b9.mesh" ]
+files=[ "res://.import/spike-block-wide.obj-9403c83bbaa2771a6dacaed6d05599a2.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/spike-block-wide.obj"
-dest_files=[ "res://.import/spike-block-wide.obj-f0e0ac7b6b2f34fe677d803082eff2b9.mesh", "res://.import/spike-block-wide.obj-f0e0ac7b6b2f34fe677d803082eff2b9.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/spike-block-wide.obj"
+dest_files=[ "res://.import/spike-block-wide.obj-9403c83bbaa2771a6dacaed6d05599a2.mesh", "res://.import/spike-block-wide.obj-9403c83bbaa2771a6dacaed6d05599a2.mesh" ]
 
 [params]
 

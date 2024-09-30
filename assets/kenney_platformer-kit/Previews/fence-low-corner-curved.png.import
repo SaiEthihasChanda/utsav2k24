@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence-low-corner-curved.png-5265c1d6db2b05a93e6360e7824e5487.stex"
+path="res://.import/fence-low-corner-curved.png-dd001af95e692eeec3bd36afefe02e6c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/fence-low-corner-curved.png"
-dest_files=[ "res://.import/fence-low-corner-curved.png-5265c1d6db2b05a93e6360e7824e5487.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/fence-low-corner-curved.png"
+dest_files=[ "res://.import/fence-low-corner-curved.png-dd001af95e692eeec3bd36afefe02e6c.stex" ]
 
 [params]
 

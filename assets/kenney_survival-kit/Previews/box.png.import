@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/box.png-790154a39358156926ecd3d5176f9d24.stex"
+path="res://.import/box.png-5fc74cbe4b683113e3f3b187cff58f88.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/box.png"
-dest_files=[ "res://.import/box.png-790154a39358156926ecd3d5176f9d24.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/box.png"
+dest_files=[ "res://.import/box.png-5fc74cbe4b683113e3f3b187cff58f88.stex" ]
 
 [params]
 

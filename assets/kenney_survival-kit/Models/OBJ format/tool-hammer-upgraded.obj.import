@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tool-hammer-upgraded.obj-64c0f9c6c6be5e4f3308716606caf86c.mesh"
+path="res://.import/tool-hammer-upgraded.obj-8543435c7472483f858befbe94fc5c9e.mesh"
 
 [deps]
 
-files=[ "res://.import/tool-hammer-upgraded.obj-64c0f9c6c6be5e4f3308716606caf86c.mesh" ]
+files=[ "res://.import/tool-hammer-upgraded.obj-8543435c7472483f858befbe94fc5c9e.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/tool-hammer-upgraded.obj"
-dest_files=[ "res://.import/tool-hammer-upgraded.obj-64c0f9c6c6be5e4f3308716606caf86c.mesh", "res://.import/tool-hammer-upgraded.obj-64c0f9c6c6be5e4f3308716606caf86c.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tool-hammer-upgraded.obj"
+dest_files=[ "res://.import/tool-hammer-upgraded.obj-8543435c7472483f858befbe94fc5c9e.mesh", "res://.import/tool-hammer-upgraded.obj-8543435c7472483f858befbe94fc5c9e.mesh" ]
 
 [params]
 

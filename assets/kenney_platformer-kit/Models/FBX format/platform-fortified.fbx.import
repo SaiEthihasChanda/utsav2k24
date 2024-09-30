@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/platform-fortified.fbx-f61f8ddc32fbd34533294bbb09af771e.scn"
+path="res://.import/platform-fortified.fbx-613139808953c0c99424c4765c760247.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/platform-fortified.fbx"
-dest_files=[ "res://.import/platform-fortified.fbx-f61f8ddc32fbd34533294bbb09af771e.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/platform-fortified.fbx"
+dest_files=[ "res://.import/platform-fortified.fbx-613139808953c0c99424c4765c760247.scn" ]
 
 [params]
 

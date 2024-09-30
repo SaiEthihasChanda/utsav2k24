@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/metal-panel-narrow.fbx-477213af7f80f88a77b23408d7132aaa.scn"
+path="res://.import/metal-panel-narrow.fbx-eee2c009d0519a12ab28fc5b315d2999.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/metal-panel-narrow.fbx"
-dest_files=[ "res://.import/metal-panel-narrow.fbx-477213af7f80f88a77b23408d7132aaa.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/metal-panel-narrow.fbx"
+dest_files=[ "res://.import/metal-panel-narrow.fbx-eee2c009d0519a12ab28fc5b315d2999.scn" ]
 
 [params]
 

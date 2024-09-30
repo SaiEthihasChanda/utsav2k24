@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire-pit.fbx-ca83380f89e62bca8f03357d7682eb48.scn"
+path="res://.import/campfire-pit.fbx-6ba200eff2da4a15af5afc09607be680.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/campfire-pit.fbx"
-dest_files=[ "res://.import/campfire-pit.fbx-ca83380f89e62bca8f03357d7682eb48.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/campfire-pit.fbx"
+dest_files=[ "res://.import/campfire-pit.fbx-6ba200eff2da4a15af5afc09607be680.scn" ]
 
 [params]
 

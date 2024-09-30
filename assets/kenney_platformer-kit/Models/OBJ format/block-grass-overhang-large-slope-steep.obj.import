@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-grass-overhang-large-slope-steep.obj-5571fadc95b22aee812d6563ab294aa7.mesh"
+path="res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh"
 
 [deps]
 
-files=[ "res://.import/block-grass-overhang-large-slope-steep.obj-5571fadc95b22aee812d6563ab294aa7.mesh" ]
+files=[ "res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-overhang-large-slope-steep.obj"
-dest_files=[ "res://.import/block-grass-overhang-large-slope-steep.obj-5571fadc95b22aee812d6563ab294aa7.mesh", "res://.import/block-grass-overhang-large-slope-steep.obj-5571fadc95b22aee812d6563ab294aa7.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-overhang-large-slope-steep.obj"
+dest_files=[ "res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh", "res://.import/block-grass-overhang-large-slope-steep.obj-084d365987eb62b6076469870b193239.mesh" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/canoe_paddle.png-9545aba0b8224949799f095cc0a5cbc8.stex"
+path="res://.import/canoe_paddle.png-d9371364fef1ee8356f77e97af091896.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/canoe_paddle.png"
-dest_files=[ "res://.import/canoe_paddle.png-9545aba0b8224949799f095cc0a5cbc8.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/canoe_paddle.png"
+dest_files=[ "res://.import/canoe_paddle.png-d9371364fef1ee8356f77e97af091896.stex" ]
 
 [params]
 

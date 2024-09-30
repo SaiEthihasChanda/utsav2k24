@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tool-hoe.png-ad9bb628dce6ee880fc43c7c6476fbb2.stex"
+path="res://.import/tool-hoe.png-46f973d4c49b766f8fee4ab5b8887c13.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/tool-hoe.png"
-dest_files=[ "res://.import/tool-hoe.png-ad9bb628dce6ee880fc43c7c6476fbb2.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tool-hoe.png"
+dest_files=[ "res://.import/tool-hoe.png-46f973d4c49b766f8fee4ab5b8887c13.stex" ]
 
 [params]
 

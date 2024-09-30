@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/campfire_logs.png-c8b37066b753405b94cd58e5a44d835c.stex"
+path="res://.import/campfire_logs.png-9aa75d6167377aa840684bf789aa5785.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/campfire_logs.png"
-dest_files=[ "res://.import/campfire_logs.png-c8b37066b753405b94cd58e5a44d835c.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/campfire_logs.png"
+dest_files=[ "res://.import/campfire_logs.png-9aa75d6167377aa840684bf789aa5785.stex" ]
 
 [params]
 

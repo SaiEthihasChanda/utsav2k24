@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/resource-wood.glb-3b7cc02eae46625cfbf117f6f5459faf.scn"
+path="res://.import/resource-wood.glb-e403ee5d6724ae1249f4d5a2ded5508f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/resource-wood.glb"
-dest_files=[ "res://.import/resource-wood.glb-3b7cc02eae46625cfbf117f6f5459faf.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/resource-wood.glb"
+dest_files=[ "res://.import/resource-wood.glb-e403ee5d6724ae1249f4d5a2ded5508f.scn" ]
 
 [params]
 

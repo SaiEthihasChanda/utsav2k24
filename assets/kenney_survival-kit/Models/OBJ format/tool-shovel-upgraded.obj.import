@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tool-shovel-upgraded.obj-ca6a668a229934b01d825410b56e281e.mesh"
+path="res://.import/tool-shovel-upgraded.obj-854eaf72c7720860351c2eb48f9d3d41.mesh"
 
 [deps]
 
-files=[ "res://.import/tool-shovel-upgraded.obj-ca6a668a229934b01d825410b56e281e.mesh" ]
+files=[ "res://.import/tool-shovel-upgraded.obj-854eaf72c7720860351c2eb48f9d3d41.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/tool-shovel-upgraded.obj"
-dest_files=[ "res://.import/tool-shovel-upgraded.obj-ca6a668a229934b01d825410b56e281e.mesh", "res://.import/tool-shovel-upgraded.obj-ca6a668a229934b01d825410b56e281e.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tool-shovel-upgraded.obj"
+dest_files=[ "res://.import/tool-shovel-upgraded.obj-854eaf72c7720860351c2eb48f9d3d41.mesh", "res://.import/tool-shovel-upgraded.obj-854eaf72c7720860351c2eb48f9d3d41.mesh" ]
 
 [params]
 

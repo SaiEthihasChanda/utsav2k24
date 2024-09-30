@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree-autumn-trunk.glb-e76db37af247bb11855e4238045e651f.scn"
+path="res://.import/tree-autumn-trunk.glb-5390df5e7b2a1db3178655144187a573.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/tree-autumn-trunk.glb"
-dest_files=[ "res://.import/tree-autumn-trunk.glb-e76db37af247bb11855e4238045e651f.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tree-autumn-trunk.glb"
+dest_files=[ "res://.import/tree-autumn-trunk.glb-5390df5e7b2a1db3178655144187a573.scn" ]
 
 [params]
 

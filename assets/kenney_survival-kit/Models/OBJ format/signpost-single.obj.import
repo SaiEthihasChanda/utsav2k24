@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/signpost-single.obj-482b3209ada9870322dad59bca184ca3.mesh"
+path="res://.import/signpost-single.obj-a0748bc6dd8dd0e55e760929be91e34b.mesh"
 
 [deps]
 
-files=[ "res://.import/signpost-single.obj-482b3209ada9870322dad59bca184ca3.mesh" ]
+files=[ "res://.import/signpost-single.obj-a0748bc6dd8dd0e55e760929be91e34b.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/signpost-single.obj"
-dest_files=[ "res://.import/signpost-single.obj-482b3209ada9870322dad59bca184ca3.mesh", "res://.import/signpost-single.obj-482b3209ada9870322dad59bca184ca3.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/signpost-single.obj"
+dest_files=[ "res://.import/signpost-single.obj-a0748bc6dd8dd0e55e760929be91e34b.mesh", "res://.import/signpost-single.obj-a0748bc6dd8dd0e55e760929be91e34b.mesh" ]
 
 [params]
 

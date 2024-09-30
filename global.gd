@@ -5,6 +5,7 @@ extends Node
 # var a = 2
 # var b = "text"
 var energy_points = 30
+var energy_threshold = 100
 
 # Called when the node enters the scene tree for the first time.
 func _ready():

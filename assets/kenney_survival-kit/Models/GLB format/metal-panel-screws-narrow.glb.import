@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/metal-panel-screws-narrow.glb-d4329d98a83f01e3186f6a978191d42b.scn"
+path="res://.import/metal-panel-screws-narrow.glb-706d285b9d361c442bb677c210590fc3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/metal-panel-screws-narrow.glb"
-dest_files=[ "res://.import/metal-panel-screws-narrow.glb-d4329d98a83f01e3186f6a978191d42b.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/metal-panel-screws-narrow.glb"
+dest_files=[ "res://.import/metal-panel-screws-narrow.glb-706d285b9d361c442bb677c210590fc3.scn" ]
 
 [params]
 

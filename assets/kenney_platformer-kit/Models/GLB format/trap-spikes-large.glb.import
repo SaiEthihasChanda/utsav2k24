@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trap-spikes-large.glb-8f86e251f121bddffa985209c17243b7.scn"
+path="res://.import/trap-spikes-large.glb-5ba8627b8d1501e37537bc8b7ccafeaa.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/trap-spikes-large.glb"
-dest_files=[ "res://.import/trap-spikes-large.glb-8f86e251f121bddffa985209c17243b7.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/trap-spikes-large.glb"
+dest_files=[ "res://.import/trap-spikes-large.glb-5ba8627b8d1501e37537bc8b7ccafeaa.scn" ]
 
 [params]
 

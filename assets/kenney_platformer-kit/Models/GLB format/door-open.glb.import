@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-open.glb-9c6250bd41ea7fa36ed9b25cfc402645.scn"
+path="res://.import/door-open.glb-c7b6a12925368cd0c61f1acd52bb163f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/door-open.glb"
-dest_files=[ "res://.import/door-open.glb-9c6250bd41ea7fa36ed9b25cfc402645.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/door-open.glb"
+dest_files=[ "res://.import/door-open.glb-c7b6a12925368cd0c61f1acd52bb163f.scn" ]
 
 [params]
 

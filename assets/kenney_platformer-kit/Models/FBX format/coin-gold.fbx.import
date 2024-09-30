@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/coin-gold.fbx-7d60a1605a0fbbf7923a0e73210f962d.scn"
+path="res://.import/coin-gold.fbx-2f125806d48aec736afa9687a4de996c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/coin-gold.fbx"
-dest_files=[ "res://.import/coin-gold.fbx-7d60a1605a0fbbf7923a0e73210f962d.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/coin-gold.fbx"
+dest_files=[ "res://.import/coin-gold.fbx-2f125806d48aec736afa9687a4de996c.scn" ]
 
 [params]
 

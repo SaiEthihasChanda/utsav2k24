@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structure-canvas.fbx-9478bbed1d3fee1a8198a2ed2db9a4b0.scn"
+path="res://.import/structure-canvas.fbx-c8c001785d6b5aee946d6b574f4ed57a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/structure-canvas.fbx"
-dest_files=[ "res://.import/structure-canvas.fbx-9478bbed1d3fee1a8198a2ed2db9a4b0.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/structure-canvas.fbx"
+dest_files=[ "res://.import/structure-canvas.fbx-c8c001785d6b5aee946d6b574f4ed57a.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-edge.fbx-7a45440e0edf671268689a6514db05e1.scn"
+path="res://.import/block-snow-edge.fbx-a8a3cb685a74e82d3a90aee09a67f679.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-edge.fbx"
-dest_files=[ "res://.import/block-snow-edge.fbx-7a45440e0edf671268689a6514db05e1.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-edge.fbx"
+dest_files=[ "res://.import/block-snow-edge.fbx-a8a3cb685a74e82d3a90aee09a67f679.scn" ]
 
 [params]
 

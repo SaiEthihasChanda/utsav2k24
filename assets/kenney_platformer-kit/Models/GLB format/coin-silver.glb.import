@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/coin-silver.glb-03e2a6f03cfbfc00b0ccf956860e80b9.scn"
+path="res://.import/coin-silver.glb-441c1d863ee6eba549ce1958a5f9ec1c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/coin-silver.glb"
-dest_files=[ "res://.import/coin-silver.glb-03e2a6f03cfbfc00b0ccf956860e80b9.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/coin-silver.glb"
+dest_files=[ "res://.import/coin-silver.glb-441c1d863ee6eba549ce1958a5f9ec1c.scn" ]
 
 [params]
 

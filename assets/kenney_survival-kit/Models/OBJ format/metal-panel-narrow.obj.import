@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/metal-panel-narrow.obj-d73a6ec51caea742f24ec898b8cd1da7.mesh"
+path="res://.import/metal-panel-narrow.obj-b2ec4522ecd7838067729114280226e6.mesh"
 
 [deps]
 
-files=[ "res://.import/metal-panel-narrow.obj-d73a6ec51caea742f24ec898b8cd1da7.mesh" ]
+files=[ "res://.import/metal-panel-narrow.obj-b2ec4522ecd7838067729114280226e6.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/metal-panel-narrow.obj"
-dest_files=[ "res://.import/metal-panel-narrow.obj-d73a6ec51caea742f24ec898b8cd1da7.mesh", "res://.import/metal-panel-narrow.obj-d73a6ec51caea742f24ec898b8cd1da7.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/metal-panel-narrow.obj"
+dest_files=[ "res://.import/metal-panel-narrow.obj-b2ec4522ecd7838067729114280226e6.mesh", "res://.import/metal-panel-narrow.obj-b2ec4522ecd7838067729114280226e6.mesh" ]
 
 [params]
 

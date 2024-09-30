@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/door-rotate-large.png-8985ffc1a3517674a14ef669d4d777bc.stex"
+path="res://.import/door-rotate-large.png-1d4313bcd6a999d0ed7a7cbb46069328.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/door-rotate-large.png"
-dest_files=[ "res://.import/door-rotate-large.png-8985ffc1a3517674a14ef669d4d777bc.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/door-rotate-large.png"
+dest_files=[ "res://.import/door-rotate-large.png-1d4313bcd6a999d0ed7a7cbb46069328.stex" ]
 
 [params]
 

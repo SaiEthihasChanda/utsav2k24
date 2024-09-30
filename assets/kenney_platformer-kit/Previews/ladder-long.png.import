@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ladder-long.png-805af01f7d50cbc31dc38c511e2c96a9.stex"
+path="res://.import/ladder-long.png-199578a20225961ab4652bb17b90242e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/ladder-long.png"
-dest_files=[ "res://.import/ladder-long.png-805af01f7d50cbc31dc38c511e2c96a9.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/ladder-long.png"
+dest_files=[ "res://.import/ladder-long.png-199578a20225961ab4652bb17b90242e.stex" ]
 
 [params]
 

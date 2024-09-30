@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-rotate.fbx-554894f73e0e4b7e1ae3dde48c2e3b18.scn"
+path="res://.import/door-rotate.fbx-752d219fcd4aa65354bbf8641c4be8cc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/door-rotate.fbx"
-dest_files=[ "res://.import/door-rotate.fbx-554894f73e0e4b7e1ae3dde48c2e3b18.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/door-rotate.fbx"
+dest_files=[ "res://.import/door-rotate.fbx-752d219fcd4aa65354bbf8641c4be8cc.scn" ]
 
 [params]
 

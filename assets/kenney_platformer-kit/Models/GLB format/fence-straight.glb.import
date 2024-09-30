@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence-straight.glb-46b7fcd6424b36364a3ad5dc26313666.scn"
+path="res://.import/fence-straight.glb-4217c46139c89d7f623c3ff30fb3b9b5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/fence-straight.glb"
-dest_files=[ "res://.import/fence-straight.glb-46b7fcd6424b36364a3ad5dc26313666.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/fence-straight.glb"
+dest_files=[ "res://.import/fence-straight.glb-4217c46139c89d7f623c3ff30fb3b9b5.scn" ]
 
 [params]
 

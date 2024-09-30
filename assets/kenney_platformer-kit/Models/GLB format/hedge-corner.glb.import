@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hedge-corner.glb-008aa86e2a2b0e8a36d1c401d559a043.scn"
+path="res://.import/hedge-corner.glb-efa51cadb4ed17b577364363fd936930.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/hedge-corner.glb"
-dest_files=[ "res://.import/hedge-corner.glb-008aa86e2a2b0e8a36d1c401d559a043.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/hedge-corner.glb"
+dest_files=[ "res://.import/hedge-corner.glb-efa51cadb4ed17b577364363fd936930.scn" ]
 
 [params]
 

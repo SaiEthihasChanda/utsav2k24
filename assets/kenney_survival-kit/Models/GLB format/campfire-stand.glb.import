@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire-stand.glb-53873a608660b99653cd3c9402338f44.scn"
+path="res://.import/campfire-stand.glb-bebb0578c1888f307f9feb729ae13f52.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/campfire-stand.glb"
-dest_files=[ "res://.import/campfire-stand.glb-53873a608660b99653cd3c9402338f44.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/campfire-stand.glb"
+dest_files=[ "res://.import/campfire-stand.glb-bebb0578c1888f307f9feb729ae13f52.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crops_cornStageC.png-e5e5a559823d0fc5ae454c8f4c03900a.stex"
+path="res://.import/crops_cornStageC.png-349662bedfdeea7f3b6617e72f82caa1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/crops_cornStageC.png"
-dest_files=[ "res://.import/crops_cornStageC.png-e5e5a559823d0fc5ae454c8f4c03900a.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/crops_cornStageC.png"
+dest_files=[ "res://.import/crops_cornStageC.png-349662bedfdeea7f3b6617e72f82caa1.stex" ]
 
 [params]
 

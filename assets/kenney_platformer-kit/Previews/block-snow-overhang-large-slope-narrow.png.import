@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-snow-overhang-large-slope-narrow.png-16a572d1e90cc627f3f6aa37df45bae5.stex"
+path="res://.import/block-snow-overhang-large-slope-narrow.png-e257184b257f8c0adf3e73a081b16c20.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-snow-overhang-large-slope-narrow.png"
-dest_files=[ "res://.import/block-snow-overhang-large-slope-narrow.png-16a572d1e90cc627f3f6aa37df45bae5.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-snow-overhang-large-slope-narrow.png"
+dest_files=[ "res://.import/block-snow-overhang-large-slope-narrow.png-e257184b257f8c0adf3e73a081b16c20.stex" ]
 
 [params]
 

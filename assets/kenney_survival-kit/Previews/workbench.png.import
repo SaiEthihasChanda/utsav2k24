@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/workbench.png-04f987bb7574ad6373500a7ec13a67df.stex"
+path="res://.import/workbench.png-58021d207fb4b4f74bf5689863f6d3b8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/workbench.png"
-dest_files=[ "res://.import/workbench.png-04f987bb7574ad6373500a7ec13a67df.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/workbench.png"
+dest_files=[ "res://.import/workbench.png-58021d207fb4b4f74bf5689863f6d3b8.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-overhang-large-slope.fbx-c767aeb4f95bee83fd13d2678cd0cfc3.scn"
+path="res://.import/block-grass-overhang-large-slope.fbx-24a452bc1391fa51d9f82b0a7586d639.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-large-slope.fbx"
-dest_files=[ "res://.import/block-grass-overhang-large-slope.fbx-c767aeb4f95bee83fd13d2678cd0cfc3.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-large-slope.fbx"
+dest_files=[ "res://.import/block-grass-overhang-large-slope.fbx-24a452bc1391fa51d9f82b0a7586d639.scn" ]
 
 [params]
 

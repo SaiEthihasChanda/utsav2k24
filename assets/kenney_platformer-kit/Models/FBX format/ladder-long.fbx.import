@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ladder-long.fbx-7a22dde12368ef58307017d513ce969b.scn"
+path="res://.import/ladder-long.fbx-b6edbb877cd01196b33974c7020b7320.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/ladder-long.fbx"
-dest_files=[ "res://.import/ladder-long.fbx-7a22dde12368ef58307017d513ce969b.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/ladder-long.fbx"
+dest_files=[ "res://.import/ladder-long.fbx-b6edbb877cd01196b33974c7020b7320.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-overhang-large-slope-steep-narrow.glb-1e0aed82f1792575005bbed0ca7c6f9e.scn"
+path="res://.import/block-grass-overhang-large-slope-steep-narrow.glb-fe10c482610808899fd7a913d453071b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-overhang-large-slope-steep-narrow.glb"
-dest_files=[ "res://.import/block-grass-overhang-large-slope-steep-narrow.glb-1e0aed82f1792575005bbed0ca7c6f9e.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-grass-overhang-large-slope-steep-narrow.glb"
+dest_files=[ "res://.import/block-grass-overhang-large-slope-steep-narrow.glb-fe10c482610808899fd7a913d453071b.scn" ]
 
 [params]
 

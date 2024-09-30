@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bottle-large.fbx-b9e3b039f213d306cd1a255f9afdd9d0.scn"
+path="res://.import/bottle-large.fbx-cb722a831d7c9c8449144b8127eb268c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/bottle-large.fbx"
-dest_files=[ "res://.import/bottle-large.fbx-b9e3b039f213d306cd1a255f9afdd9d0.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/bottle-large.fbx"
+dest_files=[ "res://.import/bottle-large.fbx-cb722a831d7c9c8449144b8127eb268c.scn" ]
 
 [params]
 

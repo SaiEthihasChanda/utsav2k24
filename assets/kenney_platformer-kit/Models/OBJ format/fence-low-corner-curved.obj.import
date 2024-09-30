@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/fence-low-corner-curved.obj-dc230ec1c724ba3ea092e5283ec26d53.mesh"
+path="res://.import/fence-low-corner-curved.obj-f9116dfec34e076716c630d98f9c1208.mesh"
 
 [deps]
 
-files=[ "res://.import/fence-low-corner-curved.obj-dc230ec1c724ba3ea092e5283ec26d53.mesh" ]
+files=[ "res://.import/fence-low-corner-curved.obj-f9116dfec34e076716c630d98f9c1208.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/fence-low-corner-curved.obj"
-dest_files=[ "res://.import/fence-low-corner-curved.obj-dc230ec1c724ba3ea092e5283ec26d53.mesh", "res://.import/fence-low-corner-curved.obj-dc230ec1c724ba3ea092e5283ec26d53.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/fence-low-corner-curved.obj"
+dest_files=[ "res://.import/fence-low-corner-curved.obj-f9116dfec34e076716c630d98f9c1208.mesh", "res://.import/fence-low-corner-curved.obj-f9116dfec34e076716c630d98f9c1208.mesh" ]
 
 [params]
 

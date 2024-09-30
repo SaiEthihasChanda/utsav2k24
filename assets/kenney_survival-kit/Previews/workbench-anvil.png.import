@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/workbench-anvil.png-5f11af6a83947e693d17a2454441878f.stex"
+path="res://.import/workbench-anvil.png-a49b594c05a5294354394325d70a8d2f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/workbench-anvil.png"
-dest_files=[ "res://.import/workbench-anvil.png-5f11af6a83947e693d17a2454441878f.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/workbench-anvil.png"
+dest_files=[ "res://.import/workbench-anvil.png-a49b594c05a5294354394325d70a8d2f.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence-doorway.fbx-10f896d7fbd9954eb4765f22dd660dbc.scn"
+path="res://.import/fence-doorway.fbx-48752e56618555bc8e9e1bcd0e6d881a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/fence-doorway.fbx"
-dest_files=[ "res://.import/fence-doorway.fbx-10f896d7fbd9954eb4765f22dd660dbc.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/fence-doorway.fbx"
+dest_files=[ "res://.import/fence-doorway.fbx-48752e56618555bc8e9e1bcd0e6d881a.scn" ]
 
 [params]
 

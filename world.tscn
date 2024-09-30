@@ -1,20 +1,23 @@
-[gd_scene load_steps=10 format=2]
+[gd_scene load_steps=14 format=2]
 
 [ext_resource path="res://turbine.tscn" type="PackedScene" id=1]
 [ext_resource path="res://house.tscn" type="PackedScene" id=2]
 [ext_resource path="res://SolarPanel.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Battery.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Camera.gd" type="Script" id=5]
 
 [sub_resource type="CubeMesh" id=1]
 
-[sub_resource type="BoxShape" id=2]
+[sub_resource type="ConcavePolygonShape" id=7]
+data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1 )
 
 [sub_resource type="GDScript" id=3]
 script/source = "extends KinematicBody
 
-const GRAVITY = -9.8
-const JUMP_FORCE = 10
+const GRAVITY = -15
+const JUMP_FORCE = 6
 const MOVE_SPEED = 10
-const MOUSE_SENSITIVITY = 0.1
+const MOUSE_SENSITIVITY = 0.01
 const MAX_FALL_SPEED = 50
 
 var velocity = Vector3.ZERO
@@ -35,7 +38,7 @@ func _ready():
 func _unhandled_input(event):
 	if event is InputEventMouseMotion:
 		rotation.y -= event.relative.x * MOUSE_SENSITIVITY
-		y_rotation -= event.relative.y * MOUSE_SENSITIVITY
+		y_rotation -= event.relative.y * MOUSE_SENSITIVITY*10
 		y_rotation = clamp(y_rotation, -90, 90)
 		camera.rotation_degrees.x = y_rotation
 	
@@ -78,30 +81,43 @@ func handle_movement(delta):
 		velocity.y = -MAX_FALL_SPEED
 
 func place_instance():
-	# Perform a raycast from the camera to a fixed distance (end of ray)
-	var ray_origin = camera.global_transform.origin
-	var ray_direction = -camera.global_transform.basis.z.normalized() * 10
-
-	# Calculate the end point of the ray (instead of where the ray hits)
-	var ray_end = ray_origin + ray_direction
-
-	# Create an instance of the scene
-	var instance = scene_to_place.instance()
+	# Get the existing RayCast node attached to the camera
+	var ray = $Camera.get_node(\"RayCast\")
 	
-	# Place it at the end of the ray
-	instance.global_transform.origin = ray_end
-	get_parent().add_child(instance) # Add the instance to the scene
+	# Ensure the RayCast is enabled
+	ray.enabled = true
+	
+	# Set the ray's direction to point forward from the camera
+	#ray.cast_to = camera.global_transform.basis.z * -10
+	
+	# Force the RayCast to update and check if it hits the \"land\" node
+	ray.force_raycast_update()
+	if ray.is_colliding():
+		var collider = ray.get_collider()
+		print(collider.name)
+		
+		# Check if the object hit by the ray is the \"landcoll\" node
+		if collider.name == \"landcoll\":
+			var collision_point = ray.get_collision_point()
+			ray.enabled = false
+			collision_point.y += 0.2  # Slight upward adjustment
+			
+			# Create an instance of the scene
+			var instance = scene_to_place.instance()
+			
+			# Place it at the adjusted collision point
+			instance.global_transform.origin = collision_point
+			
+			# Adjust the size if needed
+			instance.scale = Vector3(4.5, 4.5, 4.5)
+			
+			# Add the instance to the scene
+			get_parent().add_child(instance)
+			
+			# Reset placement mode
+			ray.enabled = true
+			instance_ready_to_place = false
 
-	# Adjust position after instancing (optional):
-	# Example: Move the instance slightly back from the ray end (closer to the player)
-	var adjustment = Vector3(0, 0, -5) # Adjust it by 5 units backward along the Z axis
-	instance.global_transform.origin += adjustment
-	instance.scale.x = 4.5
-	instance.scale.y = 4.5
-	instance.scale.z = 4.5
-
-	# Reset placement mode
-	instance_ready_to_place = false
 
 "
 
@@ -113,6 +129,12 @@ albedo_color = Color( 0.25098, 0.964706, 0.0745098, 1 )
 [sub_resource type="CapsuleMesh" id=6]
 material = SubResource( 5 )
 
+[sub_resource type="SpatialMaterial" id=8]
+albedo_color = Color( 0.964706, 0.482353, 0.133333, 1 )
+
+[sub_resource type="SphereMesh" id=9]
+material = SubResource( 8 )
+
 [node name="world" type="Spatial"]
 
 [node name="land" type="StaticBody" parent="."]
@@ -122,8 +144,10 @@ transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
 mesh = SubResource( 1 )
 material/0 = null
 
-[node name="CollisionShape" type="CollisionShape" parent="land"]
-shape = SubResource( 2 )
+[node name="landcoll" type="StaticBody" parent="land/MeshInstance"]
+
+[node name="CollisionShape" type="CollisionShape" parent="land/MeshInstance/landcoll"]
+shape = SubResource( 7 )
 
 [node name="jeff" type="KinematicBody" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.12696, 10.9699 )
@@ -139,13 +163,32 @@ mesh = SubResource( 6 )
 material/0 = null
 
 [node name="Camera" type="Camera" parent="jeff"]
-transform = Transform( -1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 1.35706, -0.318151 )
+transform = Transform( -1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 1.1911, 0.439435 )
+script = ExtResource( 5 )
+
+[node name="RayCast" type="RayCast" parent="jeff/Camera"]
+transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, -0.268587, 0 )
+enabled = true
+cast_to = Vector3( 0, -10, 0 )
+
+[node name="MeshInstance" type="MeshInstance" parent="jeff/Camera"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.56864e-07, 0, -2.93819 )
+mesh = SubResource( 9 )
+material/0 = null
 
 [node name="building-sample-house-c" parent="." instance=ExtResource( 2 )]
 transform = Transform( 8, 0, 0, 0, 8, 0, 0, 0, 8, 5.15056, 1.20079, -8.93666 )
 
 [node name="Solar Panel" parent="." instance=ExtResource( 3 )]
-transform = Transform( 4.5, 0, 0, 0, 4.5, 0, 0, 0, 4.5, 15.5218, 0.86904, 3.99975 )
+transform = Transform( 4.5, 0, 0, 0, 4.5, 0, 0, 0, 4.5, 15.5218, 1.38946, 3.99975 )
 
 [node name="uploads_files_2424344_Windturbine" parent="." instance=ExtResource( 1 )]
 transform = Transform( 0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, 19.3324, 1.28245, 6.03852 )
+
+[node name="Battery" parent="." instance=ExtResource( 4 )]
+transform = Transform( 5, 0, 0, 0, 5, 0, 0, 0, 5, -5.31461, 1.7052, -2.62717 )
+
+[node name="DirectionalLight" type="DirectionalLight" parent="."]
+transform = Transform( 0.632827, 0.318066, -0.705949, 0, 0.911733, 0.410782, 0.774293, -0.259954, 0.576969, -14.3647, 45.5294, 50.2979 )
+light_energy = 0.7
+shadow_enabled = true

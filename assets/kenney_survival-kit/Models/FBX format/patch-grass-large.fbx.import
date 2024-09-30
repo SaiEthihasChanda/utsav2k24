@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/patch-grass-large.fbx-256e13b84ee0b315719b46434eed0344.scn"
+path="res://.import/patch-grass-large.fbx-33d91b12010a578c2b8828566223fa5e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/patch-grass-large.fbx"
-dest_files=[ "res://.import/patch-grass-large.fbx-256e13b84ee0b315719b46434eed0344.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/patch-grass-large.fbx"
+dest_files=[ "res://.import/patch-grass-large.fbx-33d91b12010a578c2b8828566223fa5e.scn" ]
 
 [params]
 

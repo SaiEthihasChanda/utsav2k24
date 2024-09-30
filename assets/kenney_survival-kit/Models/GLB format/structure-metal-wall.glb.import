@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structure-metal-wall.glb-7ff2beaeef3c3c978da77863ea658013.scn"
+path="res://.import/structure-metal-wall.glb-ab0ec6307c5508e0a92b605a38dbcec6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/structure-metal-wall.glb"
-dest_files=[ "res://.import/structure-metal-wall.glb-7ff2beaeef3c3c978da77863ea658013.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/structure-metal-wall.glb"
+dest_files=[ "res://.import/structure-metal-wall.glb-ab0ec6307c5508e0a92b605a38dbcec6.scn" ]
 
 [params]
 

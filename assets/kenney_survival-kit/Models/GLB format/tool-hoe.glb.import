@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-hoe.glb-c1f58c11c1ee988b52eee33fb68ab2bc.scn"
+path="res://.import/tool-hoe.glb-ecb277855fbbcda771ae4a6b7b1f2106.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/tool-hoe.glb"
-dest_files=[ "res://.import/tool-hoe.glb-c1f58c11c1ee988b52eee33fb68ab2bc.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tool-hoe.glb"
+dest_files=[ "res://.import/tool-hoe.glb-ecb277855fbbcda771ae4a6b7b1f2106.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-snow-edge.png-dc3eb03397d36ccf2c5d81c4a0cb285a.stex"
+path="res://.import/block-snow-edge.png-d7a1c322bad6c8dcbef38485e819dd0f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-snow-edge.png"
-dest_files=[ "res://.import/block-snow-edge.png-dc3eb03397d36ccf2c5d81c4a0cb285a.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-snow-edge.png"
+dest_files=[ "res://.import/block-snow-edge.png-d7a1c322bad6c8dcbef38485e819dd0f.stex" ]
 
 [params]
 

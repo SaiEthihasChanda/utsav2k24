@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree-log.glb-a36e5542086f07054d8189437c481370.scn"
+path="res://.import/tree-log.glb-4f7fbfb5e380b8e8cda1951b321e588a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/tree-log.glb"
-dest_files=[ "res://.import/tree-log.glb-a36e5542086f07054d8189437c481370.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tree-log.glb"
+dest_files=[ "res://.import/tree-log.glb-4f7fbfb5e380b8e8cda1951b321e588a.scn" ]
 
 [params]
 

@@ -1,18 +1,16 @@
 extends Spatial
 
+# Declare member variables here
+var time_passed: float = 0.0  # Variable to track time
 
-# Declare member variables here. Examples:
-# var a = 2
-# var b = "text"
-
-
-# Called when the node enters the scene tree for the first time.
+# Called when the node enters the scene tree for the first time
 func _ready():
 	print(sing.energy_points)
-	pass # Replace with function body.
 
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
+# Called every frame
 func _process(delta):
-	sing.energy_points +=1
-	print(sing.energy_points)
+	time_passed += delta  # Accumulate time passed
+	if time_passed >= 5.0 and  sing.energy_points !=sing.energy_threshold :  # Check if 5 seconds have passed
+		sing.energy_points += 1  # Increment energy points
+		print(sing.energy_points)
+		time_passed = 0.0  # Reset the timer

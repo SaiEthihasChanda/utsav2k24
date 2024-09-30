@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flowers.png-1576f224be89b6e17ccb154039fadd0e.stex"
+path="res://.import/flowers.png-bff9df03433ef61197786b4e256e399e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/flowers.png"
-dest_files=[ "res://.import/flowers.png-1576f224be89b6e17ccb154039fadd0e.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/flowers.png"
+dest_files=[ "res://.import/flowers.png-bff9df03433ef61197786b4e256e399e.stex" ]
 
 [params]
 

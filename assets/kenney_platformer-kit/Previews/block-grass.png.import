@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-grass.png-4e6111d757c06e31805cf5aed4f9ba6b.stex"
+path="res://.import/block-grass.png-41aa4f7889fa51bc4fad15c3c5f9093c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-grass.png"
-dest_files=[ "res://.import/block-grass.png-4e6111d757c06e31805cf5aed4f9ba6b.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-grass.png"
+dest_files=[ "res://.import/block-grass.png-41aa4f7889fa51bc4fad15c3c5f9093c.stex" ]
 
 [params]
 

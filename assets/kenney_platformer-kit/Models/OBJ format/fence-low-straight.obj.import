@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/fence-low-straight.obj-1034b93792c74f545e585285bb8711d1.mesh"
+path="res://.import/fence-low-straight.obj-919c0307271db9408107ea70056ff6b6.mesh"
 
 [deps]
 
-files=[ "res://.import/fence-low-straight.obj-1034b93792c74f545e585285bb8711d1.mesh" ]
+files=[ "res://.import/fence-low-straight.obj-919c0307271db9408107ea70056ff6b6.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/fence-low-straight.obj"
-dest_files=[ "res://.import/fence-low-straight.obj-1034b93792c74f545e585285bb8711d1.mesh", "res://.import/fence-low-straight.obj-1034b93792c74f545e585285bb8711d1.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/fence-low-straight.obj"
+dest_files=[ "res://.import/fence-low-straight.obj-919c0307271db9408107ea70056ff6b6.mesh", "res://.import/fence-low-straight.obj-919c0307271db9408107ea70056ff6b6.mesh" ]
 
 [params]
 

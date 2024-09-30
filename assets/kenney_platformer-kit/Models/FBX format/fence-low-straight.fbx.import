@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence-low-straight.fbx-c2bb045f37d20072c247e4ccf46ad1f4.scn"
+path="res://.import/fence-low-straight.fbx-ff8867c0a37fd0147d6012f4aa8f82dc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/fence-low-straight.fbx"
-dest_files=[ "res://.import/fence-low-straight.fbx-c2bb045f37d20072c247e4ccf46ad1f4.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/fence-low-straight.fbx"
+dest_files=[ "res://.import/fence-low-straight.fbx-ff8867c0a37fd0147d6012f4aa8f82dc.scn" ]
 
 [params]
 

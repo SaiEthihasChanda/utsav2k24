@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/workbench-grind.png-bfe8800824636dc8ad0c9d5fa96f6916.stex"
+path="res://.import/workbench-grind.png-5762f58715d6f4905b4e30530b789246.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/workbench-grind.png"
-dest_files=[ "res://.import/workbench-grind.png-bfe8800824636dc8ad0c9d5fa96f6916.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/workbench-grind.png"
+dest_files=[ "res://.import/workbench-grind.png-5762f58715d6f4905b4e30530b789246.stex" ]
 
 [params]
 

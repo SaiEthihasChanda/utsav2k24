@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/flowers.fbx-4461b6b1e557178dd5b535222b8318c2.scn"
+path="res://.import/flowers.fbx-53eda15033c033decf683153e4c4de0f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/flowers.fbx"
-dest_files=[ "res://.import/flowers.fbx-4461b6b1e557178dd5b535222b8318c2.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/flowers.fbx"
+dest_files=[ "res://.import/flowers.fbx-53eda15033c033decf683153e4c4de0f.scn" ]
 
 [params]
 

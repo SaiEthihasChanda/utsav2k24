@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/colormap.png-28c871c201c180b3841bf715c0832d53.s3tc.stex"
-path.etc2="res://.import/colormap.png-28c871c201c180b3841bf715c0832d53.etc2.stex"
+path.s3tc="res://.import/colormap.png-3bb19c5fa21ee2375943f1b765899b5a.s3tc.stex"
+path.etc2="res://.import/colormap.png-3bb19c5fa21ee2375943f1b765899b5a.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/Textures/colormap.png"
-dest_files=[ "res://.import/colormap.png-28c871c201c180b3841bf715c0832d53.s3tc.stex", "res://.import/colormap.png-28c871c201c180b3841bf715c0832d53.etc2.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/Textures/colormap.png"
+dest_files=[ "res://.import/colormap.png-3bb19c5fa21ee2375943f1b765899b5a.s3tc.stex", "res://.import/colormap.png-3bb19c5fa21ee2375943f1b765899b5a.etc2.stex" ]
 
 [params]
 

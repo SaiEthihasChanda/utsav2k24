@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/resource-planks.png-7a94be00af0958cf9fc1c0c925218023.stex"
+path="res://.import/resource-planks.png-c1ba4c2e83e0c8c1c1ba9edc905f7c29.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/resource-planks.png"
-dest_files=[ "res://.import/resource-planks.png-7a94be00af0958cf9fc1c0c925218023.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/resource-planks.png"
+dest_files=[ "res://.import/resource-planks.png-c1ba4c2e83e0c8c1c1ba9edc905f7c29.stex" ]
 
 [params]
 

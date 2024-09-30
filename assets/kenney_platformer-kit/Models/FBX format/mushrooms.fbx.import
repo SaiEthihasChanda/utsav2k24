@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/mushrooms.fbx-98b9096aed1bdf7e660ec403bcd491ee.scn"
+path="res://.import/mushrooms.fbx-ded7d2b4069935189246108dfcd281e2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/mushrooms.fbx"
-dest_files=[ "res://.import/mushrooms.fbx-98b9096aed1bdf7e660ec403bcd491ee.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/mushrooms.fbx"
+dest_files=[ "res://.import/mushrooms.fbx-ded7d2b4069935189246108dfcd281e2.scn" ]
 
 [params]
 

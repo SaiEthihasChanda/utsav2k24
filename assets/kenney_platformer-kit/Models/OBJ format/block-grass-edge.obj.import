@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-grass-edge.obj-f293c4d4fe5d77fad322fef1df5c3290.mesh"
+path="res://.import/block-grass-edge.obj-eb5972b7cb627f2478b16dd181a4e69f.mesh"
 
 [deps]
 
-files=[ "res://.import/block-grass-edge.obj-f293c4d4fe5d77fad322fef1df5c3290.mesh" ]
+files=[ "res://.import/block-grass-edge.obj-eb5972b7cb627f2478b16dd181a4e69f.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-edge.obj"
-dest_files=[ "res://.import/block-grass-edge.obj-f293c4d4fe5d77fad322fef1df5c3290.mesh", "res://.import/block-grass-edge.obj-f293c4d4fe5d77fad322fef1df5c3290.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-edge.obj"
+dest_files=[ "res://.import/block-grass-edge.obj-eb5972b7cb627f2478b16dd181a4e69f.mesh", "res://.import/block-grass-edge.obj-eb5972b7cb627f2478b16dd181a4e69f.mesh" ]
 
 [params]
 

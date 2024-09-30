@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/grass-large.obj-a69475e61f86716f97278f36e0530b4d.mesh"
+path="res://.import/grass-large.obj-9cb1c755777ad3be0d8eaed8c65eef16.mesh"
 
 [deps]
 
-files=[ "res://.import/grass-large.obj-a69475e61f86716f97278f36e0530b4d.mesh" ]
+files=[ "res://.import/grass-large.obj-9cb1c755777ad3be0d8eaed8c65eef16.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/grass-large.obj"
-dest_files=[ "res://.import/grass-large.obj-a69475e61f86716f97278f36e0530b4d.mesh", "res://.import/grass-large.obj-a69475e61f86716f97278f36e0530b4d.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/grass-large.obj"
+dest_files=[ "res://.import/grass-large.obj-9cb1c755777ad3be0d8eaed8c65eef16.mesh", "res://.import/grass-large.obj-9cb1c755777ad3be0d8eaed8c65eef16.mesh" ]
 
 [params]
 

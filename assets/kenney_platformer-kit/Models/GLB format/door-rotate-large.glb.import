@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-rotate-large.glb-7dc5f7403817688490ef4c7a99476946.scn"
+path="res://.import/door-rotate-large.glb-0822ccf0f237a7110fc2ef841cca1c11.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/door-rotate-large.glb"
-dest_files=[ "res://.import/door-rotate-large.glb-7dc5f7403817688490ef4c7a99476946.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/door-rotate-large.glb"
+dest_files=[ "res://.import/door-rotate-large.glb-0822ccf0f237a7110fc2ef841cca1c11.scn" ]
 
 [params]
 

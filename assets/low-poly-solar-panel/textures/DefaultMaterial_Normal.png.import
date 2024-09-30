@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DefaultMaterial_Normal.png-f4ba21438c8fc034bb6e3f4360811ea0.stex"
+path="res://.import/DefaultMaterial_Normal.png-b1caa3c0b1955b5e5ec6c1b6f98f210b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/low-poly-solar-panel/textures/DefaultMaterial_Normal.png"
-dest_files=[ "res://.import/DefaultMaterial_Normal.png-f4ba21438c8fc034bb6e3f4360811ea0.stex" ]
+source_file="res://utsav2k24/assets/low-poly-solar-panel/textures/DefaultMaterial_Normal.png"
+dest_files=[ "res://.import/DefaultMaterial_Normal.png-b1caa3c0b1955b5e5ec6c1b6f98f210b.stex" ]
 
 [params]
 

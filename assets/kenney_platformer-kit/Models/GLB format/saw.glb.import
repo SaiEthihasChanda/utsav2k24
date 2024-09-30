@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/saw.glb-28ff8c4376d5a7ff2b1e83efea831424.scn"
+path="res://.import/saw.glb-e8373a6f959468c85b0a0eccf00c3209.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/saw.glb"
-dest_files=[ "res://.import/saw.glb-28ff8c4376d5a7ff2b1e83efea831424.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/saw.glb"
+dest_files=[ "res://.import/saw.glb-e8373a6f959468c85b0a0eccf00c3209.scn" ]
 
 [params]
 

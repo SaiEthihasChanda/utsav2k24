@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crop_pumpkin.png-eff06ee7729603940af45898f3de99a1.stex"
+path="res://.import/crop_pumpkin.png-5e1daa9ab7aed33e3ae65b42f164c0f4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/crop_pumpkin.png"
-dest_files=[ "res://.import/crop_pumpkin.png-eff06ee7729603940af45898f3de99a1.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/crop_pumpkin.png"
+dest_files=[ "res://.import/crop_pumpkin.png-5e1daa9ab7aed33e3ae65b42f164c0f4.stex" ]
 
 [params]
 

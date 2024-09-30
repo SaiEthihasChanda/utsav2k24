@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structure-metal-doorway.fbx-2fc98b2734c9094f967fe67176145de1.scn"
+path="res://.import/structure-metal-doorway.fbx-649a6a484bd1cdc4ee1f093e3b8ce280.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/structure-metal-doorway.fbx"
-dest_files=[ "res://.import/structure-metal-doorway.fbx-2fc98b2734c9094f967fe67176145de1.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/structure-metal-doorway.fbx"
+dest_files=[ "res://.import/structure-metal-doorway.fbx-649a6a484bd1cdc4ee1f093e3b8ce280.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-low-narrow.glb-b6f6f5c5acf0626f0d3606545956a2c6.scn"
+path="res://.import/block-grass-low-narrow.glb-f44fdb4bc295811e7f8eeea4462cae73.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-low-narrow.glb"
-dest_files=[ "res://.import/block-grass-low-narrow.glb-b6f6f5c5acf0626f0d3606545956a2c6.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-grass-low-narrow.glb"
+dest_files=[ "res://.import/block-grass-low-narrow.glb-f44fdb4bc295811e7f8eeea4462cae73.scn" ]
 
 [params]
 

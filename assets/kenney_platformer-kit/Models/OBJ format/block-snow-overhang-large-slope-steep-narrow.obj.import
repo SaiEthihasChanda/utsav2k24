@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-snow-overhang-large-slope-steep-narrow.obj-612cc3c77e82b409d09b183f3f748049.mesh"
+path="res://.import/block-snow-overhang-large-slope-steep-narrow.obj-c5549fb6106ffd477621b612fd1202e6.mesh"
 
 [deps]
 
-files=[ "res://.import/block-snow-overhang-large-slope-steep-narrow.obj-612cc3c77e82b409d09b183f3f748049.mesh" ]
+files=[ "res://.import/block-snow-overhang-large-slope-steep-narrow.obj-c5549fb6106ffd477621b612fd1202e6.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-snow-overhang-large-slope-steep-narrow.obj"
-dest_files=[ "res://.import/block-snow-overhang-large-slope-steep-narrow.obj-612cc3c77e82b409d09b183f3f748049.mesh", "res://.import/block-snow-overhang-large-slope-steep-narrow.obj-612cc3c77e82b409d09b183f3f748049.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-snow-overhang-large-slope-steep-narrow.obj"
+dest_files=[ "res://.import/block-snow-overhang-large-slope-steep-narrow.obj-c5549fb6106ffd477621b612fd1202e6.mesh", "res://.import/block-snow-overhang-large-slope-steep-narrow.obj-c5549fb6106ffd477621b612fd1202e6.mesh" ]
 
 [params]
 

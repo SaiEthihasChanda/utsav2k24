@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sign.png-6c4d9bfae30ec23d54aed9f1e69ea4f5.stex"
+path="res://.import/sign.png-ac537d533d9f6845269751e47ead4df7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/sign.png"
-dest_files=[ "res://.import/sign.png-6c4d9bfae30ec23d54aed9f1e69ea4f5.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/sign.png"
+dest_files=[ "res://.import/sign.png-ac537d533d9f6845269751e47ead4df7.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/poles.png-a536a8b9bba619bb60eb4e1f46adc3dc.stex"
+path="res://.import/poles.png-a78a6b311885ad25ff5502301214388b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/poles.png"
-dest_files=[ "res://.import/poles.png-a536a8b9bba619bb60eb4e1f46adc3dc.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/poles.png"
+dest_files=[ "res://.import/poles.png-a78a6b311885ad25ff5502301214388b.stex" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tool-hoe-upgraded.obj-6b34d72503030251be496f1af860e14b.mesh"
+path="res://.import/tool-hoe-upgraded.obj-ada24208ca2ea169ed8cf3d750660442.mesh"
 
 [deps]
 
-files=[ "res://.import/tool-hoe-upgraded.obj-6b34d72503030251be496f1af860e14b.mesh" ]
+files=[ "res://.import/tool-hoe-upgraded.obj-ada24208ca2ea169ed8cf3d750660442.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/tool-hoe-upgraded.obj"
-dest_files=[ "res://.import/tool-hoe-upgraded.obj-6b34d72503030251be496f1af860e14b.mesh", "res://.import/tool-hoe-upgraded.obj-6b34d72503030251be496f1af860e14b.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tool-hoe-upgraded.obj"
+dest_files=[ "res://.import/tool-hoe-upgraded.obj-ada24208ca2ea169ed8cf3d750660442.mesh", "res://.import/tool-hoe-upgraded.obj-ada24208ca2ea169ed8cf3d750660442.mesh" ]
 
 [params]
 

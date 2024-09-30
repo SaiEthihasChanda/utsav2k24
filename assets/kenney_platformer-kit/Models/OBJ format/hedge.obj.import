@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh"
+path="res://.import/hedge.obj-7af899f1a7ab78f3595352b29bf12dc5.mesh"
 
 [deps]
 
-files=[ "res://.import/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh" ]
+files=[ "res://.import/hedge.obj-7af899f1a7ab78f3595352b29bf12dc5.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/hedge.obj"
-dest_files=[ "res://.import/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh", "res://.import/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/hedge.obj"
+dest_files=[ "res://.import/hedge.obj-7af899f1a7ab78f3595352b29bf12dc5.mesh", "res://.import/hedge.obj-7af899f1a7ab78f3595352b29bf12dc5.mesh" ]
 
 [params]
 

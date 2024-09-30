@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/structure-metal-doorway.png-4bd56660d660efe6577cdf0694572faf.stex"
+path="res://.import/structure-metal-doorway.png-5f5b13feb936ecb67b03da2c9969e6b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/structure-metal-doorway.png"
-dest_files=[ "res://.import/structure-metal-doorway.png-4bd56660d660efe6577cdf0694572faf.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/structure-metal-doorway.png"
+dest_files=[ "res://.import/structure-metal-doorway.png-5f5b13feb936ecb67b03da2c9969e6b6.stex" ]
 
 [params]
 

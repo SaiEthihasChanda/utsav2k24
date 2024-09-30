@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stump_oldTall.png-855cc83d1818f59898dbe8a259ad6efd.stex"
+path="res://.import/stump_oldTall.png-387b7c8fff0b0bdb0126ac2b68a70861.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/stump_oldTall.png"
-dest_files=[ "res://.import/stump_oldTall.png-855cc83d1818f59898dbe8a259ad6efd.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/stump_oldTall.png"
+dest_files=[ "res://.import/stump_oldTall.png-387b7c8fff0b0bdb0126ac2b68a70861.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fish.fbx-e0e233b598a3108aaf38a2d577c8f1d3.scn"
+path="res://.import/fish.fbx-e08c5f6f30cb89c405af97d264c92537.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/fish.fbx"
-dest_files=[ "res://.import/fish.fbx-e0e233b598a3108aaf38a2d577c8f1d3.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/fish.fbx"
+dest_files=[ "res://.import/fish.fbx-e08c5f6f30cb89c405af97d264c92537.scn" ]
 
 [params]
 

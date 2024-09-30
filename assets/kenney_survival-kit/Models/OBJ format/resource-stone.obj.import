@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/resource-stone.obj-82b4369d5849802f9d6f8ca0e3c1972e.mesh"
+path="res://.import/resource-stone.obj-8b34fded06ef5e963ee817f5c63a4095.mesh"
 
 [deps]
 
-files=[ "res://.import/resource-stone.obj-82b4369d5849802f9d6f8ca0e3c1972e.mesh" ]
+files=[ "res://.import/resource-stone.obj-8b34fded06ef5e963ee817f5c63a4095.mesh" ]
 
-source_file="res://assets/kenney_survival-kit/Models/OBJ format/resource-stone.obj"
-dest_files=[ "res://.import/resource-stone.obj-82b4369d5849802f9d6f8ca0e3c1972e.mesh", "res://.import/resource-stone.obj-82b4369d5849802f9d6f8ca0e3c1972e.mesh" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/resource-stone.obj"
+dest_files=[ "res://.import/resource-stone.obj-8b34fded06ef5e963ee817f5c63a4095.mesh", "res://.import/resource-stone.obj-8b34fded06ef5e963ee817f5c63a4095.mesh" ]
 
 [params]
 

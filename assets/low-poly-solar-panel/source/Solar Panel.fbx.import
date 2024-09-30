@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Solar Panel.fbx-11ec8f0a90321bf3c12a973cf608a792.scn"
+path="res://.import/Solar Panel.fbx-40844558066bf79ebf71607cbd7f8bc6.scn"
 
 [deps]
 
-source_file="res://assets/low-poly-solar-panel/source/Solar Panel.fbx"
-dest_files=[ "res://.import/Solar Panel.fbx-11ec8f0a90321bf3c12a973cf608a792.scn" ]
+source_file="res://utsav2k24/assets/low-poly-solar-panel/source/Solar Panel.fbx"
+dest_files=[ "res://.import/Solar Panel.fbx-40844558066bf79ebf71607cbd7f8bc6.scn" ]
 
 [params]
 

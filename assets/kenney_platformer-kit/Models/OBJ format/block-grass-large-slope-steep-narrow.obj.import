@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-grass-large-slope-steep-narrow.obj-ff382f6596ee67f62d82fdb0b7e603fb.mesh"
+path="res://.import/block-grass-large-slope-steep-narrow.obj-d98a210ebb92f04be82a069a9a71d701.mesh"
 
 [deps]
 
-files=[ "res://.import/block-grass-large-slope-steep-narrow.obj-ff382f6596ee67f62d82fdb0b7e603fb.mesh" ]
+files=[ "res://.import/block-grass-large-slope-steep-narrow.obj-d98a210ebb92f04be82a069a9a71d701.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-large-slope-steep-narrow.obj"
-dest_files=[ "res://.import/block-grass-large-slope-steep-narrow.obj-ff382f6596ee67f62d82fdb0b7e603fb.mesh", "res://.import/block-grass-large-slope-steep-narrow.obj-ff382f6596ee67f62d82fdb0b7e603fb.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-large-slope-steep-narrow.obj"
+dest_files=[ "res://.import/block-grass-large-slope-steep-narrow.obj-d98a210ebb92f04be82a069a9a71d701.mesh", "res://.import/block-grass-large-slope-steep-narrow.obj-d98a210ebb92f04be82a069a9a71d701.mesh" ]
 
 [params]
 

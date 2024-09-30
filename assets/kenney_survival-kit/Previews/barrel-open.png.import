@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barrel-open.png-93a9bedd4c09ab2ba2069dc83310acee.stex"
+path="res://.import/barrel-open.png-aa4b8380c3b3eaed21d1aa0abf9c7949.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/barrel-open.png"
-dest_files=[ "res://.import/barrel-open.png-93a9bedd4c09ab2ba2069dc83310acee.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/barrel-open.png"
+dest_files=[ "res://.import/barrel-open.png-aa4b8380c3b3eaed21d1aa0abf9c7949.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-corner-overhang.fbx-89b274176e1bf3dd1fd75e4451164bc6.scn"
+path="res://.import/block-snow-corner-overhang.fbx-5520647cec67a7bd3fd2ef49e37b162a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-corner-overhang.fbx"
-dest_files=[ "res://.import/block-snow-corner-overhang.fbx-89b274176e1bf3dd1fd75e4451164bc6.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-corner-overhang.fbx"
+dest_files=[ "res://.import/block-snow-corner-overhang.fbx-5520647cec67a7bd3fd2ef49e37b162a.scn" ]
 
 [params]
 

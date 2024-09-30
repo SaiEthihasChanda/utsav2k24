@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/jewel.glb-c7217596f5676281c33356ba2c37af14.scn"
+path="res://.import/jewel.glb-0a4296266b86232e8ae873773630d1e3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/jewel.glb"
-dest_files=[ "res://.import/jewel.glb-c7217596f5676281c33356ba2c37af14.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/jewel.glb"
+dest_files=[ "res://.import/jewel.glb-0a4296266b86232e8ae873773630d1e3.scn" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/DefaultMaterial_Base_color.png-e86653976badc682bd8dcf6f6570c9d1.s3tc.stex"
-path.etc2="res://.import/DefaultMaterial_Base_color.png-e86653976badc682bd8dcf6f6570c9d1.etc2.stex"
+path.s3tc="res://.import/DefaultMaterial_Base_color.png-f4abb2618815d66a34806223b5425519.s3tc.stex"
+path.etc2="res://.import/DefaultMaterial_Base_color.png-f4abb2618815d66a34806223b5425519.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/low-poly-solar-panel/textures/DefaultMaterial_Base_color.png"
-dest_files=[ "res://.import/DefaultMaterial_Base_color.png-e86653976badc682bd8dcf6f6570c9d1.s3tc.stex", "res://.import/DefaultMaterial_Base_color.png-e86653976badc682bd8dcf6f6570c9d1.etc2.stex" ]
+source_file="res://utsav2k24/assets/low-poly-solar-panel/textures/DefaultMaterial_Base_color.png"
+dest_files=[ "res://.import/DefaultMaterial_Base_color.png-f4abb2618815d66a34806223b5425519.s3tc.stex", "res://.import/DefaultMaterial_Base_color.png-f4abb2618815d66a34806223b5425519.etc2.stex" ]
 
 [params]
 

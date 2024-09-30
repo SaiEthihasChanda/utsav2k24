@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/campfire-pit.png-5e157c44233a5acca687f4565a78cc6e.stex"
+path="res://.import/campfire-pit.png-7ef1582290381d616396357f536ea49c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/campfire-pit.png"
-dest_files=[ "res://.import/campfire-pit.png-5e157c44233a5acca687f4565a78cc6e.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/campfire-pit.png"
+dest_files=[ "res://.import/campfire-pit.png-7ef1582290381d616396357f536ea49c.stex" ]
 
 [params]
 

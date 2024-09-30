@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/metal-panel.png-52ad26f82032143d69a79ebcb20bf79e.stex"
+path="res://.import/metal-panel.png-7a11556521a13de61b00f34c768f615a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Previews/metal-panel.png"
-dest_files=[ "res://.import/metal-panel.png-52ad26f82032143d69a79ebcb20bf79e.stex" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/metal-panel.png"
+dest_files=[ "res://.import/metal-panel.png-7a11556521a13de61b00f34c768f615a.stex" ]
 
 [params]
 

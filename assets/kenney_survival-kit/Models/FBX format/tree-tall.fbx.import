@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree-tall.fbx-2c744f0e97ed43d0a61627dcb9b40aba.scn"
+path="res://.import/tree-tall.fbx-6ded0c23cbfd93e2fedbb54af289ca69.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/tree-tall.fbx"
-dest_files=[ "res://.import/tree-tall.fbx-2c744f0e97ed43d0a61627dcb9b40aba.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/tree-tall.fbx"
+dest_files=[ "res://.import/tree-tall.fbx-6ded0c23cbfd93e2fedbb54af289ca69.scn" ]
 
 [params]
 

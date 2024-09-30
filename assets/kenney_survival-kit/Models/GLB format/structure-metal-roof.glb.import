@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structure-metal-roof.glb-96b502dd6004d8ccc814bb48f426a9b6.scn"
+path="res://.import/structure-metal-roof.glb-5650f98cbee5802ad8cf97b4e2a4a977.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/structure-metal-roof.glb"
-dest_files=[ "res://.import/structure-metal-roof.glb-96b502dd6004d8ccc814bb48f426a9b6.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/structure-metal-roof.glb"
+dest_files=[ "res://.import/structure-metal-roof.glb-5650f98cbee5802ad8cf97b4e2a4a977.scn" ]
 
 [params]
 

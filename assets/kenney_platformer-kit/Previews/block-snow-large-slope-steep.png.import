@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-snow-large-slope-steep.png-a362d4adff77fadbb2f2838c462e9673.stex"
+path="res://.import/block-snow-large-slope-steep.png-2868f2768125cd2ebbc75841677d671e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-snow-large-slope-steep.png"
-dest_files=[ "res://.import/block-snow-large-slope-steep.png-a362d4adff77fadbb2f2838c462e9673.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-snow-large-slope-steep.png"
+dest_files=[ "res://.import/block-snow-large-slope-steep.png-2868f2768125cd2ebbc75841677d671e.stex" ]
 
 [params]
 

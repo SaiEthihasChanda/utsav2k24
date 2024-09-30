@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mushrooms.png-942039e19cdaa016c86f29a0c07e18ef.stex"
+path="res://.import/mushrooms.png-370874e43f91a01d91e23adeead3082b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/mushrooms.png"
-dest_files=[ "res://.import/mushrooms.png-942039e19cdaa016c86f29a0c07e18ef.stex" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/mushrooms.png"
+dest_files=[ "res://.import/mushrooms.png-370874e43f91a01d91e23adeead3082b.stex" ]
 
 [params]
 

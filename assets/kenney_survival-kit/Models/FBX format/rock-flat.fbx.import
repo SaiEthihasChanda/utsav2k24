@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rock-flat.fbx-8c3f86895c9e74fd09b20fa7ced06493.scn"
+path="res://.import/rock-flat.fbx-9942375309542fce816ca34012e735f2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/rock-flat.fbx"
-dest_files=[ "res://.import/rock-flat.fbx-8c3f86895c9e74fd09b20fa7ced06493.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/rock-flat.fbx"
+dest_files=[ "res://.import/rock-flat.fbx-9942375309542fce816ca34012e735f2.scn" ]
 
 [params]
 

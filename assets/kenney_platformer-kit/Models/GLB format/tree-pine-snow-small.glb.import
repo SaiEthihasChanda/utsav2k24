@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree-pine-snow-small.glb-0229b2e9750e6f011403e52979f39fe2.scn"
+path="res://.import/tree-pine-snow-small.glb-0f8428beb8025117f86bff56af6ed9dd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/tree-pine-snow-small.glb"
-dest_files=[ "res://.import/tree-pine-snow-small.glb-0229b2e9750e6f011403e52979f39fe2.scn" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/tree-pine-snow-small.glb"
+dest_files=[ "res://.import/tree-pine-snow-small.glb-0f8428beb8025117f86bff56af6ed9dd.scn" ]
 
 [params]
 

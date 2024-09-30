@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lily_small.png-f504cc48e82cad85356ac3a8381a13cd.stex"
+path="res://.import/lily_small.png-f1c0d628c3dca25321041f86fbd6f501.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/lily_small.png"
-dest_files=[ "res://.import/lily_small.png-f504cc48e82cad85356ac3a8381a13cd.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Side/lily_small.png"
+dest_files=[ "res://.import/lily_small.png-f1c0d628c3dca25321041f86fbd6f501.stex" ]
 
 [params]
 

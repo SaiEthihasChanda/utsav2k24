@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/trap-spikes-large.obj-a0caaa68cab33837e4ec5f5400dc50c9.mesh"
+path="res://.import/trap-spikes-large.obj-469629e21cc1316e8b66958beef1e998.mesh"
 
 [deps]
 
-files=[ "res://.import/trap-spikes-large.obj-a0caaa68cab33837e4ec5f5400dc50c9.mesh" ]
+files=[ "res://.import/trap-spikes-large.obj-469629e21cc1316e8b66958beef1e998.mesh" ]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/trap-spikes-large.obj"
-dest_files=[ "res://.import/trap-spikes-large.obj-a0caaa68cab33837e4ec5f5400dc50c9.mesh", "res://.import/trap-spikes-large.obj-a0caaa68cab33837e4ec5f5400dc50c9.mesh" ]
+source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/trap-spikes-large.obj"
+dest_files=[ "res://.import/trap-spikes-large.obj-469629e21cc1316e8b66958beef1e998.mesh", "res://.import/trap-spikes-large.obj-469629e21cc1316e8b66958beef1e998.mesh" ]
 
 [params]
 

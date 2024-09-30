@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bedroll-frame.glb-faecd4afa5eff9f54edd7b2e31445fc0.scn"
+path="res://.import/bedroll-frame.glb-1cf7d304219de1180e3f302776c86126.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/GLB format/bedroll-frame.glb"
-dest_files=[ "res://.import/bedroll-frame.glb-faecd4afa5eff9f54edd7b2e31445fc0.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/bedroll-frame.glb"
+dest_files=[ "res://.import/bedroll-frame.glb-1cf7d304219de1180e3f302776c86126.scn" ]
 
 [params]
 

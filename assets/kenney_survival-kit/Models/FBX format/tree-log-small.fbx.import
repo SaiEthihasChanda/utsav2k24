@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree-log-small.fbx-ff45eaa8dd0cc2a4bf35e199b2ed1f8b.scn"
+path="res://.import/tree-log-small.fbx-f890a989b695723093125de52fe239b6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_survival-kit/Models/FBX format/tree-log-small.fbx"
-dest_files=[ "res://.import/tree-log-small.fbx-ff45eaa8dd0cc2a4bf35e199b2ed1f8b.scn" ]
+source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/tree-log-small.fbx"
+dest_files=[ "res://.import/tree-log-small.fbx-f890a989b695723093125de52fe239b6.scn" ]
 
 [params]
 
