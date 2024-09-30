@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tent-canvas.obj-d3c6122c2d63e3c698d6ae8843735c62.mesh"
+path="res://.import/tent-canvas.obj-021be58df735d4a187bb45a922987e76.mesh"
 
 [deps]
 
-files=[ "res://.import/tent-canvas.obj-d3c6122c2d63e3c698d6ae8843735c62.mesh" ]
+files=[ "res://.import/tent-canvas.obj-021be58df735d4a187bb45a922987e76.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tent-canvas.obj"
-dest_files=[ "res://.import/tent-canvas.obj-d3c6122c2d63e3c698d6ae8843735c62.mesh", "res://.import/tent-canvas.obj-d3c6122c2d63e3c698d6ae8843735c62.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/tent-canvas.obj"
+dest_files=[ "res://.import/tent-canvas.obj-021be58df735d4a187bb45a922987e76.mesh", "res://.import/tent-canvas.obj-021be58df735d4a187bb45a922987e76.mesh" ]
 
 [params]
 

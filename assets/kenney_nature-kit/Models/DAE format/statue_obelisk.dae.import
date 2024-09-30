@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/statue_obelisk.dae-5a27a3801121721b6b567d5faad0993f.scn"
+path="res://.import/statue_obelisk.dae-646a1cd7252ce65cbefbc25a3661babd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/statue_obelisk.dae"
-dest_files=[ "res://.import/statue_obelisk.dae-5a27a3801121721b6b567d5faad0993f.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/statue_obelisk.dae"
+dest_files=[ "res://.import/statue_obelisk.dae-646a1cd7252ce65cbefbc25a3661babd.scn" ]
 
 [params]
 

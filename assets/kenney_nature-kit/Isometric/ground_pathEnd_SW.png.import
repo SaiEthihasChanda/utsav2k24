@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_pathEnd_SW.png-a0ac89e5779e85d96126f80c462ed486.stex"
+path="res://.import/ground_pathEnd_SW.png-8583b4ae5a9bfc63d001bb8bd6d5ef9b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/ground_pathEnd_SW.png"
-dest_files=[ "res://.import/ground_pathEnd_SW.png-a0ac89e5779e85d96126f80c462ed486.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/ground_pathEnd_SW.png"
+dest_files=[ "res://.import/ground_pathEnd_SW.png-8583b4ae5a9bfc63d001bb8bd6d5ef9b.stex" ]
 
 [params]
 

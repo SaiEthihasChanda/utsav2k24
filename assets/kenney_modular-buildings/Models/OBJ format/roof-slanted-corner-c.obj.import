@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/roof-slanted-corner-c.obj-691eb1aec8f4d5bc4b70e85bd593fc2d.mesh"
+path="res://.import/roof-slanted-corner-c.obj-c3f962b7a5fd5789ebc92a5ef05f901c.mesh"
 
 [deps]
 
-files=[ "res://.import/roof-slanted-corner-c.obj-691eb1aec8f4d5bc4b70e85bd593fc2d.mesh" ]
+files=[ "res://.import/roof-slanted-corner-c.obj-c3f962b7a5fd5789ebc92a5ef05f901c.mesh" ]
 
-source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-slanted-corner-c.obj"
-dest_files=[ "res://.import/roof-slanted-corner-c.obj-691eb1aec8f4d5bc4b70e85bd593fc2d.mesh", "res://.import/roof-slanted-corner-c.obj-691eb1aec8f4d5bc4b70e85bd593fc2d.mesh" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/roof-slanted-corner-c.obj"
+dest_files=[ "res://.import/roof-slanted-corner-c.obj-c3f962b7a5fd5789ebc92a5ef05f901c.mesh", "res://.import/roof-slanted-corner-c.obj-c3f962b7a5fd5789ebc92a5ef05f901c.mesh" ]
 
 [params]
 

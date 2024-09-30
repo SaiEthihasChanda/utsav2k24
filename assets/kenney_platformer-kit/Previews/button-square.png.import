@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/button-square.png-bd5d4e66a20ed058f4e4c08344c3468e.stex"
+path="res://.import/button-square.png-2a131d4ed776ef49a8c2de37824caa82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/button-square.png"
-dest_files=[ "res://.import/button-square.png-bd5d4e66a20ed058f4e4c08344c3468e.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/button-square.png"
+dest_files=[ "res://.import/button-square.png-2a131d4ed776ef49a8c2de37824caa82.stex" ]
 
 [params]
 

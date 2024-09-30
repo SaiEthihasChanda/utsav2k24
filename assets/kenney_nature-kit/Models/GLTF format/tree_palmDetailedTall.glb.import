@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_palmDetailedTall.glb-3ae1c483c6d79a0b311880e55e2b8eb7.scn"
+path="res://.import/tree_palmDetailedTall.glb-b31eb8f492e2eeffe60af511ff5436c8.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_palmDetailedTall.glb"
-dest_files=[ "res://.import/tree_palmDetailedTall.glb-3ae1c483c6d79a0b311880e55e2b8eb7.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/tree_palmDetailedTall.glb"
+dest_files=[ "res://.import/tree_palmDetailedTall.glb-b31eb8f492e2eeffe60af511ff5436c8.scn" ]
 
 [params]
 

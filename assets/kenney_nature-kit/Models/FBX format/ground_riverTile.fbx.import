@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverTile.fbx-3478cef12d11a5998fa9a6444c644f1b.scn"
+path="res://.import/ground_riverTile.fbx-76474baa4ad9c315f9f1dafec8094ea0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/ground_riverTile.fbx"
-dest_files=[ "res://.import/ground_riverTile.fbx-3478cef12d11a5998fa9a6444c644f1b.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/ground_riverTile.fbx"
+dest_files=[ "res://.import/ground_riverTile.fbx-76474baa4ad9c315f9f1dafec8094ea0.scn" ]
 
 [params]
 

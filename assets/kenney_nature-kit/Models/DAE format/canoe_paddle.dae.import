@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/canoe_paddle.dae-69d0f69cb02c90a3a4304f8d0ea3779f.scn"
+path="res://.import/canoe_paddle.dae-6c29edf62d9003201b63f97dbea8c0f8.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/canoe_paddle.dae"
-dest_files=[ "res://.import/canoe_paddle.dae-69d0f69cb02c90a3a4304f8d0ea3779f.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/canoe_paddle.dae"
+dest_files=[ "res://.import/canoe_paddle.dae-6c29edf62d9003201b63f97dbea8c0f8.scn" ]
 
 [params]
 

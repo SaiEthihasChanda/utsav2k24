@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/coin-silver.obj-2935d0ee50bb78643b5fd0832701b08f.mesh"
+path="res://.import/coin-silver.obj-62c9ff9758a9116cc7d178fc1977f3bd.mesh"
 
 [deps]
 
-files=[ "res://.import/coin-silver.obj-2935d0ee50bb78643b5fd0832701b08f.mesh" ]
+files=[ "res://.import/coin-silver.obj-62c9ff9758a9116cc7d178fc1977f3bd.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/coin-silver.obj"
-dest_files=[ "res://.import/coin-silver.obj-2935d0ee50bb78643b5fd0832701b08f.mesh", "res://.import/coin-silver.obj-2935d0ee50bb78643b5fd0832701b08f.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/coin-silver.obj"
+dest_files=[ "res://.import/coin-silver.obj-62c9ff9758a9116cc7d178fc1977f3bd.mesh", "res://.import/coin-silver.obj-62c9ff9758a9116cc7d178fc1977f3bd.mesh" ]
 
 [params]
 

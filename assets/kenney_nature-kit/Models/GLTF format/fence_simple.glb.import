@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence_simple.glb-f06b5f365f50201c6d5abdb07a4fbf08.scn"
+path="res://.import/fence_simple.glb-72f705d2fa1c78c00939d78a91b979ba.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/fence_simple.glb"
-dest_files=[ "res://.import/fence_simple.glb-f06b5f365f50201c6d5abdb07a4fbf08.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/fence_simple.glb"
+dest_files=[ "res://.import/fence_simple.glb-72f705d2fa1c78c00939d78a91b979ba.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wall-doorway-wide-square.fbx-d02248b199d9d1397a23b6745f84207c.scn"
+path="res://.import/wall-doorway-wide-square.fbx-19fa2e13577ffddeab9b2dee35374bc7.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/wall-doorway-wide-square.fbx"
-dest_files=[ "res://.import/wall-doorway-wide-square.fbx-d02248b199d9d1397a23b6745f84207c.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/wall-doorway-wide-square.fbx"
+dest_files=[ "res://.import/wall-doorway-wide-square.fbx-19fa2e13577ffddeab9b2dee35374bc7.scn" ]
 
 [params]
 

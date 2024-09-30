@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/gutter-vertical.obj-c021d7ceffa6243779a55cc187fad55f.mesh"
+path="res://.import/gutter-vertical.obj-15cf2b2d86b5bea41ab7488022391cda.mesh"
 
 [deps]
 
-files=[ "res://.import/gutter-vertical.obj-c021d7ceffa6243779a55cc187fad55f.mesh" ]
+files=[ "res://.import/gutter-vertical.obj-15cf2b2d86b5bea41ab7488022391cda.mesh" ]
 
-source_file="res://assets/kenney_building-kit/Models/OBJ format/gutter-vertical.obj"
-dest_files=[ "res://.import/gutter-vertical.obj-c021d7ceffa6243779a55cc187fad55f.mesh", "res://.import/gutter-vertical.obj-c021d7ceffa6243779a55cc187fad55f.mesh" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/gutter-vertical.obj"
+dest_files=[ "res://.import/gutter-vertical.obj-15cf2b2d86b5bea41ab7488022391cda.mesh", "res://.import/gutter-vertical.obj-15cf2b2d86b5bea41ab7488022391cda.mesh" ]
 
 [params]
 

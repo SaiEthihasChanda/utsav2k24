@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire_planks.glb-885f584bae7c12a904f84e9f076f3da1.scn"
+path="res://.import/campfire_planks.glb-52f754562c43ea760a7f213a4020131c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/campfire_planks.glb"
-dest_files=[ "res://.import/campfire_planks.glb-885f584bae7c12a904f84e9f076f3da1.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/campfire_planks.glb"
+dest_files=[ "res://.import/campfire_planks.glb-52f754562c43ea760a7f213a4020131c.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/button-square.obj-e3e02ebe06f2a913165609d0dc3f4d1f.mesh"
+path="res://.import/button-square.obj-e2e39f6f29190232bc31a1b9a23dc949.mesh"
 
 [deps]
 
-files=[ "res://.import/button-square.obj-e3e02ebe06f2a913165609d0dc3f4d1f.mesh" ]
+files=[ "res://.import/button-square.obj-e2e39f6f29190232bc31a1b9a23dc949.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/button-square.obj"
-dest_files=[ "res://.import/button-square.obj-e3e02ebe06f2a913165609d0dc3f4d1f.mesh", "res://.import/button-square.obj-e3e02ebe06f2a913165609d0dc3f4d1f.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/button-square.obj"
+dest_files=[ "res://.import/button-square.obj-e2e39f6f29190232bc31a1b9a23dc949.mesh", "res://.import/button-square.obj-e2e39f6f29190232bc31a1b9a23dc949.mesh" ]
 
 [params]
 

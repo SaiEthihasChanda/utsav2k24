@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_riverSideOpen.png-3db69f09d95defd2904390d992f386fa.stex"
+path="res://.import/ground_riverSideOpen.png-2ce4edfc39f0cfc0d8b37251c8d20ac6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/ground_riverSideOpen.png"
-dest_files=[ "res://.import/ground_riverSideOpen.png-3db69f09d95defd2904390d992f386fa.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/ground_riverSideOpen.png"
+dest_files=[ "res://.import/ground_riverSideOpen.png-2ce4edfc39f0cfc0d8b37251c8d20ac6.stex" ]
 
 [params]
 

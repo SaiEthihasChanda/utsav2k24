@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_riverBend.png-aa9d305001fde701921a8fb3e38866fe.stex"
+path="res://.import/ground_riverBend.png-0bef3708c69abdef9a215b74eaaf2803.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/ground_riverBend.png"
-dest_files=[ "res://.import/ground_riverBend.png-aa9d305001fde701921a8fb3e38866fe.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/ground_riverBend.png"
+dest_files=[ "res://.import/ground_riverBend.png-0bef3708c69abdef9a215b74eaaf2803.stex" ]
 
 [params]
 

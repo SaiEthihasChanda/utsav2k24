@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plant_flatShort.fbx-9596dee185d8fc0fc83fbd577c6b9b5c.scn"
+path="res://.import/plant_flatShort.fbx-cc59acc118f2ce2383a3e1d1de7bc92b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/plant_flatShort.fbx"
-dest_files=[ "res://.import/plant_flatShort.fbx-9596dee185d8fc0fc83fbd577c6b9b5c.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/plant_flatShort.fbx"
+dest_files=[ "res://.import/plant_flatShort.fbx-cc59acc118f2ce2383a3e1d1de7bc92b.scn" ]
 
 [params]
 

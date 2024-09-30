@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plant_bushLargeTriangle.glb-4be401afc1053dba98e58f8dcae6a5d9.scn"
+path="res://.import/plant_bushLargeTriangle.glb-21d6d013213e5acfc18d2107b0a94482.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/plant_bushLargeTriangle.glb"
-dest_files=[ "res://.import/plant_bushLargeTriangle.glb-4be401afc1053dba98e58f8dcae6a5d9.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/plant_bushLargeTriangle.glb"
+dest_files=[ "res://.import/plant_bushLargeTriangle.glb-21d6d013213e5acfc18d2107b0a94482.scn" ]
 
 [params]
 

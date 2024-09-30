@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_stoneNarrow.fbx-07c93a39aaf0dc59ae50533389b7b8e0.scn"
+path="res://.import/bridge_stoneNarrow.fbx-9273aa6dd59eb603f29f2a75f79c24d2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/bridge_stoneNarrow.fbx"
-dest_files=[ "res://.import/bridge_stoneNarrow.fbx-07c93a39aaf0dc59ae50533389b7b8e0.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/bridge_stoneNarrow.fbx"
+dest_files=[ "res://.import/bridge_stoneNarrow.fbx-9273aa6dd59eb603f29f2a75f79c24d2.scn" ]
 
 [params]
 

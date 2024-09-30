@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flower_yellowB_NW.png-2182ccbf21b939a149fe113e713321ca.stex"
+path="res://.import/flower_yellowB_NW.png-2249990a0632fcb0aff49ffe7d3c8b36.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/flower_yellowB_NW.png"
-dest_files=[ "res://.import/flower_yellowB_NW.png-2182ccbf21b939a149fe113e713321ca.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/flower_yellowB_NW.png"
+dest_files=[ "res://.import/flower_yellowB_NW.png-2249990a0632fcb0aff49ffe7d3c8b36.stex" ]
 
 [params]
 

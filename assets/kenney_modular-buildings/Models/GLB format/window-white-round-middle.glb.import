@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/window-white-round-middle.glb-bf769c1d0defa78d3171becfd041e1cf.scn"
+path="res://.import/window-white-round-middle.glb-ca61b299d075aa1d88a32bbd4cb03eea.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/window-white-round-middle.glb"
-dest_files=[ "res://.import/window-white-round-middle.glb-bf769c1d0defa78d3171becfd041e1cf.scn" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/window-white-round-middle.glb"
+dest_files=[ "res://.import/window-white-round-middle.glb-ca61b299d075aa1d88a32bbd4cb03eea.scn" ]
 
 [params]
 

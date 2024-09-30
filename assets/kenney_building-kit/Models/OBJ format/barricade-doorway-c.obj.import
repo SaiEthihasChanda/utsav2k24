@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/barricade-doorway-c.obj-be3766614561119a7fe1eba423d43b03.mesh"
+path="res://.import/barricade-doorway-c.obj-e374bfeb6599e3545f8521da3710ffaa.mesh"
 
 [deps]
 
-files=[ "res://.import/barricade-doorway-c.obj-be3766614561119a7fe1eba423d43b03.mesh" ]
+files=[ "res://.import/barricade-doorway-c.obj-e374bfeb6599e3545f8521da3710ffaa.mesh" ]
 
-source_file="res://assets/kenney_building-kit/Models/OBJ format/barricade-doorway-c.obj"
-dest_files=[ "res://.import/barricade-doorway-c.obj-be3766614561119a7fe1eba423d43b03.mesh", "res://.import/barricade-doorway-c.obj-be3766614561119a7fe1eba423d43b03.mesh" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/barricade-doorway-c.obj"
+dest_files=[ "res://.import/barricade-doorway-c.obj-e374bfeb6599e3545f8521da3710ffaa.mesh", "res://.import/barricade-doorway-c.obj-e374bfeb6599e3545f8521da3710ffaa.mesh" ]
 
 [params]
 

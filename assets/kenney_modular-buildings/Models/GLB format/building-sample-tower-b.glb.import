@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-sample-tower-b.glb-b96c400ba882d2ec3b314f3dd3831ad5.scn"
+path="res://.import/building-sample-tower-b.glb-430fd0a8eed48c8b187d71e0a8a51b0e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-sample-tower-b.glb"
-dest_files=[ "res://.import/building-sample-tower-b.glb-b96c400ba882d2ec3b314f3dd3831ad5.scn" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/building-sample-tower-b.glb"
+dest_files=[ "res://.import/building-sample-tower-b.glb-430fd0a8eed48c8b187d71e0a8a51b0e.scn" ]
 
 [params]
 

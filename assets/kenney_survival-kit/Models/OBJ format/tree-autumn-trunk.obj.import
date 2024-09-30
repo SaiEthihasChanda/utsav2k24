@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tree-autumn-trunk.obj-4c097f257ef9c4f0eddf24db68b29f7d.mesh"
+path="res://.import/tree-autumn-trunk.obj-669705a6d9f6d2f4931f56d0f23db228.mesh"
 
 [deps]
 
-files=[ "res://.import/tree-autumn-trunk.obj-4c097f257ef9c4f0eddf24db68b29f7d.mesh" ]
+files=[ "res://.import/tree-autumn-trunk.obj-669705a6d9f6d2f4931f56d0f23db228.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tree-autumn-trunk.obj"
-dest_files=[ "res://.import/tree-autumn-trunk.obj-4c097f257ef9c4f0eddf24db68b29f7d.mesh", "res://.import/tree-autumn-trunk.obj-4c097f257ef9c4f0eddf24db68b29f7d.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/tree-autumn-trunk.obj"
+dest_files=[ "res://.import/tree-autumn-trunk.obj-669705a6d9f6d2f4931f56d0f23db228.mesh", "res://.import/tree-autumn-trunk.obj-669705a6d9f6d2f4931f56d0f23db228.mesh" ]
 
 [params]
 

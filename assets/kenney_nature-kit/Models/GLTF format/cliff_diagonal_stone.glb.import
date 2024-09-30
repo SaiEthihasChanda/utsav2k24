@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_diagonal_stone.glb-4d400720f88689cbdc797c91c6aff72a.scn"
+path="res://.import/cliff_diagonal_stone.glb-4acdcc3aef6d8a8a2eb728512d710e3c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_diagonal_stone.glb"
-dest_files=[ "res://.import/cliff_diagonal_stone.glb-4d400720f88689cbdc797c91c6aff72a.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/cliff_diagonal_stone.glb"
+dest_files=[ "res://.import/cliff_diagonal_stone.glb-4acdcc3aef6d8a8a2eb728512d710e3c.scn" ]
 
 [params]
 

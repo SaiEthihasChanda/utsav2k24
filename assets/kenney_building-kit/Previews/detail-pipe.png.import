@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/detail-pipe.png-150470c93e8cd4013b32634966b566b8.stex"
+path="res://.import/detail-pipe.png-3fff0f35a36125fd655e26c58667ad53.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/detail-pipe.png"
-dest_files=[ "res://.import/detail-pipe.png-150470c93e8cd4013b32634966b566b8.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/detail-pipe.png"
+dest_files=[ "res://.import/detail-pipe.png-3fff0f35a36125fd655e26c58667ad53.stex" ]
 
 [params]
 

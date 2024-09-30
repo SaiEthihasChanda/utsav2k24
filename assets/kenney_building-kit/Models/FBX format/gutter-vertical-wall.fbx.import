@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/gutter-vertical-wall.fbx-9a896d848024f737db3fa4c4c29fbd86.scn"
+path="res://.import/gutter-vertical-wall.fbx-f0bb2987e4c7ab770c989ca8cb8e3d91.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/gutter-vertical-wall.fbx"
-dest_files=[ "res://.import/gutter-vertical-wall.fbx-9a896d848024f737db3fa4c4c29fbd86.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/gutter-vertical-wall.fbx"
+dest_files=[ "res://.import/gutter-vertical-wall.fbx-f0bb2987e4c7ab770c989ca8cb8e3d91.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass_leafsLarge.png-ba61aa09a92ca4ea41b72876ad935f82.stex"
+path="res://.import/grass_leafsLarge.png-8bbed319cc26bddaa61d4e0f067fd5ae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/grass_leafsLarge.png"
-dest_files=[ "res://.import/grass_leafsLarge.png-ba61aa09a92ca4ea41b72876ad935f82.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/grass_leafsLarge.png"
+dest_files=[ "res://.import/grass_leafsLarge.png-8bbed319cc26bddaa61d4e0f067fd5ae.stex" ]
 
 [params]
 

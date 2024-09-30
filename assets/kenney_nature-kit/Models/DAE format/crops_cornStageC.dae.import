@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crops_cornStageC.dae-8351e939f46a503bc4389fa93bbb59a2.scn"
+path="res://.import/crops_cornStageC.dae-e26ac08eb1ca3db58c7ef342a44b8d79.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/crops_cornStageC.dae"
-dest_files=[ "res://.import/crops_cornStageC.dae-8351e939f46a503bc4389fa93bbb59a2.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/crops_cornStageC.dae"
+dest_files=[ "res://.import/crops_cornStageC.dae-e26ac08eb1ca3db58c7ef342a44b8d79.scn" ]
 
 [params]
 

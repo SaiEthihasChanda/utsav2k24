@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh"
+path="res://.import/structure-metal-floor.obj-ba91adc7d44e5a9dac8ff1c2f46b2268.mesh"
 
 [deps]
 
-files=[ "res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh" ]
+files=[ "res://.import/structure-metal-floor.obj-ba91adc7d44e5a9dac8ff1c2f46b2268.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/structure-metal-floor.obj"
-dest_files=[ "res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh", "res://.import/structure-metal-floor.obj-ea4cc2c3bc683ea0d8ff7047d413e861.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/structure-metal-floor.obj"
+dest_files=[ "res://.import/structure-metal-floor.obj-ba91adc7d44e5a9dac8ff1c2f46b2268.mesh", "res://.import/structure-metal-floor.obj-ba91adc7d44e5a9dac8ff1c2f46b2268.mesh" ]
 
 [params]
 

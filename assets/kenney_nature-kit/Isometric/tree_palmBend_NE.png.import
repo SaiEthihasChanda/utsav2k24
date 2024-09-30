@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_palmBend_NE.png-1147bfd132037e3295dcb018e0626649.stex"
+path="res://.import/tree_palmBend_NE.png-bd3ca941e138dcd13044d9f83a162bd3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_palmBend_NE.png"
-dest_files=[ "res://.import/tree_palmBend_NE.png-1147bfd132037e3295dcb018e0626649.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/tree_palmBend_NE.png"
+dest_files=[ "res://.import/tree_palmBend_NE.png-bd3ca941e138dcd13044d9f83a162bd3.stex" ]
 
 [params]
 

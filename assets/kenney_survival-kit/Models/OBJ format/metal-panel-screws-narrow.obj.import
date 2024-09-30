@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/metal-panel-screws-narrow.obj-91a6fa15f195d2d0d795010bc53a9075.mesh"
+path="res://.import/metal-panel-screws-narrow.obj-84571b203aa40d272b045cee182905a3.mesh"
 
 [deps]
 
-files=[ "res://.import/metal-panel-screws-narrow.obj-91a6fa15f195d2d0d795010bc53a9075.mesh" ]
+files=[ "res://.import/metal-panel-screws-narrow.obj-84571b203aa40d272b045cee182905a3.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/metal-panel-screws-narrow.obj"
-dest_files=[ "res://.import/metal-panel-screws-narrow.obj-91a6fa15f195d2d0d795010bc53a9075.mesh", "res://.import/metal-panel-screws-narrow.obj-91a6fa15f195d2d0d795010bc53a9075.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/metal-panel-screws-narrow.obj"
+dest_files=[ "res://.import/metal-panel-screws-narrow.obj-84571b203aa40d272b045cee182905a3.mesh", "res://.import/metal-panel-screws-narrow.obj-84571b203aa40d272b045cee182905a3.mesh" ]
 
 [params]
 

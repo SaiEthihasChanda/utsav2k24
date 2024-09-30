@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/roof-flat-patch.obj-ec1fc3dc64145c8f97d693cf8987ad70.mesh"
+path="res://.import/roof-flat-patch.obj-e22589068ab4ef23d9392ef3a7e760cf.mesh"
 
 [deps]
 
-files=[ "res://.import/roof-flat-patch.obj-ec1fc3dc64145c8f97d693cf8987ad70.mesh" ]
+files=[ "res://.import/roof-flat-patch.obj-e22589068ab4ef23d9392ef3a7e760cf.mesh" ]
 
-source_file="res://assets/kenney_building-kit/Models/OBJ format/roof-flat-patch.obj"
-dest_files=[ "res://.import/roof-flat-patch.obj-ec1fc3dc64145c8f97d693cf8987ad70.mesh", "res://.import/roof-flat-patch.obj-ec1fc3dc64145c8f97d693cf8987ad70.mesh" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/roof-flat-patch.obj"
+dest_files=[ "res://.import/roof-flat-patch.obj-e22589068ab4ef23d9392ef3a7e760cf.mesh", "res://.import/roof-flat-patch.obj-e22589068ab4ef23d9392ef3a7e760cf.mesh" ]
 
 [params]
 

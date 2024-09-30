@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tree-snow.obj-61c039ff85cf8c5c34d0ab4c1b74c79e.mesh"
+path="res://.import/tree-snow.obj-420404a69e42f9b6a482d731d2ba9419.mesh"
 
 [deps]
 
-files=[ "res://.import/tree-snow.obj-61c039ff85cf8c5c34d0ab4c1b74c79e.mesh" ]
+files=[ "res://.import/tree-snow.obj-420404a69e42f9b6a482d731d2ba9419.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/tree-snow.obj"
-dest_files=[ "res://.import/tree-snow.obj-61c039ff85cf8c5c34d0ab4c1b74c79e.mesh", "res://.import/tree-snow.obj-61c039ff85cf8c5c34d0ab4c1b74c79e.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/tree-snow.obj"
+dest_files=[ "res://.import/tree-snow.obj-420404a69e42f9b6a482d731d2ba9419.mesh", "res://.import/tree-snow.obj-420404a69e42f9b6a482d731d2ba9419.mesh" ]
 
 [params]
 

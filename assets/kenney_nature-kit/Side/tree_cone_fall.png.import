@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_cone_fall.png-275b1f0d9755f50d14ec78de7983f580.stex"
+path="res://.import/tree_cone_fall.png-6c467bc5d66af042806385cc97ec3f50.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/tree_cone_fall.png"
-dest_files=[ "res://.import/tree_cone_fall.png-275b1f0d9755f50d14ec78de7983f580.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/tree_cone_fall.png"
+dest_files=[ "res://.import/tree_cone_fall.png-6c467bc5d66af042806385cc97ec3f50.stex" ]
 
 [params]
 

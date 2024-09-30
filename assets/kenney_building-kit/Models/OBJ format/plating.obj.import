@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh"
+path="res://.import/plating.obj-12d70cd04aea51d8a292dd48f9225184.mesh"
 
 [deps]
 
-files=[ "res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh" ]
+files=[ "res://.import/plating.obj-12d70cd04aea51d8a292dd48f9225184.mesh" ]
 
-source_file="res://assets/kenney_building-kit/Models/OBJ format/plating.obj"
-dest_files=[ "res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh", "res://.import/plating.obj-9e420aba53c4f15345482912560e62ea.mesh" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/plating.obj"
+dest_files=[ "res://.import/plating.obj-12d70cd04aea51d8a292dd48f9225184.mesh", "res://.import/plating.obj-12d70cd04aea51d8a292dd48f9225184.mesh" ]
 
 [params]
 

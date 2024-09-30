@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-windows-high-top-square.fbx-f7e313f9995e6abb86f8973b560d732f.scn"
+path="res://.import/building-windows-high-top-square.fbx-3751005d3ca4752ac3996278f342cea0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-windows-high-top-square.fbx"
-dest_files=[ "res://.import/building-windows-high-top-square.fbx-f7e313f9995e6abb86f8973b560d732f.scn" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-windows-high-top-square.fbx"
+dest_files=[ "res://.import/building-windows-high-top-square.fbx-3751005d3ca4752ac3996278f342cea0.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barricade-window-c.png-c49d3e6643eeb4d566c59695087cedc1.stex"
+path="res://.import/barricade-window-c.png-1a307bee904b44818a22dda2bcdc23f2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/barricade-window-c.png"
-dest_files=[ "res://.import/barricade-window-c.png-c49d3e6643eeb4d566c59695087cedc1.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/barricade-window-c.png"
+dest_files=[ "res://.import/barricade-window-c.png-1a307bee904b44818a22dda2bcdc23f2.stex" ]
 
 [params]
 

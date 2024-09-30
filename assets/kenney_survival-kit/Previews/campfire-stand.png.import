@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/campfire-stand.png-e18cae0efe4deafcfb96d33b84751078.stex"
+path="res://.import/campfire-stand.png-a6b1ff62af5d719a699174c8115de5b3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/campfire-stand.png"
-dest_files=[ "res://.import/campfire-stand.png-e18cae0efe4deafcfb96d33b84751078.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/campfire-stand.png"
+dest_files=[ "res://.import/campfire-stand.png-a6b1ff62af5d719a699174c8115de5b3.stex" ]
 
 [params]
 

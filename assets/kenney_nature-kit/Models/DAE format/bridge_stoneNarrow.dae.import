@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_stoneNarrow.dae-1ebdeb5a9f905df3d94ea41cc12e9449.scn"
+path="res://.import/bridge_stoneNarrow.dae-21935f2deff54e33302d2937dbf69c0c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/bridge_stoneNarrow.dae"
-dest_files=[ "res://.import/bridge_stoneNarrow.dae-1ebdeb5a9f905df3d94ea41cc12e9449.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/bridge_stoneNarrow.dae"
+dest_files=[ "res://.import/bridge_stoneNarrow.dae-21935f2deff54e33302d2937dbf69c0c.scn" ]
 
 [params]
 

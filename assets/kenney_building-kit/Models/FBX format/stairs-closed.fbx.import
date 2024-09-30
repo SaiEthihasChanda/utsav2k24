@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stairs-closed.fbx-9194e5370518cb2d15e83ed3baa6407a.scn"
+path="res://.import/stairs-closed.fbx-70bff7f34ea39c264cf45b1d7f7986e6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/stairs-closed.fbx"
-dest_files=[ "res://.import/stairs-closed.fbx-9194e5370518cb2d15e83ed3baa6407a.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/stairs-closed.fbx"
+dest_files=[ "res://.import/stairs-closed.fbx-70bff7f34ea39c264cf45b1d7f7986e6.scn" ]
 
 [params]
 

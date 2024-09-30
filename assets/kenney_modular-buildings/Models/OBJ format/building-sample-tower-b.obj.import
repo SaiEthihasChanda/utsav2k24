@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh"
+path="res://.import/building-sample-tower-b.obj-0827cb39cd96317c32f0cbc6744be2b7.mesh"
 
 [deps]
 
-files=[ "res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh" ]
+files=[ "res://.import/building-sample-tower-b.obj-0827cb39cd96317c32f0cbc6744be2b7.mesh" ]
 
-source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-sample-tower-b.obj"
-dest_files=[ "res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh", "res://.import/building-sample-tower-b.obj-0e2e60e13dd91ede0de827b89855dc1b.mesh" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/building-sample-tower-b.obj"
+dest_files=[ "res://.import/building-sample-tower-b.obj-0827cb39cd96317c32f0cbc6744be2b7.mesh", "res://.import/building-sample-tower-b.obj-0827cb39cd96317c32f0cbc6744be2b7.mesh" ]
 
 [params]
 

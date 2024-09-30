@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stairs-closed.png-bbdc426a13b486b1bb94e34d5844525a.stex"
+path="res://.import/stairs-closed.png-5cd5c9540720dfa7b9ca01c552d1d3e4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/stairs-closed.png"
-dest_files=[ "res://.import/stairs-closed.png-bbdc426a13b486b1bb94e34d5844525a.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/stairs-closed.png"
+dest_files=[ "res://.import/stairs-closed.png-5cd5c9540720dfa7b9ca01c552d1d3e4.stex" ]
 
 [params]
 

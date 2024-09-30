@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-rotate-square-c.glb-b6e679f0c6dbc4f54583db26ee490024.scn"
+path="res://.import/door-rotate-square-c.glb-1bc845ea48ca394c8dd77551be5088dc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/door-rotate-square-c.glb"
-dest_files=[ "res://.import/door-rotate-square-c.glb-b6e679f0c6dbc4f54583db26ee490024.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/door-rotate-square-c.glb"
+dest_files=[ "res://.import/door-rotate-square-c.glb-1bc845ea48ca394c8dd77551be5088dc.scn" ]
 
 [params]
 

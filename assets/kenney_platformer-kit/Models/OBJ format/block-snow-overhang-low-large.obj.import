@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-snow-overhang-low-large.obj-5ea8fa960e59740af1008bc57bd7da4d.mesh"
+path="res://.import/block-snow-overhang-low-large.obj-754de92b0e257fba1d0a2b625c19cd6a.mesh"
 
 [deps]
 
-files=[ "res://.import/block-snow-overhang-low-large.obj-5ea8fa960e59740af1008bc57bd7da4d.mesh" ]
+files=[ "res://.import/block-snow-overhang-low-large.obj-754de92b0e257fba1d0a2b625c19cd6a.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-snow-overhang-low-large.obj"
-dest_files=[ "res://.import/block-snow-overhang-low-large.obj-5ea8fa960e59740af1008bc57bd7da4d.mesh", "res://.import/block-snow-overhang-low-large.obj-5ea8fa960e59740af1008bc57bd7da4d.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-snow-overhang-low-large.obj"
+dest_files=[ "res://.import/block-snow-overhang-low-large.obj-754de92b0e257fba1d0a2b625c19cd6a.mesh", "res://.import/block-snow-overhang-low-large.obj-754de92b0e257fba1d0a2b625c19cd6a.mesh" ]
 
 [params]
 

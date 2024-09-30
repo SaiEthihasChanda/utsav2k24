@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_woodRoundNarrow.glb-155b74521b6c6a05cc2a802d2563051d.scn"
+path="res://.import/bridge_woodRoundNarrow.glb-91efdf06ca43fc7532e4aa6b1094e274.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/bridge_woodRoundNarrow.glb"
-dest_files=[ "res://.import/bridge_woodRoundNarrow.glb-155b74521b6c6a05cc2a802d2563051d.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/bridge_woodRoundNarrow.glb"
+dest_files=[ "res://.import/bridge_woodRoundNarrow.glb-91efdf06ca43fc7532e4aa6b1094e274.scn" ]
 
 [params]
 

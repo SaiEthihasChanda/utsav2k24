@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crop_turnip_NE.png-bfee6a478947e8e23fc524d21f1d786c.stex"
+path="res://.import/crop_turnip_NE.png-a4a0fa2d16549d75b4b2f321164d8c6a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crop_turnip_NE.png"
-dest_files=[ "res://.import/crop_turnip_NE.png-bfee6a478947e8e23fc524d21f1d786c.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/crop_turnip_NE.png"
+dest_files=[ "res://.import/crop_turnip_NE.png-a4a0fa2d16549d75b4b2f321164d8c6a.stex" ]
 
 [params]
 

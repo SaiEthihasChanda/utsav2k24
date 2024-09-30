@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_turnip.glb-cb53743e03424ec946786e0e2b9ec9f1.scn"
+path="res://.import/crop_turnip.glb-a52aa218186bccd414ee711b2a30026e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crop_turnip.glb"
-dest_files=[ "res://.import/crop_turnip.glb-cb53743e03424ec946786e0e2b9ec9f1.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/crop_turnip.glb"
+dest_files=[ "res://.import/crop_turnip.glb-a52aa218186bccd414ee711b2a30026e.scn" ]
 
 [params]
 

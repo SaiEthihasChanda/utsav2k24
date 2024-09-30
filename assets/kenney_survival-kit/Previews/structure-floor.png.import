@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/structure-floor.png-bf12ff90020234f1659c9d1d6ce76beb.stex"
+path="res://.import/structure-floor.png-d2bd054935ddaea17b11f039aea56bf2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/structure-floor.png"
-dest_files=[ "res://.import/structure-floor.png-bf12ff90020234f1659c9d1d6ce76beb.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/structure-floor.png"
+dest_files=[ "res://.import/structure-floor.png-d2bd054935ddaea17b11f039aea56bf2.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rock_smallG.fbx-767be54292f8ef367d01b8c1ab19fd4e.scn"
+path="res://.import/rock_smallG.fbx-879ef3560e60f2ba6acd91488e319117.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/rock_smallG.fbx"
-dest_files=[ "res://.import/rock_smallG.fbx-767be54292f8ef367d01b8c1ab19fd4e.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/rock_smallG.fbx"
+dest_files=[ "res://.import/rock_smallG.fbx-879ef3560e60f2ba6acd91488e319117.scn" ]
 
 [params]
 

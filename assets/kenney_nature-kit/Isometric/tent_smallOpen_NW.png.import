@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tent_smallOpen_NW.png-22a008fc9e97fe795fea32d09fb50e56.stex"
+path="res://.import/tent_smallOpen_NW.png-98f4d6fb93104a528a8a760dca277571.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tent_smallOpen_NW.png"
-dest_files=[ "res://.import/tent_smallOpen_NW.png-22a008fc9e97fe795fea32d09fb50e56.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/tent_smallOpen_NW.png"
+dest_files=[ "res://.import/tent_smallOpen_NW.png-98f4d6fb93104a528a8a760dca277571.stex" ]
 
 [params]
 

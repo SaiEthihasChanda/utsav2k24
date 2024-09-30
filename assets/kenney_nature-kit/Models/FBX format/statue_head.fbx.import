@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/statue_head.fbx-a37da0fadadcb6953916cab7ac967256.scn"
+path="res://.import/statue_head.fbx-7630c5621042f006033388225f099eb5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/statue_head.fbx"
-dest_files=[ "res://.import/statue_head.fbx-a37da0fadadcb6953916cab7ac967256.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/statue_head.fbx"
+dest_files=[ "res://.import/statue_head.fbx-7630c5621042f006033388225f099eb5.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverBend.glb-27c6aa5ae291c960d8c4677745d8ddc8.scn"
+path="res://.import/ground_riverBend.glb-821049cb73ea71207df4acb253845200.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverBend.glb"
-dest_files=[ "res://.import/ground_riverBend.glb-27c6aa5ae291c960d8c4677745d8ddc8.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/ground_riverBend.glb"
+dest_files=[ "res://.import/ground_riverBend.glb-821049cb73ea71207df4acb253845200.scn" ]
 
 [params]
 

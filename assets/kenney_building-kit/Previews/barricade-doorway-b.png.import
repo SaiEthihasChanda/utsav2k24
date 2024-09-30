@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barricade-doorway-b.png-6f08be76a1728f04351a1deda61dc61e.stex"
+path="res://.import/barricade-doorway-b.png-f7a3cfa62476fb00117a544182f39d19.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/barricade-doorway-b.png"
-dest_files=[ "res://.import/barricade-doorway-b.png-6f08be76a1728f04351a1deda61dc61e.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/barricade-doorway-b.png"
+dest_files=[ "res://.import/barricade-doorway-b.png-f7a3cfa62476fb00117a544182f39d19.stex" ]
 
 [params]
 

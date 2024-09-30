@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/border-corner-round.png-ae65ef5208219af0f2d1a107a8638044.stex"
+path="res://.import/border-corner-round.png-6b1abe8a5da8d562b0dd0638f7fc9103.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/border-corner-round.png"
-dest_files=[ "res://.import/border-corner-round.png-ae65ef5208219af0f2d1a107a8638044.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/border-corner-round.png"
+dest_files=[ "res://.import/border-corner-round.png-6b1abe8a5da8d562b0dd0638f7fc9103.stex" ]
 
 [params]
 

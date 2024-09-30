@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh"
+path="res://.import/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh"
 
 [deps]
 
-files=[ "res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh" ]
+files=[ "res://.import/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-snow-large.obj"
-dest_files=[ "res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh", "res://.import/block-snow-large.obj-358ab4272c3c11e087ac6c455a7d2bdc.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-snow-large.obj"
+dest_files=[ "res://.import/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh", "res://.import/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh" ]
 
 [params]
 

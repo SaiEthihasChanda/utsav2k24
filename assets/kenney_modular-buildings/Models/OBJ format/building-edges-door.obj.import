@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/building-edges-door.obj-3e30074e389e430d6b07a998afe63cf9.mesh"
+path="res://.import/building-edges-door.obj-c8c5478ef0855f2485bf71eb6bf0a765.mesh"
 
 [deps]
 
-files=[ "res://.import/building-edges-door.obj-3e30074e389e430d6b07a998afe63cf9.mesh" ]
+files=[ "res://.import/building-edges-door.obj-c8c5478ef0855f2485bf71eb6bf0a765.mesh" ]
 
-source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-edges-door.obj"
-dest_files=[ "res://.import/building-edges-door.obj-3e30074e389e430d6b07a998afe63cf9.mesh", "res://.import/building-edges-door.obj-3e30074e389e430d6b07a998afe63cf9.mesh" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/building-edges-door.obj"
+dest_files=[ "res://.import/building-edges-door.obj-c8c5478ef0855f2485bf71eb6bf0a765.mesh", "res://.import/building-edges-door.obj-c8c5478ef0855f2485bf71eb6bf0a765.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-steps-narrow-windows.fbx-be9d6047cfe1439a4bea3eb3b7ddfd61.scn"
+path="res://.import/building-steps-narrow-windows.fbx-581a811b2293afda63354242269dca16.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-steps-narrow-windows.fbx"
-dest_files=[ "res://.import/building-steps-narrow-windows.fbx-be9d6047cfe1439a4bea3eb3b7ddfd61.scn" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-steps-narrow-windows.fbx"
+dest_files=[ "res://.import/building-steps-narrow-windows.fbx-581a811b2293afda63354242269dca16.scn" ]
 
 [params]
 

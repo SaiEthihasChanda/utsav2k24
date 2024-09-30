@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh"
+path="res://.import/roof-flat-awning-b.obj-bbca9de4383975d880fcef57ce735d4b.mesh"
 
 [deps]
 
-files=[ "res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh" ]
+files=[ "res://.import/roof-flat-awning-b.obj-bbca9de4383975d880fcef57ce735d4b.mesh" ]
 
-source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-flat-awning-b.obj"
-dest_files=[ "res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh", "res://.import/roof-flat-awning-b.obj-68387e8a85d708544bd9da3a48f5bf5e.mesh" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/roof-flat-awning-b.obj"
+dest_files=[ "res://.import/roof-flat-awning-b.obj-bbca9de4383975d880fcef57ce735d4b.mesh", "res://.import/roof-flat-awning-b.obj-bbca9de4383975d880fcef57ce735d4b.mesh" ]
 
 [params]
 

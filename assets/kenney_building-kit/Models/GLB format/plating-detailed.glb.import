@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plating-detailed.glb-1b9e54d8affd413688763a4dffb06c21.scn"
+path="res://.import/plating-detailed.glb-657345a7bc313077a1ba4c9575480aff.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/plating-detailed.glb"
-dest_files=[ "res://.import/plating-detailed.glb-1b9e54d8affd413688763a4dffb06c21.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/plating-detailed.glb"
+dest_files=[ "res://.import/plating-detailed.glb-657345a7bc313077a1ba4c9575480aff.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/border-corner-diagonal.obj-88e15e4b9ca59b53f1c0a1804a6e8269.mesh"
+path="res://.import/border-corner-diagonal.obj-83824e45b8a1c66450640b1e82ce39bf.mesh"
 
 [deps]
 
-files=[ "res://.import/border-corner-diagonal.obj-88e15e4b9ca59b53f1c0a1804a6e8269.mesh" ]
+files=[ "res://.import/border-corner-diagonal.obj-83824e45b8a1c66450640b1e82ce39bf.mesh" ]
 
-source_file="res://assets/kenney_building-kit/Models/OBJ format/border-corner-diagonal.obj"
-dest_files=[ "res://.import/border-corner-diagonal.obj-88e15e4b9ca59b53f1c0a1804a6e8269.mesh", "res://.import/border-corner-diagonal.obj-88e15e4b9ca59b53f1c0a1804a6e8269.mesh" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/border-corner-diagonal.obj"
+dest_files=[ "res://.import/border-corner-diagonal.obj-83824e45b8a1c66450640b1e82ce39bf.mesh", "res://.import/border-corner-diagonal.obj-83824e45b8a1c66450640b1e82ce39bf.mesh" ]
 
 [params]
 

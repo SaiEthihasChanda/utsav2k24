@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence_planksDouble.fbx-f793ffa9b4ee1f969f7fd685106bbc33.scn"
+path="res://.import/fence_planksDouble.fbx-80636a2f39eb68a834766367e8517b4a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/fence_planksDouble.fbx"
-dest_files=[ "res://.import/fence_planksDouble.fbx-f793ffa9b4ee1f969f7fd685106bbc33.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/fence_planksDouble.fbx"
+dest_files=[ "res://.import/fence_planksDouble.fbx-80636a2f39eb68a834766367e8517b4a.scn" ]
 
 [params]
 

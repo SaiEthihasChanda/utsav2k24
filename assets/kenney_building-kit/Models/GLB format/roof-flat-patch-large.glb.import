@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-flat-patch-large.glb-9908cb7435b622bcca23d2b703157150.scn"
+path="res://.import/roof-flat-patch-large.glb-4e018ab5b21d569860d016aa78c231a1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/roof-flat-patch-large.glb"
-dest_files=[ "res://.import/roof-flat-patch-large.glb-9908cb7435b622bcca23d2b703157150.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/roof-flat-patch-large.glb"
+dest_files=[ "res://.import/roof-flat-patch-large.glb-4e018ab5b21d569860d016aa78c231a1.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/statue_ring.dae-134e95a6a62c2f6020e6ca8095619eb1.scn"
+path="res://.import/statue_ring.dae-b7943a7cdd7c17976e0f6070523db42b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/statue_ring.dae"
-dest_files=[ "res://.import/statue_ring.dae-134e95a6a62c2f6020e6ca8095619eb1.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/statue_ring.dae"
+dest_files=[ "res://.import/statue_ring.dae-b7943a7cdd7c17976e0f6070523db42b.scn" ]
 
 [params]
 

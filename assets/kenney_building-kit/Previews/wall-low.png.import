@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wall-low.png-211ceb996852b7ed5b0ded1e6dc4e07e.stex"
+path="res://.import/wall-low.png-27c19f6abfc149b9b695921aa4393532.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/wall-low.png"
-dest_files=[ "res://.import/wall-low.png-211ceb996852b7ed5b0ded1e6dc4e07e.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/wall-low.png"
+dest_files=[ "res://.import/wall-low.png-27c19f6abfc149b9b695921aa4393532.stex" ]
 
 [params]
 

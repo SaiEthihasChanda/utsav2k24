@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_cave_rock.dae-94fffe0fd36ca38f5057e1a1e9739353.scn"
+path="res://.import/cliff_cave_rock.dae-428967196efc113548d3aa08c73890a2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_cave_rock.dae"
-dest_files=[ "res://.import/cliff_cave_rock.dae-94fffe0fd36ca38f5057e1a1e9739353.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/cliff_cave_rock.dae"
+dest_files=[ "res://.import/cliff_cave_rock.dae-428967196efc113548d3aa08c73890a2.scn" ]
 
 [params]
 

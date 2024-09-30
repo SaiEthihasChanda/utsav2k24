@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crops_leafsStageB.fbx-fc7d96492f30fd7a7e6a4ac42198322f.scn"
+path="res://.import/crops_leafsStageB.fbx-ba3d7eba9176fdd0b4fdc7580d2b3219.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/crops_leafsStageB.fbx"
-dest_files=[ "res://.import/crops_leafsStageB.fbx-fc7d96492f30fd7a7e6a4ac42198322f.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/crops_leafsStageB.fbx"
+dest_files=[ "res://.import/crops_leafsStageB.fbx-ba3d7eba9176fdd0b4fdc7580d2b3219.scn" ]
 
 [params]
 

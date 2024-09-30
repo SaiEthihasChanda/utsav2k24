@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-snow-hexagon.png-944f10b12b48bbb80d7e17c55764757c.stex"
+path="res://.import/block-snow-hexagon.png-3b514d7af3103624f6dd474224625e0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-snow-hexagon.png"
-dest_files=[ "res://.import/block-snow-hexagon.png-944f10b12b48bbb80d7e17c55764757c.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-snow-hexagon.png"
+dest_files=[ "res://.import/block-snow-hexagon.png-3b514d7af3103624f6dd474224625e0b.stex" ]
 
 [params]
 

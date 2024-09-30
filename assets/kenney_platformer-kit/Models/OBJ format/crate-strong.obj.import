@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh"
+path="res://.import/crate-strong.obj-cdb0b887b5e4055b2536d4dbe39270f9.mesh"
 
 [deps]
 
-files=[ "res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh" ]
+files=[ "res://.import/crate-strong.obj-cdb0b887b5e4055b2536d4dbe39270f9.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/crate-strong.obj"
-dest_files=[ "res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh", "res://.import/crate-strong.obj-ec9c5f9ddbd153ea6e8d2975a9ee73a0.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/crate-strong.obj"
+dest_files=[ "res://.import/crate-strong.obj-cdb0b887b5e4055b2536d4dbe39270f9.mesh", "res://.import/crate-strong.obj-cdb0b887b5e4055b2536d4dbe39270f9.mesh" ]
 
 [params]
 

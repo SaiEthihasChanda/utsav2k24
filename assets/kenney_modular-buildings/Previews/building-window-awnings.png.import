@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-window-awnings.png-ce426444dfb381941acd55bb33559bd8.stex"
+path="res://.import/building-window-awnings.png-bda504733b04a12f08a53507287dd369.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Previews/building-window-awnings.png"
-dest_files=[ "res://.import/building-window-awnings.png-ce426444dfb381941acd55bb33559bd8.stex" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-window-awnings.png"
+dest_files=[ "res://.import/building-window-awnings.png-bda504733b04a12f08a53507287dd369.stex" ]
 
 [params]
 

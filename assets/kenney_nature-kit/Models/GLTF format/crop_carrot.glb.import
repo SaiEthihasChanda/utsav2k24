@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_carrot.glb-3a62fedeecb99b6c5973334ed0fdf292.scn"
+path="res://.import/crop_carrot.glb-85645b7d298ec622484f3732392671bf.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crop_carrot.glb"
-dest_files=[ "res://.import/crop_carrot.glb-3a62fedeecb99b6c5973334ed0fdf292.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/crop_carrot.glb"
+dest_files=[ "res://.import/crop_carrot.glb-85645b7d298ec622484f3732392671bf.scn" ]
 
 [params]
 

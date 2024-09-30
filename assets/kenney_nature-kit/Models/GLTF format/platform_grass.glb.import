@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/platform_grass.glb-460bdef462dc38fb31e07f5677fe6611.scn"
+path="res://.import/platform_grass.glb-2b3e2f876d3bc97670e1282d3c2a30b3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/platform_grass.glb"
-dest_files=[ "res://.import/platform_grass.glb-460bdef462dc38fb31e07f5677fe6611.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/platform_grass.glb"
+dest_files=[ "res://.import/platform_grass.glb-2b3e2f876d3bc97670e1282d3c2a30b3.scn" ]
 
 [params]
 

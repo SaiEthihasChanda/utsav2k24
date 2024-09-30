@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-white-glass.fbx-bbbc4d17760c9bfae42d2ca2ccc13d24.scn"
+path="res://.import/door-white-glass.fbx-38b1159c4f3a770dc75d95d52981c843.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/door-white-glass.fbx"
-dest_files=[ "res://.import/door-white-glass.fbx-bbbc4d17760c9bfae42d2ca2ccc13d24.scn" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/door-white-glass.fbx"
+dest_files=[ "res://.import/door-white-glass.fbx-38b1159c4f3a770dc75d95d52981c843.scn" ]
 
 [params]
 

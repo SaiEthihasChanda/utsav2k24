@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crops_dirtRowCorner.glb-2b6e96d265e60d3c96706da154c3ae59.scn"
+path="res://.import/crops_dirtRowCorner.glb-969d08691798fdd82d24708bbe8c679e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crops_dirtRowCorner.glb"
-dest_files=[ "res://.import/crops_dirtRowCorner.glb-2b6e96d265e60d3c96706da154c3ae59.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/crops_dirtRowCorner.glb"
+dest_files=[ "res://.import/crops_dirtRowCorner.glb-969d08691798fdd82d24708bbe8c679e.scn" ]
 
 [params]
 

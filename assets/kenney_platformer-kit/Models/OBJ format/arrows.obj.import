@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/arrows.obj-556a482d34068f1834a33281026b0e76.mesh"
+path="res://.import/arrows.obj-38db11b51336e70634a40f214546362d.mesh"
 
 [deps]
 
-files=[ "res://.import/arrows.obj-556a482d34068f1834a33281026b0e76.mesh" ]
+files=[ "res://.import/arrows.obj-38db11b51336e70634a40f214546362d.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/arrows.obj"
-dest_files=[ "res://.import/arrows.obj-556a482d34068f1834a33281026b0e76.mesh", "res://.import/arrows.obj-556a482d34068f1834a33281026b0e76.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/arrows.obj"
+dest_files=[ "res://.import/arrows.obj-38db11b51336e70634a40f214546362d.mesh", "res://.import/arrows.obj-38db11b51336e70634a40f214546362d.mesh" ]
 
 [params]
 

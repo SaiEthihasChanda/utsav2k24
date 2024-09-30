@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-grass-overhang-large-slope-steep-narrow.png-2644b8d19a1d3c0df78850f3c88c2d3e.stex"
+path="res://.import/block-grass-overhang-large-slope-steep-narrow.png-8fe49a35b66ffc39b4d8ee39917b8b10.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-grass-overhang-large-slope-steep-narrow.png"
-dest_files=[ "res://.import/block-grass-overhang-large-slope-steep-narrow.png-2644b8d19a1d3c0df78850f3c88c2d3e.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-grass-overhang-large-slope-steep-narrow.png"
+dest_files=[ "res://.import/block-grass-overhang-large-slope-steep-narrow.png-8fe49a35b66ffc39b4d8ee39917b8b10.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence_corner_NW.png-fbbd3824c07f1cfd8f53e71b84c6e37d.stex"
+path="res://.import/fence_corner_NW.png-3070af1b4c514dbe5562837842bb9ecf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/fence_corner_NW.png"
-dest_files=[ "res://.import/fence_corner_NW.png-fbbd3824c07f1cfd8f53e71b84c6e37d.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/fence_corner_NW.png"
+dest_files=[ "res://.import/fence_corner_NW.png-3070af1b4c514dbe5562837842bb9ecf.stex" ]
 
 [params]
 

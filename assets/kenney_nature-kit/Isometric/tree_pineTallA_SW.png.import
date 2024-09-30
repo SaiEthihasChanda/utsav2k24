@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_pineTallA_SW.png-1133309620e62fb62979dd1496e1248d.stex"
+path="res://.import/tree_pineTallA_SW.png-96de37aa87d1bcb9fbb344f137123a75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_pineTallA_SW.png"
-dest_files=[ "res://.import/tree_pineTallA_SW.png-1133309620e62fb62979dd1496e1248d.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/tree_pineTallA_SW.png"
+dest_files=[ "res://.import/tree_pineTallA_SW.png-96de37aa87d1bcb9fbb344f137123a75.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-grass-large-slope-steep.png-ff1a1eaaff5b9e61e362958ed48d9493.stex"
+path="res://.import/block-grass-large-slope-steep.png-e6089710251e8a3c4f9402109d8b9a50.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-grass-large-slope-steep.png"
-dest_files=[ "res://.import/block-grass-large-slope-steep.png-ff1a1eaaff5b9e61e362958ed48d9493.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-grass-large-slope-steep.png"
+dest_files=[ "res://.import/block-grass-large-slope-steep.png-e6089710251e8a3c4f9402109d8b9a50.stex" ]
 
 [params]
 

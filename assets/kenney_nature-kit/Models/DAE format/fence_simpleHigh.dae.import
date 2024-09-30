@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence_simpleHigh.dae-cce576cf98028e7deb8a93a725b041fe.scn"
+path="res://.import/fence_simpleHigh.dae-a186592f0e2b4e1cdbab411ffddbe0a6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/fence_simpleHigh.dae"
-dest_files=[ "res://.import/fence_simpleHigh.dae-cce576cf98028e7deb8a93a725b041fe.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/fence_simpleHigh.dae"
+dest_files=[ "res://.import/fence_simpleHigh.dae-a186592f0e2b4e1cdbab411ffddbe0a6.scn" ]
 
 [params]
 

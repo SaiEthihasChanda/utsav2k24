@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire_stones.glb-d95b2792b86fa4a76f70f502339a36ed.scn"
+path="res://.import/campfire_stones.glb-615e51eae8912c229513feb687a1727d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/campfire_stones.glb"
-dest_files=[ "res://.import/campfire_stones.glb-d95b2792b86fa4a76f70f502339a36ed.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/campfire_stones.glb"
+dest_files=[ "res://.import/campfire_stones.glb-615e51eae8912c229513feb687a1727d.scn" ]
 
 [params]
 

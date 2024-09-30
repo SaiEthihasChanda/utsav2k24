@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wall-doorway-wide-square.png-99c85c819a9d67c81017aa4a43ec9601.stex"
+path="res://.import/wall-doorway-wide-square.png-c87f1e38b79c3444c469d5e8d435cffb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/wall-doorway-wide-square.png"
-dest_files=[ "res://.import/wall-doorway-wide-square.png-99c85c819a9d67c81017aa4a43ec9601.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/wall-doorway-wide-square.png"
+dest_files=[ "res://.import/wall-doorway-wide-square.png-c87f1e38b79c3444c469d5e8d435cffb.stex" ]
 
 [params]
 

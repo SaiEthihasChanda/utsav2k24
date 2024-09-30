@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/roof-flat-border-side.obj-53c9bc2abaffcbb5a695e6ed543641d9.mesh"
+path="res://.import/roof-flat-border-side.obj-a485cc90b89cc07b6d87efd507406b33.mesh"
 
 [deps]
 
-files=[ "res://.import/roof-flat-border-side.obj-53c9bc2abaffcbb5a695e6ed543641d9.mesh" ]
+files=[ "res://.import/roof-flat-border-side.obj-a485cc90b89cc07b6d87efd507406b33.mesh" ]
 
-source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-flat-border-side.obj"
-dest_files=[ "res://.import/roof-flat-border-side.obj-53c9bc2abaffcbb5a695e6ed543641d9.mesh", "res://.import/roof-flat-border-side.obj-53c9bc2abaffcbb5a695e6ed543641d9.mesh" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/roof-flat-border-side.obj"
+dest_files=[ "res://.import/roof-flat-border-side.obj-a485cc90b89cc07b6d87efd507406b33.mesh", "res://.import/roof-flat-border-side.obj-a485cc90b89cc07b6d87efd507406b33.mesh" ]
 
 [params]
 

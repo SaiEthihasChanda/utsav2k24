@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/statue_column_NW.png-80007c07b523f81b4ef4efb6400dacf4.stex"
+path="res://.import/statue_column_NW.png-2f23e48d1d3ca9cd1f6612bdb6d18b79.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/statue_column_NW.png"
-dest_files=[ "res://.import/statue_column_NW.png-80007c07b523f81b4ef4efb6400dacf4.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/statue_column_NW.png"
+dest_files=[ "res://.import/statue_column_NW.png-2f23e48d1d3ca9cd1f6612bdb6d18b79.stex" ]
 
 [params]
 

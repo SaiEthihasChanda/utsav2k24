@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lily_small.glb-b661403d185ffd008067d905bfff3c2b.scn"
+path="res://.import/lily_small.glb-70d6ca5792cb0a8d448b92b49c5eaf1c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/lily_small.glb"
-dest_files=[ "res://.import/lily_small.glb-b661403d185ffd008067d905bfff3c2b.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/lily_small.glb"
+dest_files=[ "res://.import/lily_small.glb-70d6ca5792cb0a8d448b92b49c5eaf1c.scn" ]
 
 [params]
 

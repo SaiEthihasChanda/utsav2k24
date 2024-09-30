@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/structure-metal-roof.png-86752e9a99b6f4b8f6748a6208e2ab8c.stex"
+path="res://.import/structure-metal-roof.png-ccfe30c2b1251a61acecbf3e8a0bab0f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/structure-metal-roof.png"
-dest_files=[ "res://.import/structure-metal-roof.png-86752e9a99b6f4b8f6748a6208e2ab8c.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/structure-metal-roof.png"
+dest_files=[ "res://.import/structure-metal-roof.png-ccfe30c2b1251a61acecbf3e8a0bab0f.stex" ]
 
 [params]
 

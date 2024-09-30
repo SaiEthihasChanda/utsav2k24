@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coin-bronze.png-94be673396ba019fe30ae214f70e4324.stex"
+path="res://.import/coin-bronze.png-70cb197ea237c759c7afa4a27f192952.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/coin-bronze.png"
-dest_files=[ "res://.import/coin-bronze.png-94be673396ba019fe30ae214f70e4324.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/coin-bronze.png"
+dest_files=[ "res://.import/coin-bronze.png-70cb197ea237c759c7afa4a27f192952.stex" ]
 
 [params]
 

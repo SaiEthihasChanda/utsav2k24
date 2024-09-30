@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/colormap.png-1406df5a53ac1f395d79418b0a55d7bc.s3tc.stex"
-path.etc2="res://.import/colormap.png-1406df5a53ac1f395d79418b0a55d7bc.etc2.stex"
+path.s3tc="res://.import/colormap.png-3ee3ddae0a58ff776715820b02dd164d.s3tc.stex"
+path.etc2="res://.import/colormap.png-3ee3ddae0a58ff776715820b02dd164d.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/OBJ format/Textures/colormap.png"
-dest_files=[ "res://.import/colormap.png-1406df5a53ac1f395d79418b0a55d7bc.s3tc.stex", "res://.import/colormap.png-1406df5a53ac1f395d79418b0a55d7bc.etc2.stex" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/Textures/colormap.png"
+dest_files=[ "res://.import/colormap.png-3ee3ddae0a58ff776715820b02dd164d.s3tc.stex", "res://.import/colormap.png-3ee3ddae0a58ff776715820b02dd164d.etc2.stex" ]
 
 [params]
 

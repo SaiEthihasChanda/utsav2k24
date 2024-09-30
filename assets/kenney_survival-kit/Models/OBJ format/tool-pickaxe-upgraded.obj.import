@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tool-pickaxe-upgraded.obj-0c03da22256321ab4c461e42c2c96bc3.mesh"
+path="res://.import/tool-pickaxe-upgraded.obj-fe83dfce645ceb52876a6a935a3ca3a1.mesh"
 
 [deps]
 
-files=[ "res://.import/tool-pickaxe-upgraded.obj-0c03da22256321ab4c461e42c2c96bc3.mesh" ]
+files=[ "res://.import/tool-pickaxe-upgraded.obj-fe83dfce645ceb52876a6a935a3ca3a1.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tool-pickaxe-upgraded.obj"
-dest_files=[ "res://.import/tool-pickaxe-upgraded.obj-0c03da22256321ab4c461e42c2c96bc3.mesh", "res://.import/tool-pickaxe-upgraded.obj-0c03da22256321ab4c461e42c2c96bc3.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/tool-pickaxe-upgraded.obj"
+dest_files=[ "res://.import/tool-pickaxe-upgraded.obj-fe83dfce645ceb52876a6a935a3ca3a1.mesh", "res://.import/tool-pickaxe-upgraded.obj-fe83dfce645ceb52876a6a935a3ca3a1.mesh" ]
 
 [params]
 

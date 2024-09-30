@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/flower_yellowB.dae-7202719867f094cf90c9b5564cec4e4b.scn"
+path="res://.import/flower_yellowB.dae-130464e2647898877e07380dc3bd8685.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/flower_yellowB.dae"
-dest_files=[ "res://.import/flower_yellowB.dae-7202719867f094cf90c9b5564cec4e4b.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/flower_yellowB.dae"
+dest_files=[ "res://.import/flower_yellowB.dae-130464e2647898877e07380dc3bd8685.scn" ]
 
 [params]
 

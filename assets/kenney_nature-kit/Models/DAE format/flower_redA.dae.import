@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/flower_redA.dae-3f7fb04e9e500c453ebcb24fea5f1be1.scn"
+path="res://.import/flower_redA.dae-43275a21900abe8abffa1ed0372307c2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/flower_redA.dae"
-dest_files=[ "res://.import/flower_redA.dae-3f7fb04e9e500c453ebcb24fea5f1be1.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/flower_redA.dae"
+dest_files=[ "res://.import/flower_redA.dae-43275a21900abe8abffa1ed0372307c2.scn" ]
 
 [params]
 

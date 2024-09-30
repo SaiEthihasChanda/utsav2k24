@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_cone_fall.glb-b7af48518873b48f243ed701e895d10e.scn"
+path="res://.import/tree_cone_fall.glb-9da51729ea6257549ea5fb6d91657d3f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_cone_fall.glb"
-dest_files=[ "res://.import/tree_cone_fall.glb-b7af48518873b48f243ed701e895d10e.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/tree_cone_fall.glb"
+dest_files=[ "res://.import/tree_cone_fall.glb-9da51729ea6257549ea5fb6d91657d3f.scn" ]
 
 [params]
 

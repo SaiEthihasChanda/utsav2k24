@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flower_redA_SE.png-a3b6b2cb97b510c7c797ca8faebd29c4.stex"
+path="res://.import/flower_redA_SE.png-2e96cec9ba18b8473957be212f2c80b4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/flower_redA_SE.png"
-dest_files=[ "res://.import/flower_redA_SE.png-a3b6b2cb97b510c7c797ca8faebd29c4.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/flower_redA_SE.png"
+dest_files=[ "res://.import/flower_redA_SE.png-2e96cec9ba18b8473957be212f2c80b4.stex" ]
 
 [params]
 

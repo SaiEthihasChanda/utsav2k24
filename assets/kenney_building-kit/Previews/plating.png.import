@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plating.png-c12d4c3ef121cb75431d4f15df157faa.stex"
+path="res://.import/plating.png-a22dc1bfd7aebab96af2579d1bda39cb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/plating.png"
-dest_files=[ "res://.import/plating.png-c12d4c3ef121cb75431d4f15df157faa.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/plating.png"
+dest_files=[ "res://.import/plating.png-a22dc1bfd7aebab96af2579d1bda39cb.stex" ]
 
 [params]
 

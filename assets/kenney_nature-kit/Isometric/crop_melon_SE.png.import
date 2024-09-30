@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crop_melon_SE.png-72616c504a363279572aaf34cdaad925.stex"
+path="res://.import/crop_melon_SE.png-1f6f2a4c2946546337e64309867919c8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crop_melon_SE.png"
-dest_files=[ "res://.import/crop_melon_SE.png-72616c504a363279572aaf34cdaad925.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/crop_melon_SE.png"
+dest_files=[ "res://.import/crop_melon_SE.png-1f6f2a4c2946546337e64309867919c8.stex" ]
 
 [params]
 

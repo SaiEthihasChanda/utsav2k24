@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crop_carrot_SE.png-0d948de6e285deddfa24f9431fcffa95.stex"
+path="res://.import/crop_carrot_SE.png-0f1c237c37ece5cd373cce40de01d06b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crop_carrot_SE.png"
-dest_files=[ "res://.import/crop_carrot_SE.png-0d948de6e285deddfa24f9431fcffa95.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/crop_carrot_SE.png"
+dest_files=[ "res://.import/crop_carrot_SE.png-0f1c237c37ece5cd373cce40de01d06b.stex" ]
 
 [params]
 

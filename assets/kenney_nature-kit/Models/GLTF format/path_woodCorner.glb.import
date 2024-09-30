@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/path_woodCorner.glb-d1a9aeeed27501579d78668fc8895158.scn"
+path="res://.import/path_woodCorner.glb-e2fbf2801bef562363d7f8a28d504aaa.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/path_woodCorner.glb"
-dest_files=[ "res://.import/path_woodCorner.glb-d1a9aeeed27501579d78668fc8895158.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/path_woodCorner.glb"
+dest_files=[ "res://.import/path_woodCorner.glb-e2fbf2801bef562363d7f8a28d504aaa.scn" ]
 
 [params]
 

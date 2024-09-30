@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_blockCave_stone.fbx-321d3411748434d435c26aa2ba18e8bf.scn"
+path="res://.import/cliff_blockCave_stone.fbx-9283b42c3c81cd26cbd458e414e2b676.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/cliff_blockCave_stone.fbx"
-dest_files=[ "res://.import/cliff_blockCave_stone.fbx-321d3411748434d435c26aa2ba18e8bf.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/cliff_blockCave_stone.fbx"
+dest_files=[ "res://.import/cliff_blockCave_stone.fbx-9283b42c3c81cd26cbd458e414e2b676.scn" ]
 
 [params]
 

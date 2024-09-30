@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence-doorway.png-250fa5fb3a2b20b7f562d97a2eaeb14a.stex"
+path="res://.import/fence-doorway.png-01cf281b836c99c827969388685365e5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/fence-doorway.png"
-dest_files=[ "res://.import/fence-doorway.png-250fa5fb3a2b20b7f562d97a2eaeb14a.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/fence-doorway.png"
+dest_files=[ "res://.import/fence-doorway.png-01cf281b836c99c827969388685365e5.stex" ]
 
 [params]
 

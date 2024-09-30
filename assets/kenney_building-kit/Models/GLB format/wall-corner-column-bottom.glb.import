@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wall-corner-column-bottom.glb-1dda2484c7bd50eca37d986d7c5b2893.scn"
+path="res://.import/wall-corner-column-bottom.glb-245501bc0d4cfaf599d9c412b5735951.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/wall-corner-column-bottom.glb"
-dest_files=[ "res://.import/wall-corner-column-bottom.glb-1dda2484c7bd50eca37d986d7c5b2893.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/wall-corner-column-bottom.glb"
+dest_files=[ "res://.import/wall-corner-column-bottom.glb-245501bc0d4cfaf599d9c412b5735951.scn" ]
 
 [params]
 

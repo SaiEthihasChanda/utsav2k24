@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_side_stone.glb-f107ff301902fd290984fa7c71f7e33d.scn"
+path="res://.import/bridge_side_stone.glb-417ebabb922ef3f65b66a20cee8a1f2b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/bridge_side_stone.glb"
-dest_files=[ "res://.import/bridge_side_stone.glb-f107ff301902fd290984fa7c71f7e33d.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/bridge_side_stone.glb"
+dest_files=[ "res://.import/bridge_side_stone.glb-417ebabb922ef3f65b66a20cee8a1f2b.scn" ]
 
 [params]
 

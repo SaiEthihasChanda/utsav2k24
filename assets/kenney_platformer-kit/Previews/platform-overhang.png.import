@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/platform-overhang.png-7614682163ef92a9dedb9a3a2c1b5d01.stex"
+path="res://.import/platform-overhang.png-292d583b6539af2b4e57068072c62d93.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/platform-overhang.png"
-dest_files=[ "res://.import/platform-overhang.png-7614682163ef92a9dedb9a3a2c1b5d01.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/platform-overhang.png"
+dest_files=[ "res://.import/platform-overhang.png-292d583b6539af2b4e57068072c62d93.stex" ]
 
 [params]
 

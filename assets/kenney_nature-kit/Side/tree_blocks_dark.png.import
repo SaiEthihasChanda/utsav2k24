@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_blocks_dark.png-626f727c2cdb1e670170787091fec015.stex"
+path="res://.import/tree_blocks_dark.png-e823f4f19435e570b2ff83b3bc2a9152.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/tree_blocks_dark.png"
-dest_files=[ "res://.import/tree_blocks_dark.png-626f727c2cdb1e670170787091fec015.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/tree_blocks_dark.png"
+dest_files=[ "res://.import/tree_blocks_dark.png-e823f4f19435e570b2ff83b3bc2a9152.stex" ]
 
 [params]
 

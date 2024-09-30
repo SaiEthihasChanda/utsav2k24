@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hanging_moss.fbx-17aed99cb37b4e2840b8809a5b5dac37.scn"
+path="res://.import/hanging_moss.fbx-f60d8b04601474c555d32200b8ebcd50.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/hanging_moss.fbx"
-dest_files=[ "res://.import/hanging_moss.fbx-17aed99cb37b4e2840b8809a5b5dac37.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/hanging_moss.fbx"
+dest_files=[ "res://.import/hanging_moss.fbx-f60d8b04601474c555d32200b8ebcd50.scn" ]
 
 [params]
 

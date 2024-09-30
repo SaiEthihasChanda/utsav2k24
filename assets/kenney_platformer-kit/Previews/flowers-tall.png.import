@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flowers-tall.png-590bd249b1ac2a4e4cc5b390c1079286.stex"
+path="res://.import/flowers-tall.png-789c13582dcc2b4eade47f33b29bb106.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/flowers-tall.png"
-dest_files=[ "res://.import/flowers-tall.png-590bd249b1ac2a4e4cc5b390c1079286.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/flowers-tall.png"
+dest_files=[ "res://.import/flowers-tall.png-789c13582dcc2b4eade47f33b29bb106.stex" ]
 
 [params]
 

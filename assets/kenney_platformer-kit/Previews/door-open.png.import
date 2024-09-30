@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/door-open.png-266e18329aeff67936ee9ddeef26bb06.stex"
+path="res://.import/door-open.png-65db024ad0ab32f3c24fc1cbd9c15c44.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/door-open.png"
-dest_files=[ "res://.import/door-open.png-266e18329aeff67936ee9ddeef26bb06.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/door-open.png"
+dest_files=[ "res://.import/door-open.png-65db024ad0ab32f3c24fc1cbd9c15c44.stex" ]
 
 [params]
 

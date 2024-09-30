@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_plateau_SW.png-f92d482a47f5d4249f99bcb219e64fdd.stex"
+path="res://.import/tree_plateau_SW.png-920b8a1506db83da7ef64455c333825b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_plateau_SW.png"
-dest_files=[ "res://.import/tree_plateau_SW.png-f92d482a47f5d4249f99bcb219e64fdd.stex" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/tree_plateau_SW.png"
+dest_files=[ "res://.import/tree_plateau_SW.png-920b8a1506db83da7ef64455c333825b.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bed_floor.dae-a0ae28cf74cce5fc7d658dc2e0cce6ed.scn"
+path="res://.import/bed_floor.dae-ca73dbfd651c21e38e874b5dacb5fb2a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/bed_floor.dae"
-dest_files=[ "res://.import/bed_floor.dae-a0ae28cf74cce5fc7d658dc2e0cce6ed.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/bed_floor.dae"
+dest_files=[ "res://.import/bed_floor.dae-ca73dbfd651c21e38e874b5dacb5fb2a.scn" ]
 
 [params]
 

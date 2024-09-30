@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/path_woodEnd.glb-4b16e3f888185f771f35c77cdd4ff732.scn"
+path="res://.import/path_woodEnd.glb-19aceaa50b2445e02acf86dae858fe88.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/path_woodEnd.glb"
-dest_files=[ "res://.import/path_woodEnd.glb-4b16e3f888185f771f35c77cdd4ff732.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/path_woodEnd.glb"
+dest_files=[ "res://.import/path_woodEnd.glb-19aceaa50b2445e02acf86dae858fe88.scn" ]
 
 [params]
 

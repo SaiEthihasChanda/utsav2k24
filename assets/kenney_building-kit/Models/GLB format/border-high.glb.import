@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/border-high.glb-34e21cc4789c56dab28b02b682b65fb6.scn"
+path="res://.import/border-high.glb-87eb99a9312c24998746d231a0ae4d1b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/border-high.glb"
-dest_files=[ "res://.import/border-high.glb-34e21cc4789c56dab28b02b682b65fb6.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/border-high.glb"
+dest_files=[ "res://.import/border-high.glb-87eb99a9312c24998746d231a0ae4d1b.scn" ]
 
 [params]
 

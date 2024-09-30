@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/fence-broken.obj-8813b83920bf625ac1aca01421ff013d.mesh"
+path="res://.import/fence-broken.obj-ceb98ede46fcc8e010bd1b7d4e247edd.mesh"
 
 [deps]
 
-files=[ "res://.import/fence-broken.obj-8813b83920bf625ac1aca01421ff013d.mesh" ]
+files=[ "res://.import/fence-broken.obj-ceb98ede46fcc8e010bd1b7d4e247edd.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/fence-broken.obj"
-dest_files=[ "res://.import/fence-broken.obj-8813b83920bf625ac1aca01421ff013d.mesh", "res://.import/fence-broken.obj-8813b83920bf625ac1aca01421ff013d.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/fence-broken.obj"
+dest_files=[ "res://.import/fence-broken.obj-ceb98ede46fcc8e010bd1b7d4e247edd.mesh", "res://.import/fence-broken.obj-ceb98ede46fcc8e010bd1b7d4e247edd.mesh" ]
 
 [params]
 

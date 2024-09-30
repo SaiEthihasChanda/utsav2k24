@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_cone.png-8ad73e7a5b1d457ad07846797cbc0532.stex"
+path="res://.import/tree_cone.png-e6a2ca22d7faf308766ce349faf659b7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/tree_cone.png"
-dest_files=[ "res://.import/tree_cone.png-8ad73e7a5b1d457ad07846797cbc0532.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/tree_cone.png"
+dest_files=[ "res://.import/tree_cone.png-e6a2ca22d7faf308766ce349faf659b7.stex" ]
 
 [params]
 

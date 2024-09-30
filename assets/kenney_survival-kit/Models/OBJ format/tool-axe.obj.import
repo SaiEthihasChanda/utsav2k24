@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tool-axe.obj-a2b2ba170e1ddb85e2164b50682f45f9.mesh"
+path="res://.import/tool-axe.obj-4bad2230c1b5654ef5c5b4bb7152f64a.mesh"
 
 [deps]
 
-files=[ "res://.import/tool-axe.obj-a2b2ba170e1ddb85e2164b50682f45f9.mesh" ]
+files=[ "res://.import/tool-axe.obj-4bad2230c1b5654ef5c5b4bb7152f64a.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tool-axe.obj"
-dest_files=[ "res://.import/tool-axe.obj-a2b2ba170e1ddb85e2164b50682f45f9.mesh", "res://.import/tool-axe.obj-a2b2ba170e1ddb85e2164b50682f45f9.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/tool-axe.obj"
+dest_files=[ "res://.import/tool-axe.obj-4bad2230c1b5654ef5c5b4bb7152f64a.mesh", "res://.import/tool-axe.obj-4bad2230c1b5654ef5c5b4bb7152f64a.mesh" ]
 
 [params]
 

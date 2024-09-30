@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cactus_short.glb-c5a880b33fb2fe42f2f25553fbd67aa2.scn"
+path="res://.import/cactus_short.glb-049b87d4d65d8c8d9957fe291719b3a6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/cactus_short.glb"
-dest_files=[ "res://.import/cactus_short.glb-c5a880b33fb2fe42f2f25553fbd67aa2.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/cactus_short.glb"
+dest_files=[ "res://.import/cactus_short.glb-049b87d4d65d8c8d9957fe291719b3a6.scn" ]
 
 [params]
 

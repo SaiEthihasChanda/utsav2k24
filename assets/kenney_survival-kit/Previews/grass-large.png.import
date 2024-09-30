@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass-large.png-2b6dc16de28ac818d3d726c970f6bff6.stex"
+path="res://.import/grass-large.png-06050ac8857da3b8e60a288aa570f73f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/grass-large.png"
-dest_files=[ "res://.import/grass-large.png-2b6dc16de28ac818d3d726c970f6bff6.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/grass-large.png"
+dest_files=[ "res://.import/grass-large.png-06050ac8857da3b8e60a288aa570f73f.stex" ]
 
 [params]
 

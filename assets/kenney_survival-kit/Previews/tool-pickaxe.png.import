@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tool-pickaxe.png-2a3a8ce16df19ea931acbcca583a3553.stex"
+path="res://.import/tool-pickaxe.png-3d2fe8a9aed86e7f9ae36f014208325d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tool-pickaxe.png"
-dest_files=[ "res://.import/tool-pickaxe.png-2a3a8ce16df19ea931acbcca583a3553.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/tool-pickaxe.png"
+dest_files=[ "res://.import/tool-pickaxe.png-3d2fe8a9aed86e7f9ae36f014208325d.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grass_leafs.fbx-58a04315522bf889f600b0d4e6cf2ba2.scn"
+path="res://.import/grass_leafs.fbx-f0b34874a8d49df4f5bced65f49b0f3c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/grass_leafs.fbx"
-dest_files=[ "res://.import/grass_leafs.fbx-58a04315522bf889f600b0d4e6cf2ba2.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/grass_leafs.fbx"
+dest_files=[ "res://.import/grass_leafs.fbx-f0b34874a8d49df4f5bced65f49b0f3c.scn" ]
 
 [params]
 

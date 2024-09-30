@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plant_bush.dae-ab93aebfa354e9ad7778414581749950.scn"
+path="res://.import/plant_bush.dae-cbc3860c164dba3ae3573c5140183ece.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/plant_bush.dae"
-dest_files=[ "res://.import/plant_bush.dae-ab93aebfa354e9ad7778414581749950.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/plant_bush.dae"
+dest_files=[ "res://.import/plant_bush.dae-cbc3860c164dba3ae3573c5140183ece.scn" ]
 
 [params]
 

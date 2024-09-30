@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/structure-metal-roof.obj-2049ea80f28d0bcd67ffa9f6872f17e4.mesh"
+path="res://.import/structure-metal-roof.obj-dd24bb8f6811674ac74af474f27b0ef4.mesh"
 
 [deps]
 
-files=[ "res://.import/structure-metal-roof.obj-2049ea80f28d0bcd67ffa9f6872f17e4.mesh" ]
+files=[ "res://.import/structure-metal-roof.obj-dd24bb8f6811674ac74af474f27b0ef4.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/structure-metal-roof.obj"
-dest_files=[ "res://.import/structure-metal-roof.obj-2049ea80f28d0bcd67ffa9f6872f17e4.mesh", "res://.import/structure-metal-roof.obj-2049ea80f28d0bcd67ffa9f6872f17e4.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/structure-metal-roof.obj"
+dest_files=[ "res://.import/structure-metal-roof.obj-dd24bb8f6811674ac74af474f27b0ef4.mesh", "res://.import/structure-metal-roof.obj-dd24bb8f6811674ac74af474f27b0ef4.mesh" ]
 
 [params]
 

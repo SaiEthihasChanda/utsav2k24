@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/floor-corner-diagonal.obj-056f3b8f6ebde94165fa85a624dec2e1.mesh"
+path="res://.import/floor-corner-diagonal.obj-ff4604702c24ecfea17e3194af2abd29.mesh"
 
 [deps]
 
-files=[ "res://.import/floor-corner-diagonal.obj-056f3b8f6ebde94165fa85a624dec2e1.mesh" ]
+files=[ "res://.import/floor-corner-diagonal.obj-ff4604702c24ecfea17e3194af2abd29.mesh" ]
 
-source_file="res://assets/kenney_building-kit/Models/OBJ format/floor-corner-diagonal.obj"
-dest_files=[ "res://.import/floor-corner-diagonal.obj-056f3b8f6ebde94165fa85a624dec2e1.mesh", "res://.import/floor-corner-diagonal.obj-056f3b8f6ebde94165fa85a624dec2e1.mesh" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/floor-corner-diagonal.obj"
+dest_files=[ "res://.import/floor-corner-diagonal.obj-ff4604702c24ecfea17e3194af2abd29.mesh", "res://.import/floor-corner-diagonal.obj-ff4604702c24ecfea17e3194af2abd29.mesh" ]
 
 [params]
 

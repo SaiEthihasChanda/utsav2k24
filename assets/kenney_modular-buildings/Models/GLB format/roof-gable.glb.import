@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-gable.glb-bf918b3a3db82db05a4c8603d39d7ad3.scn"
+path="res://.import/roof-gable.glb-d1af178f1b48f07beedecc752167d3e9.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/roof-gable.glb"
-dest_files=[ "res://.import/roof-gable.glb-bf918b3a3db82db05a4c8603d39d7ad3.scn" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/roof-gable.glb"
+dest_files=[ "res://.import/roof-gable.glb-d1af178f1b48f07beedecc752167d3e9.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_palmDetailedShort.dae-eb02d2b75b3ca1d3fef7205072289715.scn"
+path="res://.import/tree_palmDetailedShort.dae-841e7321e7adb79c265736b60c7b84c1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_palmDetailedShort.dae"
-dest_files=[ "res://.import/tree_palmDetailedShort.dae-eb02d2b75b3ca1d3fef7205072289715.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/tree_palmDetailedShort.dae"
+dest_files=[ "res://.import/tree_palmDetailedShort.dae-841e7321e7adb79c265736b60c7b84c1.scn" ]
 
 [params]
 

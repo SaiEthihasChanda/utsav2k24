@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cliff_large_rock.png-1e4e47ba6347758f11c6ce55ff571d39.stex"
+path="res://.import/cliff_large_rock.png-3170eb001447e16db0eadbe32731e8ca.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/cliff_large_rock.png"
-dest_files=[ "res://.import/cliff_large_rock.png-1e4e47ba6347758f11c6ce55ff571d39.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/cliff_large_rock.png"
+dest_files=[ "res://.import/cliff_large_rock.png-3170eb001447e16db0eadbe32731e8ca.stex" ]
 
 [params]
 

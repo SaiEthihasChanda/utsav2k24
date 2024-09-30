@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverCross.glb-9d4b06c4730806221d2d2c5824e45ff2.scn"
+path="res://.import/ground_riverCross.glb-b48c9370710e5365499ecb31d90a7f46.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverCross.glb"
-dest_files=[ "res://.import/ground_riverCross.glb-9d4b06c4730806221d2d2c5824e45ff2.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/ground_riverCross.glb"
+dest_files=[ "res://.import/ground_riverCross.glb-b48c9370710e5365499ecb31d90a7f46.scn" ]
 
 [params]
 

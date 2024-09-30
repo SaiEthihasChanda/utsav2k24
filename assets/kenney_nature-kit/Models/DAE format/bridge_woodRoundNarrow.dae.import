@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_woodRoundNarrow.dae-a83a3ad6f5c68da0707dfec68b017795.scn"
+path="res://.import/bridge_woodRoundNarrow.dae-cc931a8bd30e89198b2abb82eb3ba1c9.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/bridge_woodRoundNarrow.dae"
-dest_files=[ "res://.import/bridge_woodRoundNarrow.dae-a83a3ad6f5c68da0707dfec68b017795.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/bridge_woodRoundNarrow.dae"
+dest_files=[ "res://.import/bridge_woodRoundNarrow.dae-cc931a8bd30e89198b2abb82eb3ba1c9.scn" ]
 
 [params]
 

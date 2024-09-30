@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_waterfallTop_rock.dae-46a23148926c6ab5efb7d086609bfc1e.scn"
+path="res://.import/cliff_waterfallTop_rock.dae-d492157ac039b54a0f82b05fdae7b208.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_waterfallTop_rock.dae"
-dest_files=[ "res://.import/cliff_waterfallTop_rock.dae-46a23148926c6ab5efb7d086609bfc1e.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/cliff_waterfallTop_rock.dae"
+dest_files=[ "res://.import/cliff_waterfallTop_rock.dae-d492157ac039b54a0f82b05fdae7b208.scn" ]
 
 [params]
 

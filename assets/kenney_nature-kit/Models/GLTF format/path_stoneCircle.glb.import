@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/path_stoneCircle.glb-0d9008e4f16c98e6087b77831f84ff6c.scn"
+path="res://.import/path_stoneCircle.glb-5ebfa78d281a8855221107955938114c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/path_stoneCircle.glb"
-dest_files=[ "res://.import/path_stoneCircle.glb-0d9008e4f16c98e6087b77831f84ff6c.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/path_stoneCircle.glb"
+dest_files=[ "res://.import/path_stoneCircle.glb-5ebfa78d281a8855221107955938114c.scn" ]
 
 [params]
 

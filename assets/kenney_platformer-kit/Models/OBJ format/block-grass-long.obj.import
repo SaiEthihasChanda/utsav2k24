@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-grass-long.obj-7ab1baadc81d24d2984bb401d7416e9e.mesh"
+path="res://.import/block-grass-long.obj-746b24780cfc842911939a75b6d541e1.mesh"
 
 [deps]
 
-files=[ "res://.import/block-grass-long.obj-7ab1baadc81d24d2984bb401d7416e9e.mesh" ]
+files=[ "res://.import/block-grass-long.obj-746b24780cfc842911939a75b6d541e1.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-grass-long.obj"
-dest_files=[ "res://.import/block-grass-long.obj-7ab1baadc81d24d2984bb401d7416e9e.mesh", "res://.import/block-grass-long.obj-7ab1baadc81d24d2984bb401d7416e9e.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-long.obj"
+dest_files=[ "res://.import/block-grass-long.obj-746b24780cfc842911939a75b6d541e1.mesh", "res://.import/block-grass-long.obj-746b24780cfc842911939a75b6d541e1.mesh" ]
 
 [params]
 

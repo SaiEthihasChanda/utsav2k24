@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/stairs-closed-short.obj-2962a8b94ebea48aedf8f99848b7f8b1.mesh"
+path="res://.import/stairs-closed-short.obj-40a705c69dbcaac55a4f7b82b74d1936.mesh"
 
 [deps]
 
-files=[ "res://.import/stairs-closed-short.obj-2962a8b94ebea48aedf8f99848b7f8b1.mesh" ]
+files=[ "res://.import/stairs-closed-short.obj-40a705c69dbcaac55a4f7b82b74d1936.mesh" ]
 
-source_file="res://assets/kenney_building-kit/Models/OBJ format/stairs-closed-short.obj"
-dest_files=[ "res://.import/stairs-closed-short.obj-2962a8b94ebea48aedf8f99848b7f8b1.mesh", "res://.import/stairs-closed-short.obj-2962a8b94ebea48aedf8f99848b7f8b1.mesh" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/stairs-closed-short.obj"
+dest_files=[ "res://.import/stairs-closed-short.obj-40a705c69dbcaac55a4f7b82b74d1936.mesh", "res://.import/stairs-closed-short.obj-40a705c69dbcaac55a4f7b82b74d1936.mesh" ]
 
 [params]
 

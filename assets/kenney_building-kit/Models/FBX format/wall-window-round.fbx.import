@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wall-window-round.fbx-cd07f12069c00bfec19fc115514f2739.scn"
+path="res://.import/wall-window-round.fbx-a685ffca96142c1c2c07cf1dc0b4794a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/wall-window-round.fbx"
-dest_files=[ "res://.import/wall-window-round.fbx-cd07f12069c00bfec19fc115514f2739.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/wall-window-round.fbx"
+dest_files=[ "res://.import/wall-window-round.fbx-a685ffca96142c1c2c07cf1dc0b4794a.scn" ]
 
 [params]
 

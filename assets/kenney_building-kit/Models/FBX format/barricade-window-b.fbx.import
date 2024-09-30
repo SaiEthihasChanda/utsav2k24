@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/barricade-window-b.fbx-06e563afc0d8ad6ad117b544229acd38.scn"
+path="res://.import/barricade-window-b.fbx-f64f68879100700dd25aae0ecaae0d46.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/barricade-window-b.fbx"
-dest_files=[ "res://.import/barricade-window-b.fbx-06e563afc0d8ad6ad117b544229acd38.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/barricade-window-b.fbx"
+dest_files=[ "res://.import/barricade-window-b.fbx-f64f68879100700dd25aae0ecaae0d46.scn" ]
 
 [params]
 

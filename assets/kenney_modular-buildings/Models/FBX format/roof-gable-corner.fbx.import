@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-gable-corner.fbx-3c79ba657c782fac33bb019f626e71ed.scn"
+path="res://.import/roof-gable-corner.fbx-42b684cbd4e66a6c8081467e5d27868f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-gable-corner.fbx"
-dest_files=[ "res://.import/roof-gable-corner.fbx-3c79ba657c782fac33bb019f626e71ed.scn" ]
+source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/roof-gable-corner.fbx"
+dest_files=[ "res://.import/roof-gable-corner.fbx-42b684cbd4e66a6c8081467e5d27868f.scn" ]
 
 [params]
 

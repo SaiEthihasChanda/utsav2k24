@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/floor-corner-round.fbx-c8ffe6c694fc0062201cc60e8a35024f.scn"
+path="res://.import/floor-corner-round.fbx-b39003e1f42771e420789296933a1b3e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/floor-corner-round.fbx"
-dest_files=[ "res://.import/floor-corner-round.fbx-c8ffe6c694fc0062201cc60e8a35024f.scn" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/floor-corner-round.fbx"
+dest_files=[ "res://.import/floor-corner-round.fbx-b39003e1f42771e420789296933a1b3e.scn" ]
 
 [params]
 

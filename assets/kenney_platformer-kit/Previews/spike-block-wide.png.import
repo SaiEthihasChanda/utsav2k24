@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spike-block-wide.png-c60e4104c1635fbd9074cef00765a263.stex"
+path="res://.import/spike-block-wide.png-44ef471cbb5ba943afa1c656f0a14ab6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/spike-block-wide.png"
-dest_files=[ "res://.import/spike-block-wide.png-c60e4104c1635fbd9074cef00765a263.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/spike-block-wide.png"
+dest_files=[ "res://.import/spike-block-wide.png-44ef471cbb5ba943afa1c656f0a14ab6.stex" ]
 
 [params]
 

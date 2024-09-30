@@ -2,15 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/colormap.png-efea28a84b6533f3bb21d967373e4bf0.stex"
+path.s3tc="res://.import/colormap.png-cf2eea7d744401485f0a1ac1a9e2fadf.s3tc.stex"
+path.etc2="res://.import/colormap.png-cf2eea7d744401485f0a1ac1a9e2fadf.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/Textures/colormap.png"
-dest_files=[ "res://.import/colormap.png-efea28a84b6533f3bb21d967373e4bf0.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/Textures/colormap.png"
+dest_files=[ "res://.import/colormap.png-cf2eea7d744401485f0a1ac1a9e2fadf.s3tc.stex", "res://.import/colormap.png-cf2eea7d744401485f0a1ac1a9e2fadf.etc2.stex" ]
 
 [params]
 

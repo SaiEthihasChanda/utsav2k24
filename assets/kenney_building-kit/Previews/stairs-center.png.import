@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stairs-center.png-e376521147db0e54c4b12f07ea99d86d.stex"
+path="res://.import/stairs-center.png-c9594106e32effc5948687456a5cf1d5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Previews/stairs-center.png"
-dest_files=[ "res://.import/stairs-center.png-e376521147db0e54c4b12f07ea99d86d.stex" ]
+source_file="res://utsav2k24/assets/kenney_building-kit/Previews/stairs-center.png"
+dest_files=[ "res://.import/stairs-center.png-c9594106e32effc5948687456a5cf1d5.stex" ]
 
 [params]
 

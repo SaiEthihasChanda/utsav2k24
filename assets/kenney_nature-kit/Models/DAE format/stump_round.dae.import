@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stump_round.dae-a200fc8906e6540f93c6cdee8d1913a6.scn"
+path="res://.import/stump_round.dae-47051938aeef66d682bc34a7e2b33d45.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/stump_round.dae"
-dest_files=[ "res://.import/stump_round.dae-a200fc8906e6540f93c6cdee8d1913a6.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/stump_round.dae"
+dest_files=[ "res://.import/stump_round.dae-47051938aeef66d682bc34a7e2b33d45.scn" ]
 
 [params]
 

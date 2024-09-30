@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bed.glb-28373c2706b1e20923bad6c29895a722.scn"
+path="res://.import/bed.glb-25800e12a3f764b69723ad49445e9697.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/bed.glb"
-dest_files=[ "res://.import/bed.glb-28373c2706b1e20923bad6c29895a722.scn" ]
+source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/bed.glb"
+dest_files=[ "res://.import/bed.glb-25800e12a3f764b69723ad49445e9697.scn" ]
 
 [params]
 

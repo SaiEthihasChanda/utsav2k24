@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tent-canvas.png-1dc89c4c03d1d8e1405995ef2fe458c2.stex"
+path="res://.import/tent-canvas.png-2f4987fbddb0a64d6d85e19fd63bbb42.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tent-canvas.png"
-dest_files=[ "res://.import/tent-canvas.png-1dc89c4c03d1d8e1405995ef2fe458c2.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/tent-canvas.png"
+dest_files=[ "res://.import/tent-canvas.png-2f4987fbddb0a64d6d85e19fd63bbb42.stex" ]
 
 [params]
 

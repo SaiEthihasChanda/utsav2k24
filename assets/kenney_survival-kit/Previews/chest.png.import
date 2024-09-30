@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chest.png-fb131357620ccb70a4eb879dc26bae4f.stex"
+path="res://.import/chest.png-ab89745a2ad794e2c99d8f5613bcfbbc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/chest.png"
-dest_files=[ "res://.import/chest.png-fb131357620ccb70a4eb879dc26bae4f.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/chest.png"
+dest_files=[ "res://.import/chest.png-ab89745a2ad794e2c99d8f5613bcfbbc.stex" ]
 
 [params]
 
