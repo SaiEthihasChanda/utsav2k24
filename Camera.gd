@@ -3,7 +3,7 @@ extends Camera
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
 	var raycast = self.get_node("RayCast")
-	var mesh_instance = self.get_node("MeshInstance")
+	var mesh_instance = self.get_node("cursor")
 	
 	if raycast.is_colliding():
 		# Get the collision point and normal of the surface

@@ -1,4 +1,4 @@
-[gd_scene load_steps=24 format=2]
+[gd_scene load_steps=25 format=2]
 
 [ext_resource path="res://turbine.tscn" type="PackedScene" id=1]
 [ext_resource path="res://house.tscn" type="PackedScene" id=2]
@@ -80,7 +80,7 @@ func _physics_process(delta):
 		#print(current_target)
 		if (current_target == \"SolarPanel\") or (current_target == \"Turbine\"):
 			if Input.is_action_just_pressed(\"upgrade\"):
-				var chk = emit_signal(\"upgrade\")
+				#var chk = emit_signal(\"upgrade\")
 				sing.levels[$Camera/RayCast.get_collider()]+=1
 				print(sing.levels[$Camera/RayCast.get_collider()])
 		
@@ -129,7 +129,7 @@ func place_instance():
 			bought = true
 			scene_to_place = preload(\"res://tree.tscn\")
 			instance = scene_to_place.instance()
-			instance.scale = Vector3(4.5, 4.5, 4.5)
+			instance.scale = Vector3(8, 8, 8)
 			
 			tree_bought = false
 			bought = true
@@ -216,10 +216,10 @@ func place_instance():
 		ray.force_raycast_update()
 		if ray.is_colliding():
 			var collider = ray.get_collider()
-			print(collider.name)
+			#print(collider.name)
 			
 			# Check if the object hit by the ray is the \"landcoll\" node
-			if collider.name == \"landcoll\":
+			if collider.name == \"landcoll\" or collider.name == \"garden\":
 				var collision_point = ray.get_collision_point()
 				ray.enabled = false
 				collision_point.y += 0.2  # Slight upward adjustment
@@ -289,6 +289,9 @@ albedo_color = Color( 0.964706, 0.482353, 0.133333, 1 )
 [sub_resource type="SphereMesh" id=9]
 material = SubResource( 8 )
 
+[sub_resource type="BoxShape" id=11]
+extents = Vector3( 0.194188, 0.205295, 0.190798 )
+
 [sub_resource type="DynamicFont" id=10]
 font_data = ExtResource( 13 )
 
@@ -329,10 +332,17 @@ transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, -0.2
 enabled = true
 cast_to = Vector3( 0, -10, 0 )
 
-[node name="MeshInstance" type="MeshInstance" parent="jeff/Camera"]
+[node name="cursor" type="MeshInstance" parent="jeff/Camera"]
 transform = Transform( 0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, 2.56864e-07, 0, -2.93819 )
 mesh = SubResource( 9 )
 material/0 = null
+
+[node name="cursor" type="Area" parent="jeff/Camera/cursor"]
+transform = Transform( 1, 0, 1.42109e-14, 0, 1, 0, -1.42109e-14, 0, 1, 0.00517488, 0, 0 )
+
+[node name="CollisionShape" type="CollisionShape" parent="jeff/Camera/cursor/cursor"]
+transform = Transform( 5.04396, 0, -1.78258e-07, 0, 4.4159, 0, -3.56517e-07, 0, 4.56102, 0, 0, 0 )
+shape = SubResource( 11 )
 
 [node name="building-sample-house-c" parent="." instance=ExtResource( 2 )]
 transform = Transform( 8, 0, 0, 0, 8, 0, 0, 0, 8, 5.15056, 1.20079, -8.93666 )
@@ -349,6 +359,7 @@ light_energy = 0.7
 shadow_enabled = true
 
 [node name="score" parent="." instance=ExtResource( 8 )]
+scale = Vector2( 0.75, 0.75 )
 
 [node name="garden" parent="." instance=ExtResource( 10 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.762119, 0.301299, -34.1754 )
@@ -370,9 +381,6 @@ transform = Transform( -4.80825e-07, 0, 10, 0, 10, 0, -11, 0, -4.37114e-07, 44.3
 
 [node name="fence_planks2" parent="garden" instance=ExtResource( 12 )]
 transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -25.0743, 1.43475, 10.6036 )
-
-[node name="fence_planks3" parent="garden" instance=ExtResource( 12 )]
-transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -15.1845, 1.43475, 10.6036 )
 
 [node name="fence_planks4" parent="garden" instance=ExtResource( 12 )]
 transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -5.37324, 1.43475, 10.6036 )

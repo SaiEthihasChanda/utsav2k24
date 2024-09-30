@@ -16,3 +16,20 @@ func _process(delta):
 		sing.energy_points += 1  # Increment energy points
 		print(sing.energy_points)
 		time_passed = 0.0  # Reset the timer
+
+
+func _on_Area_area_entered(area):
+	#print(area.name)
+	if area.name == "cursor":
+		$RootNode/Stamm001/outline.show()
+	else:
+		$RootNode/Stamm001/outline.hide()
+	pass # Replace with function body.
+
+
+func _on_Area_area_exited(area):
+	if area.name == "cursor":
+		$RootNode/Stamm001/outline.hide()
+	else:
+		$RootNode/Stamm001/outline.show()
+	pass # Replace with function body.

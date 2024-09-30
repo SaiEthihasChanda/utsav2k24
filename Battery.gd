@@ -15,3 +15,18 @@ func _ready():
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
 #	pass
+
+
+func _on_Area_area_entered(area):
+	if area.name == "cursor":
+		$RootNode/Mesh/outline.show()
+	else:
+		$RootNode/Mesh/outline.hide()
+	pass # Replace with function body.
+
+
+func _on_Area_area_exited(area):
+	if area.name == "cursor":
+		$RootNode/Mesh/outline.hide()
+	else:
+		$RootNode/Mesh/outline.show()
