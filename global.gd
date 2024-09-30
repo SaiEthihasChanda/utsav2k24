@@ -5,7 +5,16 @@ extends Node
 # var a = 2
 # var b = "text"
 var energy_points = 30
-var energy_threshold = 100
+var energy_threshold = 1000
+var elements = {
+	"solar":1,
+	"turbine":1,
+	"battery":1,
+	"trees": 0
+}
+var levels ={
+	
+}
 
 # Called when the node enters the scene tree for the first time.
 func _ready():

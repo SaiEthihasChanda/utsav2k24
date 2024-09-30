@@ -1,0 +1,109 @@
+[gd_scene load_steps=22 format=2]
+
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineSmallB_NE.png" type="Texture" id=1]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_default_dark_NE.png" type="Texture" id=2]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_fat_darkh_NE.png" type="Texture" id=3]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_palmDetailedShort_NE.png" type="Texture" id=4]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineSmallD_NE.png" type="Texture" id=5]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineTallA_detailed_NE.png" type="Texture" id=6]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_simple_SE.png" type="Texture" id=7]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineTallB_detailed_NE.png" type="Texture" id=8]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineSmallA_NE.png" type="Texture" id=9]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineTallC_NE.png" type="Texture" id=10]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_cone_dark_NW.png" type="Texture" id=11]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_palmBend_NE.png" type="Texture" id=12]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineRoundC_SE.png" type="Texture" id=13]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineRoundB_SW.png" type="Texture" id=14]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineRoundA_NW.png" type="Texture" id=15]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_detailed_dark_NW.png" type="Texture" id=16]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineRoundF_NE.png" type="Texture" id=17]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_pineSmallC_NE.png" type="Texture" id=18]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_plateau_dark_NE.png" type="Texture" id=19]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_oak_dark_NW.png" type="Texture" id=20]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_blocks_dark_NE.png" type="Texture" id=21]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="tree_blocks_dark_NE" type="Sprite" parent="."]
+position = Vector2( 74.2299, 80.2718 )
+texture = ExtResource( 21 )
+
+[node name="tree_cone_dark_NW" type="Sprite" parent="."]
+position = Vector2( 238.02, 86.5714 )
+texture = ExtResource( 11 )
+
+[node name="tree_default_dark_NE" type="Sprite" parent="."]
+position = Vector2( 382.911, 101.69 )
+texture = ExtResource( 2 )
+
+[node name="tree_detailed_dark_NW" type="Sprite" parent="."]
+position = Vector2( 511.423, 100.431 )
+texture = ExtResource( 16 )
+
+[node name="tree_fat_darkh_NE" type="Sprite" parent="."]
+position = Vector2( 631.115, 99.1706 )
+texture = ExtResource( 3 )
+
+[node name="tree_oak_dark_NW" type="Sprite" parent="."]
+position = Vector2( 741.988, 91.6111 )
+texture = ExtResource( 20 )
+
+[node name="tree_palmBend_NE" type="Sprite" parent="."]
+position = Vector2( 866.72, 100.431 )
+texture = ExtResource( 12 )
+
+[node name="tree_palmDetailedShort_NE" type="Sprite" parent="."]
+position = Vector2( 78.0097, 249.101 )
+texture = ExtResource( 4 )
+
+[node name="tree_pineRoundC_SE" type="Sprite" parent="."]
+position = Vector2( 220.381, 257.921 )
+texture = ExtResource( 13 )
+
+[node name="tree_pineRoundB_SW" type="Sprite" parent="."]
+position = Vector2( 336.294, 268 )
+texture = ExtResource( 14 )
+
+[node name="tree_pineRoundA_NW" type="Sprite" parent="."]
+position = Vector2( 471.105, 268 )
+texture = ExtResource( 15 )
+
+[node name="tree_pineSmallD_NE" type="Sprite" parent="tree_pineRoundA_NW"]
+position = Vector2( -270.883, 134.812 )
+texture = ExtResource( 5 )
+
+[node name="tree_pineRoundF_NE" type="Sprite" parent="."]
+position = Vector2( 607.177, 261.7 )
+texture = ExtResource( 17 )
+
+[node name="tree_pineSmallA_NE" type="Sprite" parent="."]
+position = Vector2( 729.389, 254.141 )
+texture = ExtResource( 9 )
+
+[node name="tree_pineSmallB_NE" type="Sprite" parent="."]
+position = Vector2( 845.302, 254.141 )
+texture = ExtResource( 1 )
+
+[node name="tree_pineSmallC_NE" type="Sprite" parent="."]
+position = Vector2( 84.3093, 411.631 )
+texture = ExtResource( 18 )
+
+[node name="tree_pineTallA_detailed_NE" type="Sprite" parent="."]
+position = Vector2( 313.615, 409.111 )
+texture = ExtResource( 6 )
+
+[node name="tree_pineTallB_detailed_NE" type="Sprite" parent="."]
+position = Vector2( 414.409, 430.53 )
+texture = ExtResource( 8 )
+
+[node name="tree_pineTallC_NE" type="Sprite" parent="."]
+position = Vector2( 531.581, 426.75 )
+texture = ExtResource( 10 )
+
+[node name="tree_plateau_dark_NE" type="Sprite" parent="."]
+position = Vector2( 636.155, 412.891 )
+texture = ExtResource( 19 )
+
+[node name="tree_simple_SE" type="Sprite" parent="."]
+position = Vector2( 733.169, 412.891 )
+texture = ExtResource( 7 )

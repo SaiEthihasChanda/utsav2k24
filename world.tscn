@@ -1,17 +1,37 @@
-[gd_scene load_steps=14 format=2]
+[gd_scene load_steps=24 format=2]
 
 [ext_resource path="res://turbine.tscn" type="PackedScene" id=1]
 [ext_resource path="res://house.tscn" type="PackedScene" id=2]
 [ext_resource path="res://SolarPanel.tscn" type="PackedScene" id=3]
-[ext_resource path="res://Battery.tscn" type="PackedScene" id=4]
 [ext_resource path="res://Camera.gd" type="Script" id=5]
+[ext_resource path="res://assets/Grass004_1K-JPG/Grass004_1K-JPG_Color.jpg" type="Texture" id=6]
+[ext_resource path="res://assets/Grass004_1K-JPG/Grass004_1K-JPG_AmbientOcclusion.jpg" type="Texture" id=7]
+[ext_resource path="res://score.tscn" type="PackedScene" id=8]
+[ext_resource path="res://assets/Grass004_1K-JPG/Grass004_1K-JPG_NormalDX.jpg" type="Texture" id=9]
+[ext_resource path="res://garden.tscn" type="PackedScene" id=10]
+[ext_resource path="res://fence_corner.tscn" type="PackedScene" id=11]
+[ext_resource path="res://fence_planks.tscn" type="PackedScene" id=12]
+[ext_resource path="res://assets/PlaywriteDEGrund-VariableFont_wght.ttf" type="DynamicFontData" id=13]
+[ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_blocks_dark_NE.png" type="Texture" id=14]
 
 [sub_resource type="CubeMesh" id=1]
 
-[sub_resource type="ConcavePolygonShape" id=7]
+[sub_resource type="SpatialMaterial" id=2]
+albedo_texture = ExtResource( 6 )
+normal_enabled = true
+normal_scale = 1.0
+normal_texture = ExtResource( 9 )
+ao_enabled = true
+ao_light_affect = 0.0
+ao_texture = ExtResource( 7 )
+ao_on_uv2 = false
+ao_texture_channel = 0
+uv1_scale = Vector3( 50, 50, 50 )
+
+[sub_resource type="ConcavePolygonShape" id=3]
 data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1 )
 
-[sub_resource type="GDScript" id=3]
+[sub_resource type="GDScript" id=4]
 script/source = "extends KinematicBody
 
 const GRAVITY = -15
@@ -26,6 +46,12 @@ var jump = false
 
 var camera
 var y_rotation = 0
+var tree_bought = false
+var solar_bought = false
+var turbine_bought = false
+var battery_bought = false
+
+
 
 # New variables for instancing
 var scene_to_place = preload(\"res://SolarPanel.tscn\") # Preload the scene
@@ -49,7 +75,17 @@ func _unhandled_input(event):
 func _physics_process(delta):
 	handle_movement(delta)
 	#print(instance_ready_to_place)
-	
+	if $Camera/RayCast.is_colliding():
+		var current_target = $Camera/RayCast.get_collider().name
+		#print(current_target)
+		if (current_target == \"SolarPanel\") or (current_target == \"Turbine\"):
+			if Input.is_action_just_pressed(\"upgrade\"):
+				var chk = emit_signal(\"upgrade\")
+				sing.levels[$Camera/RayCast.get_collider()]+=1
+				print(sing.levels[$Camera/RayCast.get_collider()])
+		
+		else:
+			pass
 	# Detect F key press
 	if Input.is_action_just_pressed(\"ui_place\"):
 		instance_ready_to_place = true # Enable placement mode
@@ -81,53 +117,171 @@ func handle_movement(delta):
 		velocity.y = -MAX_FALL_SPEED
 
 func place_instance():
-	# Get the existing RayCast node attached to the camera
-	var ray = $Camera.get_node(\"RayCast\")
-	
-	# Ensure the RayCast is enabled
-	ray.enabled = true
-	
-	# Set the ray's direction to point forward from the camera
-	#ray.cast_to = camera.global_transform.basis.z * -10
-	
-	# Force the RayCast to update and check if it hits the \"land\" node
-	ray.force_raycast_update()
-	if ray.is_colliding():
-		var collider = ray.get_collider()
-		print(collider.name)
-		
-		# Check if the object hit by the ray is the \"landcoll\" node
-		if collider.name == \"landcoll\":
-			var collision_point = ray.get_collision_point()
-			ray.enabled = false
-			collision_point.y += 0.2  # Slight upward adjustment
-			
-			# Create an instance of the scene
-			var instance = scene_to_place.instance()
-			
-			# Place it at the adjusted collision point
-			instance.global_transform.origin = collision_point
-			
-			# Adjust the size if needed
+	var bought = false
+	var store = get_parent().get_node(\"store_dialog\")
+	store.show()
+	Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
+	var instance = scene_to_place.instance()
+	if tree_bought:
+		if sing.energy_points > 100:
+			sing.energy_points -=100
+			print(sing.energy_points)
+			bought = true
+			scene_to_place = preload(\"res://tree.tscn\")
+			instance = scene_to_place.instance()
 			instance.scale = Vector3(4.5, 4.5, 4.5)
 			
-			# Add the instance to the scene
-			get_parent().add_child(instance)
+			tree_bought = false
+			bought = true
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 			
-			# Reset placement mode
-			ray.enabled = true
-			instance_ready_to_place = false
+		else:
+			print(\"no money\")
+			tree_bought = false
+			bought = false
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	elif solar_bought:
+		if sing.energy_points > 150:
+			sing.energy_points -=150
+			print(sing.energy_points)
+			bought = true
+			scene_to_place = preload(\"res://SolarPanel.tscn\")
+			instance = scene_to_place.instance()
+			instance.scale = Vector3(4.5, 4.5, 4.5)
+			solar_bought = false
+			bought = true
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+			
+		else:
+			print(\"no money\")
+			solar_bought = false
+			bought = false
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	elif turbine_bought:
+		if sing.energy_points > 300:
+			sing.energy_points -=300
+			print(sing.energy_points)
+			bought = true
+			scene_to_place = preload(\"res://turbine.tscn\")
+			instance = scene_to_place.instance()
+			instance.scale = Vector3(0.2,0.2,0.2)
+			turbine_bought = false
+			bought = true
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+			
+		else:
+			print(\"no money\")
+			turbine_bought = false
+			bought = false
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	elif battery_bought:
+		if sing.energy_points > 300:
+			sing.energy_points -=300
+			print(sing.energy_points)
+			bought = true
+			scene_to_place = preload(\"res://Battery.tscn\")
+			instance = scene_to_place.instance()
+			instance.scale = Vector3(5,5,5)
+			battery_bought = false
+			bought = true
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+			
+		else:
+			print(\"no money\")
+			battery_bought = false
+			bought = false
+			store.hide()
+			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	
+	
+
+	if bought:
+	# Get the existing RayCast node attached to the camera
+		var ray = $Camera.get_node(\"RayCast\")
+		
+		# Ensure the RayCast is enabled
+		ray.enabled = true
+		
+		# Set the ray's direction to point forward from the camera
+		#ray.cast_to = camera.global_transform.basis.z * -10
+		
+		# Force the RayCast to update and check if it hits the \"land\" node
+		ray.force_raycast_update()
+		if ray.is_colliding():
+			var collider = ray.get_collider()
+			print(collider.name)
+			
+			# Check if the object hit by the ray is the \"landcoll\" node
+			if collider.name == \"landcoll\":
+				var collision_point = ray.get_collision_point()
+				ray.enabled = false
+				collision_point.y += 0.2  # Slight upward adjustment
+				
+				# Create an instance of the scene
+				#var instance = scene_to_place.instance()
+				
+				# Place it at the adjusted collision point
+				instance.global_transform.origin = collision_point
+				
+				# Adjust the size if needed
+				
+				
+				# Add the instance to the scene
+				get_parent().add_child(instance)
+				
+				# Reset placement mode
+				ray.enabled = true
+				instance_ready_to_place = false
+	else:
+		pass
 
 
+
+
+
+
+
+
+
+func _on_buy_tree_button_pressed():
+	tree_bought = true
+	place_instance()
+	#print(\"test\")
+	pass # Replace with function body.
+
+
+func _on_buy_solar_button_pressed():
+	solar_bought = true
+	place_instance()
+	pass # Replace with function body.
+
+
+func _on_buy_turbine_button_pressed():
+	turbine_bought = true
+	place_instance()
+	pass # Replace with function body.
+
+
+func _on_buy_battery_button_pressed():
+	battery_bought = true
+	place_instance()
+	pass # Replace with function body.
 "
 
-[sub_resource type="BoxShape" id=4]
+[sub_resource type="BoxShape" id=5]
 
-[sub_resource type="SpatialMaterial" id=5]
+[sub_resource type="SpatialMaterial" id=6]
 albedo_color = Color( 0.25098, 0.964706, 0.0745098, 1 )
 
-[sub_resource type="CapsuleMesh" id=6]
-material = SubResource( 5 )
+[sub_resource type="CapsuleMesh" id=7]
+material = SubResource( 6 )
 
 [sub_resource type="SpatialMaterial" id=8]
 albedo_color = Color( 0.964706, 0.482353, 0.133333, 1 )
@@ -135,31 +289,35 @@ albedo_color = Color( 0.964706, 0.482353, 0.133333, 1 )
 [sub_resource type="SphereMesh" id=9]
 material = SubResource( 8 )
 
+[sub_resource type="DynamicFont" id=10]
+font_data = ExtResource( 13 )
+
 [node name="world" type="Spatial"]
 
 [node name="land" type="StaticBody" parent="."]
-transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0 )
+transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, -0.724937, 0 )
 
 [node name="MeshInstance" type="MeshInstance" parent="land"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0391844, 0.826096, -0.00815964 )
 mesh = SubResource( 1 )
-material/0 = null
+material/0 = SubResource( 2 )
 
 [node name="landcoll" type="StaticBody" parent="land/MeshInstance"]
 
 [node name="CollisionShape" type="CollisionShape" parent="land/MeshInstance/landcoll"]
-shape = SubResource( 7 )
+shape = SubResource( 3 )
 
 [node name="jeff" type="KinematicBody" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.12696, 10.9699 )
-script = SubResource( 3 )
+script = SubResource( 4 )
 
 [node name="CollisionShape" type="CollisionShape" parent="jeff"]
 transform = Transform( 1, 0, 0, 0, -6.15154e-08, -1.40731, 0, 1, -4.37114e-08, 0, 0, 0 )
-shape = SubResource( 4 )
+shape = SubResource( 5 )
 
 [node name="MeshInstance" type="MeshInstance" parent="jeff"]
 transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 0 )
-mesh = SubResource( 6 )
+mesh = SubResource( 7 )
 material/0 = null
 
 [node name="Camera" type="Camera" parent="jeff"]
@@ -172,7 +330,7 @@ enabled = true
 cast_to = Vector3( 0, -10, 0 )
 
 [node name="MeshInstance" type="MeshInstance" parent="jeff/Camera"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.56864e-07, 0, -2.93819 )
+transform = Transform( 0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, 2.56864e-07, 0, -2.93819 )
 mesh = SubResource( 9 )
 material/0 = null
 
@@ -185,10 +343,307 @@ transform = Transform( 4.5, 0, 0, 0, 4.5, 0, 0, 0, 4.5, 15.5218, 1.38946, 3.9997
 [node name="uploads_files_2424344_Windturbine" parent="." instance=ExtResource( 1 )]
 transform = Transform( 0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, 19.3324, 1.28245, 6.03852 )
 
-[node name="Battery" parent="." instance=ExtResource( 4 )]
-transform = Transform( 5, 0, 0, 0, 5, 0, 0, 0, 5, -5.31461, 1.7052, -2.62717 )
-
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
 transform = Transform( 0.632827, 0.318066, -0.705949, 0, 0.911733, 0.410782, 0.774293, -0.259954, 0.576969, -14.3647, 45.5294, 50.2979 )
 light_energy = 0.7
 shadow_enabled = true
+
+[node name="score" parent="." instance=ExtResource( 8 )]
+
+[node name="garden" parent="." instance=ExtResource( 10 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.762119, 0.301299, -34.1754 )
+
+[node name="fence_corner" parent="garden" instance=ExtResource( 11 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -44.8125, 1.52226, 10.9998 )
+
+[node name="fence_corner2" parent="garden" instance=ExtResource( 11 )]
+transform = Transform( -4.37114e-07, 0, 10, 0, 10, 0, -10, 0, -4.37114e-07, 44.665, 1.52226, 10.9998 )
+
+[node name="fence_planks" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -34.6461, 1.43475, 10.6036 )
+
+[node name="fence_planks17" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -4.80825e-07, 0, -10, 0, 10, 0, 11, 0, -4.37114e-07, -44.5276, 1.43475, 0.283386 )
+
+[node name="fence_planks18" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -4.80825e-07, 0, 10, 0, 10, 0, -11, 0, -4.37114e-07, 44.3772, 1.43475, 0.283386 )
+
+[node name="fence_planks2" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -25.0743, 1.43475, 10.6036 )
+
+[node name="fence_planks3" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -15.1845, 1.43475, 10.6036 )
+
+[node name="fence_planks4" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -5.37324, 1.43475, 10.6036 )
+
+[node name="fence_planks5" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 4.56608, 1.43475, 10.6036 )
+
+[node name="fence_planks6" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 14.4977, 1.43475, 10.6036 )
+
+[node name="fence_planks7" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 24.5485, 1.43475, 10.6036 )
+
+[node name="fence_planks8" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 34.4076, 1.43475, 10.6036 )
+
+[node name="fence_corner3" parent="garden" instance=ExtResource( 11 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, 44.6654, 1.52226, -10.0621 )
+
+[node name="fence_corner4" parent="garden" instance=ExtResource( 11 )]
+transform = Transform( -0.022863, 0, -9.99997, 0, 10, 0, 9.99997, 0, -0.022863, -44.812, 1.52226, -10.2667 )
+
+[node name="fence_planks9" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, 34.4981, 1.43475, -9.68918 )
+
+[node name="fence_planks10" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, 24.9262, 1.43475, -9.71106 )
+
+[node name="fence_planks11" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, 15.0365, 1.43475, -9.73367 )
+
+[node name="fence_planks12" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, 5.22526, 1.43475, -9.7561 )
+
+[node name="fence_planks13" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, -4.71403, 1.43475, -9.77883 )
+
+[node name="fence_planks14" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, -14.6457, 1.43475, -9.80154 )
+
+[node name="fence_planks15" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, -24.6965, 1.43475, -9.82452 )
+
+[node name="fence_planks16" parent="garden" instance=ExtResource( 12 )]
+transform = Transform( -9.99997, 0, 0.0228634, 0, 10, 0, -0.0228634, 0, -9.99997, -34.5555, 1.43475, -9.84706 )
+
+[node name="upgrade_dialog" type="Node2D" parent="."]
+visible = false
+
+[node name="base" type="ColorRect" parent="upgrade_dialog"]
+margin_left = 247.221
+margin_top = 163.315
+margin_right = 713.221
+margin_bottom = 414.315
+color = Color( 0.0470588, 0.0509804, 0.0392157, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="textbox" type="Label" parent="upgrade_dialog"]
+margin_left = 380.57
+margin_top = 226.244
+margin_right = 565.57
+margin_bottom = 286.244
+text = "upgrade?
+"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="upgrade" type="Button" parent="upgrade_dialog"]
+margin_left = 359.594
+margin_top = 334.123
+margin_right = 549.594
+margin_bottom = 403.123
+text = "test button"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="store_dialog" type="Node2D" parent="."]
+visible = false
+
+[node name="base" type="ColorRect" parent="store_dialog"]
+margin_left = 103.0
+margin_top = 63.0
+margin_right = 924.0
+margin_bottom = 534.0
+color = Color( 0.494118, 0.501961, 0.482353, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_tree" type="ColorRect" parent="store_dialog"]
+margin_left = 154.841
+margin_top = 120.136
+margin_right = 273.841
+margin_bottom = 289.136
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_tree_button" type="Button" parent="store_dialog/buy_tree"]
+margin_left = 11.5817
+margin_top = 124.726
+margin_right = 108.582
+margin_bottom = 156.726
+text = "buy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="tree_blocks_dark_NE" type="Sprite" parent="store_dialog/buy_tree"]
+position = Vector2( 55.4492, 62.0464 )
+scale = Vector2( 0.53367, 0.477989 )
+texture = ExtResource( 14 )
+
+[node name="price" type="Label" parent="store_dialog/buy_tree"]
+margin_left = 32.9632
+margin_top = 97.9989
+margin_right = 93.9632
+margin_bottom = 126.999
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "100 EP"
+
+[node name="title" type="Label" parent="store_dialog/buy_tree"]
+margin_left = 38.3086
+margin_top = 2.99886
+margin_right = 99.3086
+margin_bottom = 31.9989
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Tree"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_solar_panels" type="ColorRect" parent="store_dialog"]
+margin_left = 308.95
+margin_top = 119.917
+margin_right = 427.95
+margin_bottom = 288.917
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_solar_button" type="Button" parent="store_dialog/buy_solar_panels"]
+margin_left = 11.5817
+margin_top = 124.726
+margin_right = 108.582
+margin_bottom = 156.726
+text = "buy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="price" type="Label" parent="store_dialog/buy_solar_panels"]
+margin_left = 32.9632
+margin_top = 97.9989
+margin_right = 93.9632
+margin_bottom = 126.999
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "150 EP"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="title" type="Label" parent="store_dialog/buy_solar_panels"]
+margin_left = 10.6908
+margin_top = 3.88976
+margin_right = 110.691
+margin_bottom = 32.8898
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Solar Panels"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_WindTurbine" type="ColorRect" parent="store_dialog"]
+margin_left = 453.95
+margin_top = 119.917
+margin_right = 572.95
+margin_bottom = 288.917
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_turbine_button" type="Button" parent="store_dialog/buy_WindTurbine"]
+margin_left = 11.5817
+margin_top = 124.726
+margin_right = 108.582
+margin_bottom = 156.726
+text = "buy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="price" type="Label" parent="store_dialog/buy_WindTurbine"]
+margin_left = 29.3996
+margin_top = 97.9989
+margin_right = 94.3996
+margin_bottom = 126.999
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "300 EP"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="title" type="Label" parent="store_dialog/buy_WindTurbine"]
+margin_left = 6.2363
+margin_top = 5.67155
+margin_right = 117.236
+margin_bottom = 34.6716
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Wind Turbine"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_battery" type="ColorRect" parent="store_dialog"]
+margin_left = 604.95
+margin_top = 119.917
+margin_right = 723.95
+margin_bottom = 288.917
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="buy_battery_button" type="Button" parent="store_dialog/buy_battery"]
+margin_left = 11.5817
+margin_top = 124.726
+margin_right = 108.582
+margin_bottom = 156.726
+text = "buy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="price" type="Label" parent="store_dialog/buy_battery"]
+margin_left = 29.3996
+margin_top = 97.9989
+margin_right = 94.3996
+margin_bottom = 126.999
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "500 EP"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="title" type="Label" parent="store_dialog/buy_battery"]
+margin_left = 24.9452
+margin_top = 5.67155
+margin_right = 135.945
+margin_bottom = 34.6716
+custom_fonts/font = SubResource( 10 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Battery"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="pressed" from="upgrade_dialog/upgrade" to="jeff" method="_on_upgrade_pressed"]
+[connection signal="pressed" from="store_dialog/buy_tree/buy_tree_button" to="jeff" method="_on_buy_tree_button_pressed"]
+[connection signal="pressed" from="store_dialog/buy_solar_panels/buy_solar_button" to="jeff" method="_on_buy_solar_button_pressed"]
+[connection signal="pressed" from="store_dialog/buy_WindTurbine/buy_turbine_button" to="jeff" method="_on_buy_turbine_button_pressed"]
+[connection signal="pressed" from="store_dialog/buy_battery/buy_battery_button" to="jeff" method="_on_buy_battery_button_pressed"]
