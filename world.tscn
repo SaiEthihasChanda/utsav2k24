@@ -66,14 +66,14 @@ func _ready():
 	get_parent().get_node(\"warninglight\").mouse_filter = Control.MOUSE_FILTER_IGNORE
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	infestation_timer = Timer.new()
-	infestation_timer.wait_time = 20  # 15 minutes
+	infestation_timer.wait_time = sing.time_for_infest  # 15 minutes
 	infestation_timer.connect(\"timeout\", self, \"_on_infestation_timeout\")
 	add_child(infestation_timer)
 	infestation_timer.start()
 
 	# Create and configure the response timer (15 seconds)
 	response_timer = Timer.new()
-	response_timer.wait_time = 15  # 15 seconds
+	response_timer.wait_time = sing.time_allowed_for_infest # 15 seconds
 	response_timer.one_shot = true
 	response_timer.connect(\"timeout\", self, \"_on_response_timeout\")
 	add_child(response_timer)
@@ -91,10 +91,10 @@ func _unhandled_input(event):
 	
 	# Detect pressing the \"E\" button
 	if Input.is_action_just_pressed(\"infeststop\"):
-		if response_timer.is_stopped() == false and sing.energy_points>=100:
+		if response_timer.is_stopped() == false and sing.energy_points>=sing.cost_to_evade_infest:
 			# Cancel the infestation if the user presses \"E\" within the response time
 			response_timer.stop()
-			sing.energy_points -=100
+			sing.energy_points -=sing.cost_to_evade_infest
 			print(\"Infestation avoided!\")
 			
 			
@@ -115,7 +115,7 @@ func _physics_process(delta):
 				if current_target == \"SolarPanel\":
 					
 					if sing.energy_points>=sing.cost[\"solar\"]*(sing.levels[$Camera/RayCast.get_collider()]+1):
-				#var chk = emit_signal(\"upgrade\")
+				#var chk = emit_signal(\"upgratde\")
 						sing.levels[$Camera/RayCast.get_collider()]+=1
 				
 						sing.energy_points -= (sing.cost[\"solar\"]*(sing.levels[$Camera/RayCast.get_collider()]))
@@ -138,6 +138,7 @@ func _physics_process(delta):
 	# Detect F key press
 	if Input.is_action_just_pressed(\"ui_place\") :
 		get_parent().get_node(\"store_dialog/question_panel\").show()
+		get_parent().get_node(\"store_dialog/question_panel/TextEdit\").text = \"\"
 		randomize()
 		var random_index = randi() % question_set.size()
 		print(\"res://Images/\",question_set[random_index],\".jpg\")
@@ -181,8 +182,8 @@ func place_instance():
 	Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
 	var instance = scene_to_place.instance()
 	if tree_bought:
-		if sing.energy_points > 100:
-			sing.energy_points -=100
+		if sing.energy_points > sing.tree_cost:
+			sing.energy_points -=sing.tree_cost
 			print(sing.energy_points)
 			bought = true
 			scene_to_place = preload(\"res://tree.tscn\")
@@ -201,8 +202,8 @@ func place_instance():
 			store.hide()
 			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	elif solar_bought:
-		if sing.energy_points > 150:
-			sing.energy_points -=150
+		if sing.energy_points > sing.solar_cost:
+			sing.energy_points -=sing.solar_cost
 			print(sing.energy_points)
 			bought = true
 			scene_to_place = preload(\"res://SolarPanel.tscn\")
@@ -220,8 +221,8 @@ func place_instance():
 			store.hide()
 			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	elif turbine_bought:
-		if sing.energy_points > 300:
-			sing.energy_points -=300
+		if sing.energy_points > sing.turbine_cost:
+			sing.energy_points -=sing.turbine_cost
 			print(sing.energy_points)
 			bought = true
 			scene_to_place = preload(\"res://turbine.tscn\")
@@ -239,8 +240,8 @@ func place_instance():
 			store.hide()
 			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	elif battery_bought:
-		if sing.energy_points > 500:
-			sing.energy_points -=500
+		if sing.energy_points > sing.battery_cost:
+			sing.energy_points -=sing.battery_cost
 			print(sing.energy_points)
 			bought = true
 			scene_to_place = preload(\"res://Battery.tscn\")
@@ -1016,7 +1017,6 @@ __meta__ = {
 }
 
 [node name="red" type="ColorRect" parent="warninglight"]
-visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
 margin_left = -6.81509

@@ -16,7 +16,7 @@ func _ready():
 	sing.trees.append(self)
 	$interact/level.hide()
 	$interact/credsreq.hide()
-	$interact/instructions.text = "press X to remove"
+	$interact/instructions.text = "press X to remove \nQ to water"
 	
 	pass # Replace with function body.
 
@@ -32,8 +32,8 @@ func _process(delta):
 		self.queue_free()
 	$Spatial2/Viewport/Label.text = str(self.water_level,"/100")
 	time_passed += delta  # Accumulate time passed
-	if time_passed >= 5:  # Check if 5 seconds have passed
-		self.water_level -=10 # Increment energy points
+	if time_passed >= sing.rate_of_water_drain:  # Check if 5 seconds have passed
+		self.water_level -=10 
 		print(self.water_level)
 		time_passed = 0.0
 	if infocus and Input.is_action_just_pressed("delete"):
@@ -45,8 +45,8 @@ func _process(delta):
 		#if water_level+sing.bucket >=100:
 		var req = 100 - self.water_level
 		if req>sing.bucket:
-			self.water_level +=sing.bucket
-			sing.bucket = 0
+			self.water_level +=sing.bucket_pour
+			sing.bucket -=sing.bucket_pour
 		else:
 			self.water_level+=req
 			sing.bucket -=req
@@ -66,8 +66,8 @@ func _on_Area_body_entered(body):
 		sing.elements["trees"]-=1
 		sing.trees.erase(self)
 		print(sing.trees)
-		if not sing.energy_points+100 > sing.energy_threshold:
-			sing.energy_points +=100 
+		if not sing.energy_points+sing.tree_cost > sing.energy_threshold:
+			sing.energy_points +=sing.tree_cost 
 		else:
 			sing.energy_points = sing.energy_threshold
 		

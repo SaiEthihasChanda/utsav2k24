@@ -12,6 +12,8 @@ func _ready():
 
 # Called every frame
 func _process(delta):
+	if sing.levels[self.get_node("RootNode/Stamm001/Turbine")]>3:
+		sing.levels[self.get_node("RootNode/Stamm001/Turbine")] = 3
 	if infocus and Input.is_action_just_pressed("delete"):
 		print("deleting",self)
 		self.queue_free()
@@ -23,7 +25,7 @@ func _process(delta):
 		$RootNode/interact/credsreq.hide()
 		$RootNode/interact/instructions.text = "press X to delete"
 	time_passed += delta  # Accumulate time passed
-	if time_passed >= (6.0-(sing.levels[self.get_node("RootNode/Stamm001/Turbine")])) and  sing.energy_points <=sing.energy_threshold:  # Check if 5 seconds have passed
+	if time_passed >= (sing.rate_of_energy-(sing.levels[self.get_node("RootNode/Stamm001/Turbine")])) and  sing.energy_points <=sing.energy_threshold:  # Check if 5 seconds have passed
 		sing.energy_points += 1  # Increment energy points
 		print(sing.energy_points)
 		time_passed = 0.0  # Reset the timer

@@ -8,7 +8,7 @@ var infocus = false
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	sing.energy_threshold += 50
+	sing.energy_threshold += sing.battery_cap
 	$interact/level.hide()
 	$interact/credsreq.hide()
 	$interact/instructions.text = "press X to remove"
@@ -19,7 +19,7 @@ func _ready():
 func _process(delta):
 	if infocus and Input.is_action_just_pressed("delete"):
 		print("deleting",self)
-		sing.energy_threshold -=50
+		sing.energy_threshold -=sing.battery_cap
 		self.queue_free()
 #	pass
 

@@ -18,7 +18,11 @@ func _ready():
 
 
 func _on_Button_pressed():
-	get_tree().change_scene("res://world.tscn")
+	if $TextEdit.text == "":
+		$TextEdit.text = "Please Enter Your Name"
+	else:
+		sing.username = $TextEdit.text
+		get_tree().change_scene("res://world.tscn")
 
 	pass # Replace with function body.
 
