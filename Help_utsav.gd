@@ -19,3 +19,8 @@ func _ready():
 func _on_close_pressed():
 	self.hide()
 	pass # Replace with function body.
+
+
+func _on_Button_pressed():
+	$rules.visible = !$rules.visible
+	pass # Replace with function body.

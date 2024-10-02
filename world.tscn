@@ -1,4 +1,4 @@
-[gd_scene load_steps=35 format=2]
+[gd_scene load_steps=43 format=2]
 
 [ext_resource path="res://turbine.tscn" type="PackedScene" id=1]
 [ext_resource path="res://house.tscn" type="PackedScene" id=2]
@@ -17,6 +17,12 @@
 [ext_resource path="res://energyui.gd" type="Script" id=15]
 [ext_resource path="res://rocks.tscn" type="PackedScene" id=16]
 [ext_resource path="res://assets/kenney_ui-pack-space-expansion/Vector/Red/button_square_header_large_rectangle.svg" type="Texture" id=17]
+[ext_resource path="res://water_pump.tscn" type="PackedScene" id=18]
+[ext_resource path="res://waterui.gd" type="Script" id=19]
+[ext_resource path="res://assets/outdoor-ambience-different-birds-calling-184804.mp3" type="AudioStream" id=20]
+[ext_resource path="res://assets/wind-turbine-icon-vector-9832812.jpg" type="Texture" id=21]
+[ext_resource path="res://istockphoto-1286554812-612x612.jpg" type="Texture" id=22]
+[ext_resource path="res://images/42.jpg" type="Texture" id=23]
 
 [sub_resource type="GDScript" id=1]
 script/source = "extends KinematicBody
@@ -36,7 +42,9 @@ var y_rotation = 0
 var tree_bought = false
 var solar_bought = false
 var turbine_bought = false
+var enterhit = false
 var battery_bought = false
+var curques = \"\"
 
 
 
@@ -45,9 +53,16 @@ var scene_to_place = preload(\"res://SolarPanel.tscn\") # Preload the scene
 var instance_ready_to_place = false
 var infestation_timer
 var response_timer
-
+var questions = []
+var question_set= []
 func _ready():
 	camera = $Camera
+	questions = get_files_in_directory(\"res://Images\")
+	question_set = []
+	for i in questions:
+		if !(i  in question_set):
+			question_set.append(i)
+	print(question_set)
 	get_parent().get_node(\"warninglight\").mouse_filter = Control.MOUSE_FILTER_IGNORE
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	infestation_timer = Timer.new()
@@ -121,7 +136,16 @@ func _physics_process(delta):
 		else:
 			pass
 	# Detect F key press
-	if Input.is_action_just_pressed(\"ui_place\"):
+	if Input.is_action_just_pressed(\"ui_place\") :
+		get_parent().get_node(\"store_dialog/question_panel\").show()
+		randomize()
+		var random_index = randi() % question_set.size()
+		print(\"res://Images/\",question_set[random_index],\".jpg\")
+		curques = question_set[random_index]
+		var new_question = load(str(\"res://Images/\",question_set[random_index],\".jpg\"))
+		get_parent().get_node(\"store_dialog/question_panel/ScrollContainer/pic\").texture = new_question
+		
+		
 		instance_ready_to_place = true # Enable placement mode
 
 func handle_movement(delta):
@@ -278,7 +302,7 @@ func place_instance():
 
 
 func _on_infestation_timeout():
-	if sing.trees:
+	if sing.elements[\"trees\"]>0:
 		print(\"Infestation started! Press 'E' to stop it.\")
 		get_parent().get_node(\"warninglight\").show()
 		get_parent().get_node(\"warninglight/AnimationPlayer\").play(\"flash\")
@@ -287,12 +311,14 @@ func _on_infestation_timeout():
 		# Start the 15-second response timer
 		response_timer.start()
 	else:
+		get_parent().get_node(\"warninglight\").hide()
+		
 		pass
 
 func _on_response_timeout():
 	print(sing.trees)
 	# If the user didn't press the \"E\" button in time, remove a tree
-	if sing.trees.size() > 0:
+	if sing.elements[\"trees\"]>0:
 		var tree = sing.trees.pop_back()
 		tree.queue_free()
 		sing.elements[\"trees\"] -=1  # Remove the last tree
@@ -307,6 +333,26 @@ func _on_response_timeout():
 
 
 
+func get_files_in_directory(directory_path):
+	var dir = Directory.new()
+	var file_names = []
+	
+	if dir.open(directory_path) == OK:
+		dir.list_dir_begin()  # Start listing files in the directory
+		var file_name = dir.get_next()
+		
+		while file_name != \"\" or file_name.ends_with(\".import\"):
+			# Avoid adding `.` and `..` (special directory entries)
+			if not dir.current_is_dir():
+				
+				file_names.append(file_name.get_basename().get_basename())  # Add the file name to the list
+			file_name = dir.get_next()  # Get the next file
+		
+		dir.list_dir_end()  # Finish listing files
+	else:
+		print(\"Failed to open directory: \" + directory_path)
+	
+	return file_names
 
 
 
@@ -334,6 +380,27 @@ func _on_buy_battery_button_pressed():
 	battery_bought = true
 	place_instance()
 	pass # Replace with function body.
+
+
+func _on_Button_pressed():
+	get_parent().get_node(\"store_dialog\").hide()
+	pass # Replace with function body.
+
+
+func _on_enter_pressed():
+	if get_parent().get_node(\"store_dialog/question_panel/TextEdit\").text == curques:
+		get_parent().get_node(\"store_dialog/question_panel\").hide()
+		instance_ready_to_place = true
+	else:
+		get_parent().get_node(\"store_dialog/question_panel/Label\").text = \"wong! try again!\"
+		
+		
+		 
+	pass # Replace with function body.
+
+
+func _on_closeques_pressed():
+	get_parent().get_node(\"store_dialog\").hide() # Replace with function body.
 "
 
 [sub_resource type="BoxShape" id=2]
@@ -371,6 +438,14 @@ uv1_scale = Vector3( 50, 50, 50 )
 data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1 )
 
 [sub_resource type="DynamicFont" id=11]
+font_data = ExtResource( 13 )
+
+[sub_resource type="DynamicFont" id=18]
+size = 38
+font_data = ExtResource( 13 )
+
+[sub_resource type="DynamicFont" id=19]
+size = 38
 font_data = ExtResource( 13 )
 
 [sub_resource type="DynamicFont" id=12]
@@ -734,6 +809,11 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="Wind-turbine-icon-vector-9832812" type="Sprite" parent="store_dialog/buy_WindTurbine"]
+position = Vector2( 57, 73 )
+scale = Vector2( 0.06, 0.06 )
+texture = ExtResource( 21 )
+
 [node name="buy_turbine_button" type="Button" parent="store_dialog/buy_WindTurbine"]
 margin_left = 11.5817
 margin_top = 124.726
@@ -811,6 +891,80 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="Istockphoto-1286554812-612X612" type="Sprite" parent="store_dialog/buy_battery"]
+position = Vector2( 60, 70 )
+scale = Vector2( 0.09, 0.09 )
+texture = ExtResource( 22 )
+
+[node name="Button" type="Button" parent="store_dialog"]
+margin_left = 892.119
+margin_top = 155.565
+margin_right = 982.119
+margin_bottom = 246.565
+
+[node name="question_panel" type="ColorRect" parent="store_dialog"]
+margin_left = 168.0
+margin_top = -6.0
+margin_right = 974.0
+margin_bottom = 714.0
+color = Color( 0.00784314, 0.00784314, 0.00784314, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="enter" type="Button" parent="store_dialog/question_panel"]
+margin_left = 578.974
+margin_top = 593.795
+margin_right = 762.974
+margin_bottom = 685.795
+text = "Enter"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextEdit" type="TextEdit" parent="store_dialog/question_panel"]
+margin_left = 64.0
+margin_top = 592.0
+margin_right = 515.0
+margin_bottom = 678.0
+custom_fonts/font = SubResource( 18 )
+text = "Enter your answer here"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="store_dialog/question_panel"]
+margin_left = 80.0
+margin_top = 115.0
+margin_right = 661.0
+margin_bottom = 571.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="pic" type="TextureRect" parent="store_dialog/question_panel/ScrollContainer"]
+margin_right = 520.0
+margin_bottom = 347.0
+texture = ExtResource( 23 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="store_dialog/question_panel"]
+margin_right = 795.0
+margin_bottom = 107.0
+custom_fonts/font = SubResource( 19 )
+text = "Answer to proceed!"
+align = 1
+valign = 1
+clip_text = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="closeques" type="Button" parent="store_dialog/question_panel"]
+margin_left = 683.367
+margin_top = 42.2931
+margin_right = 766.367
+margin_bottom = 135.293
+
 [node name="environment" parent="." instance=ExtResource( 4 )]
 transform = Transform( 20, 0, 0, 0, 20, 0, 0, 0, 20, 0, -10.2919, 11.5272 )
 
@@ -831,16 +985,44 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="waterui" type="Node2D" parent="."]
+position = Vector2( 0, 75 )
+script = ExtResource( 19 )
+
+[node name="waterpoints" type="Label" parent="waterui"]
+margin_left = 1027.29
+margin_top = 16.7696
+margin_right = 1253.29
+margin_bottom = 127.77
+custom_colors/font_color = Color( 0, 0.568627, 0.980392, 1 )
+custom_fonts/font = SubResource( 12 )
+text = "0/100"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
 [node name="warninglight" type="Control" parent="."]
+visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
+margin_left = 4.76224
+margin_top = -1.58746
+margin_right = 4.76221
+margin_bottom = -1.58752
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="red" type="ColorRect" parent="warninglight"]
+visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
+margin_left = -6.81509
+margin_top = -5.55688
+margin_right = -6.81506
+margin_bottom = -5.55682
 mouse_filter = 2
 color = Color( 0.94902, 0.403922, 0.403922, 0 )
 __meta__ = {
@@ -875,7 +1057,7 @@ margin_right = 98.0
 margin_bottom = 33.0
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 15 )
-text = "PRESS \"E\" TO EVADE: 200EP"
+text = "PRESS \"E\" TO EVADE: 100EP"
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -1095,8 +1277,21 @@ transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -40.
 [node name="rocks71" parent="rocks" instance=ExtResource( 16 )]
 transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -45.1259, 0, 45.3925 )
 
+[node name="water_pump" parent="." instance=ExtResource( 18 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.18185, 40.135 )
+
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource( 20 )
+unit_db = 80.0
+max_db = 6.0
+autoplay = true
+max_distance = 4096.0
+
 [connection signal="pressed" from="upgrade_dialog/upgrade" to="jeff" method="_on_upgrade_pressed"]
 [connection signal="pressed" from="store_dialog/buy_tree/buy_tree_button" to="jeff" method="_on_buy_tree_button_pressed"]
 [connection signal="pressed" from="store_dialog/buy_solar_panels/buy_solar_button" to="jeff" method="_on_buy_solar_button_pressed"]
 [connection signal="pressed" from="store_dialog/buy_WindTurbine/buy_turbine_button" to="jeff" method="_on_buy_turbine_button_pressed"]
 [connection signal="pressed" from="store_dialog/buy_battery/buy_battery_button" to="jeff" method="_on_buy_battery_button_pressed"]
+[connection signal="pressed" from="store_dialog/Button" to="jeff" method="_on_Button_pressed"]
+[connection signal="pressed" from="store_dialog/question_panel/enter" to="jeff" method="_on_enter_pressed"]
+[connection signal="pressed" from="store_dialog/question_panel/closeques" to="jeff" method="_on_closeques_pressed"]

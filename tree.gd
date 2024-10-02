@@ -28,6 +28,7 @@ func _ready():
 
 func _process(delta):
 	if self.water_level == 0:
+		sing.elements["trees"] -=1
 		self.queue_free()
 	$Spatial2/Viewport/Label.text = str(self.water_level,"/100")
 	time_passed += delta  # Accumulate time passed
@@ -37,6 +38,8 @@ func _process(delta):
 		time_passed = 0.0
 	if infocus and Input.is_action_just_pressed("delete"):
 		print("deleting",self)
+		sing.elements["trees"] -=1
+		
 		self.queue_free()
 	if infocus and Input.is_action_just_pressed("water"):
 		#if water_level+sing.bucket >=100:

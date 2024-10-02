@@ -15,7 +15,7 @@ func _ready():
 #func _process(delta):
 #	pass
 func _process(delta):
-	if infocus and Input.is_action_just_pressed("water"):
+	if infocus and Input.is_action_just_pressed("water") and not sing.bucket>=100:
 		sing.bucket +=10
 	
 	else:
