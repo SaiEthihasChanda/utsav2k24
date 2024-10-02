@@ -4,6 +4,7 @@ extends Node
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
+var bucket = 100
 var energy_points = 500
 var energy_threshold = 600
 var elements = {

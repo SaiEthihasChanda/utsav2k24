@@ -6,6 +6,8 @@ extends Spatial
 # var b = "text"
 var placeok = true
 var infocus = false
+var water_level = 100
+var time_passed: float = 0.0
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -25,9 +27,29 @@ func _ready():
 
 
 func _process(delta):
+	if self.water_level == 0:
+		self.queue_free()
+	$Spatial2/Viewport/Label.text = str(self.water_level,"/100")
+	time_passed += delta  # Accumulate time passed
+	if time_passed >= 5:  # Check if 5 seconds have passed
+		self.water_level -=10 # Increment energy points
+		print(self.water_level)
+		time_passed = 0.0
 	if infocus and Input.is_action_just_pressed("delete"):
 		print("deleting",self)
 		self.queue_free()
+	if infocus and Input.is_action_just_pressed("water"):
+		#if water_level+sing.bucket >=100:
+		var req = 100 - self.water_level
+		if req>sing.bucket:
+			self.water_level +=sing.bucket
+			sing.bucket = 0
+		else:
+			self.water_level+=req
+			sing.bucket -=req
+				
+			
+		print("watered tree current level now",water_level, sing.bucket)
 		
 
 func _on_Area_body_entered(body):

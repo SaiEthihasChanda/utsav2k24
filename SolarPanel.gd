@@ -54,3 +54,12 @@ func _on_Area_area_exited(area):
 		$RootNode/interact.show()
 		infocus = true
 	pass # Replace with function body.
+
+
+func _on_AudioStreamPlayer3D_finished():
+	$AudioStreamPlayer3D.play()
+	pass # Replace with function body.
+
+
+func _on_AudioStreamPlayer3D2_finished():
+	pass # Replace with function body.
