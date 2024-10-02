@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-hexagon.fbx-a291f186f4bbe216f2fa91bd301bf93e.scn"
+path="res://.import/block-snow-hexagon.fbx-c1bb2ce3a6fbd6be113f6071410c7407.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-hexagon.fbx"
-dest_files=[ "res://.import/block-snow-hexagon.fbx-a291f186f4bbe216f2fa91bd301bf93e.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-hexagon.fbx"
+dest_files=[ "res://.import/block-snow-hexagon.fbx-c1bb2ce3a6fbd6be113f6071410c7407.scn" ]
 
 [params]
 

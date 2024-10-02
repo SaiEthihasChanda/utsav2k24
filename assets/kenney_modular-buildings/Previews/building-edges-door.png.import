@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-edges-door.png-3415dae1666ec8c9b12f9018f64970b4.stex"
+path="res://.import/building-edges-door.png-35e3cc2ee0508d85fabdaaba9ff00b75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-edges-door.png"
-dest_files=[ "res://.import/building-edges-door.png-3415dae1666ec8c9b12f9018f64970b4.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-edges-door.png"
+dest_files=[ "res://.import/building-edges-door.png-35e3cc2ee0508d85fabdaaba9ff00b75.stex" ]
 
 [params]
 

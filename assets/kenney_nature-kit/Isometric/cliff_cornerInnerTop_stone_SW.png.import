@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cliff_cornerInnerTop_stone_SW.png-6d0271cc88c798151639828bc01b5712.stex"
+path="res://.import/cliff_cornerInnerTop_stone_SW.png-767109abdd4c80529690bacc784ff266.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/cliff_cornerInnerTop_stone_SW.png"
-dest_files=[ "res://.import/cliff_cornerInnerTop_stone_SW.png-6d0271cc88c798151639828bc01b5712.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/cliff_cornerInnerTop_stone_SW.png"
+dest_files=[ "res://.import/cliff_cornerInnerTop_stone_SW.png-767109abdd4c80529690bacc784ff266.stex" ]
 
 [params]
 

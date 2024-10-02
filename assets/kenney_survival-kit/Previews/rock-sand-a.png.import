@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rock-sand-a.png-4c8c33bc662591fdc626829a89c359cb.stex"
+path="res://.import/rock-sand-a.png-581872f1a5deee408bb27b9641cd05f1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/rock-sand-a.png"
-dest_files=[ "res://.import/rock-sand-a.png-4c8c33bc662591fdc626829a89c359cb.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/rock-sand-a.png"
+dest_files=[ "res://.import/rock-sand-a.png-581872f1a5deee408bb27b9641cd05f1.stex" ]
 
 [params]
 

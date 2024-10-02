@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_default_dark_SE.png-037f6cc9004d9f656ef969c83e81205f.stex"
+path="res://.import/tree_default_dark_SE.png-1cc20a67cd9dffce8c9e37639866b365.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/tree_default_dark_SE.png"
-dest_files=[ "res://.import/tree_default_dark_SE.png-037f6cc9004d9f656ef969c83e81205f.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/tree_default_dark_SE.png"
+dest_files=[ "res://.import/tree_default_dark_SE.png-1cc20a67cd9dffce8c9e37639866b365.stex" ]
 
 [params]
 

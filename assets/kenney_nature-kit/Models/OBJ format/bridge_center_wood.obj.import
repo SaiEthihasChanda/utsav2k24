@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bridge_center_wood.obj-1228a24801b8d334b7be74ef4d85d2d6.mesh"
+path="res://.import/bridge_center_wood.obj-f72ef7c567f84753ed25d6ae1c780c39.mesh"
 
 [deps]
 
-files=[ "res://.import/bridge_center_wood.obj-1228a24801b8d334b7be74ef4d85d2d6.mesh" ]
+files=[ "res://.import/bridge_center_wood.obj-f72ef7c567f84753ed25d6ae1c780c39.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/bridge_center_wood.obj"
-dest_files=[ "res://.import/bridge_center_wood.obj-1228a24801b8d334b7be74ef4d85d2d6.mesh", "res://.import/bridge_center_wood.obj-1228a24801b8d334b7be74ef4d85d2d6.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/bridge_center_wood.obj"
+dest_files=[ "res://.import/bridge_center_wood.obj-f72ef7c567f84753ed25d6ae1c780c39.mesh", "res://.import/bridge_center_wood.obj-f72ef7c567f84753ed25d6ae1c780c39.mesh" ]
 
 [params]
 

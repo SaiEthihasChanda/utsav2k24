@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rock-sand-c.obj-dbb48284365e3eca05ecc60fe9c6d55e.mesh"
+path="res://.import/rock-sand-c.obj-bc3e25a63c19c974a119758c7c29763a.mesh"
 
 [deps]
 
-files=[ "res://.import/rock-sand-c.obj-dbb48284365e3eca05ecc60fe9c6d55e.mesh" ]
+files=[ "res://.import/rock-sand-c.obj-bc3e25a63c19c974a119758c7c29763a.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/rock-sand-c.obj"
-dest_files=[ "res://.import/rock-sand-c.obj-dbb48284365e3eca05ecc60fe9c6d55e.mesh", "res://.import/rock-sand-c.obj-dbb48284365e3eca05ecc60fe9c6d55e.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/rock-sand-c.obj"
+dest_files=[ "res://.import/rock-sand-c.obj-bc3e25a63c19c974a119758c7c29763a.mesh", "res://.import/rock-sand-c.obj-bc3e25a63c19c974a119758c7c29763a.mesh" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-door.png-45bd790dc884d1000d9519ee10819ad3.stex"
+path="res://.import/building-door.png-caad1a915464e0fe2e70521913872cd7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-door.png"
-dest_files=[ "res://.import/building-door.png-45bd790dc884d1000d9519ee10819ad3.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-door.png"
+dest_files=[ "res://.import/building-door.png-caad1a915464e0fe2e70521913872cd7.stex" ]
 
 [params]
 

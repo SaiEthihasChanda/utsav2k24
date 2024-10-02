@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-steps-wide.png-23ab9e1049d9f9783893fe9462299722.stex"
+path="res://.import/building-steps-wide.png-e9e11b4a0c7611dd0e1d99d0ccf2beb4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-steps-wide.png"
-dest_files=[ "res://.import/building-steps-wide.png-23ab9e1049d9f9783893fe9462299722.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-steps-wide.png"
+dest_files=[ "res://.import/building-steps-wide.png-e9e11b4a0c7611dd0e1d99d0ccf2beb4.stex" ]
 
 [params]
 

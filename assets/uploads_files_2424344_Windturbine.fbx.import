@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/uploads_files_2424344_Windturbine.fbx-9c5d02746c778bf934797fad93526cb4.scn"
+path="res://.import/uploads_files_2424344_Windturbine.fbx-596cc22833dcb3a4186c84e93696a432.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/uploads_files_2424344_Windturbine.fbx"
-dest_files=[ "res://.import/uploads_files_2424344_Windturbine.fbx-9c5d02746c778bf934797fad93526cb4.scn" ]
+source_file="res://assets/uploads_files_2424344_Windturbine.fbx"
+dest_files=[ "res://.import/uploads_files_2424344_Windturbine.fbx-596cc22833dcb3a4186c84e93696a432.scn" ]
 
 [params]
 

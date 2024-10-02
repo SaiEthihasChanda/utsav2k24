@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bridge_wood_SE.png-18b2a7ba67bc8803ae33350068e8ec4f.stex"
+path="res://.import/bridge_wood_SE.png-408d7a21e65e9a861c3862c7850643eb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/bridge_wood_SE.png"
-dest_files=[ "res://.import/bridge_wood_SE.png-18b2a7ba67bc8803ae33350068e8ec4f.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/bridge_wood_SE.png"
+dest_files=[ "res://.import/bridge_wood_SE.png-408d7a21e65e9a861c3862c7850643eb.stex" ]
 
 [params]
 

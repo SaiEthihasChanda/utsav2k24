@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_stepsCornerInner_rock.fbx-54ad5cf0a2394a7e11033d768e89e87f.scn"
+path="res://.import/cliff_stepsCornerInner_rock.fbx-e4680620e19226f35fb97d130beefbcc.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/cliff_stepsCornerInner_rock.fbx"
-dest_files=[ "res://.import/cliff_stepsCornerInner_rock.fbx-54ad5cf0a2394a7e11033d768e89e87f.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/cliff_stepsCornerInner_rock.fbx"
+dest_files=[ "res://.import/cliff_stepsCornerInner_rock.fbx-e4680620e19226f35fb97d130beefbcc.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-moving-large.png-34eedd23eef09fa5fd39c5039f874df2.stex"
+path="res://.import/block-moving-large.png-f70aba94643d1f7e2f0343b9122b63b9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-moving-large.png"
-dest_files=[ "res://.import/block-moving-large.png-34eedd23eef09fa5fd39c5039f874df2.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-moving-large.png"
+dest_files=[ "res://.import/block-moving-large.png-f70aba94643d1f7e2f0343b9122b63b9.stex" ]
 
 [params]
 

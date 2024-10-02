@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone_largeA.png-7307d663810ad20d1f2677953f0a947a.stex"
+path="res://.import/stone_largeA.png-203ef14dfa651d11f745231a021f83c2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/stone_largeA.png"
-dest_files=[ "res://.import/stone_largeA.png-7307d663810ad20d1f2677953f0a947a.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/stone_largeA.png"
+dest_files=[ "res://.import/stone_largeA.png-203ef14dfa651d11f745231a021f83c2.stex" ]
 
 [params]
 

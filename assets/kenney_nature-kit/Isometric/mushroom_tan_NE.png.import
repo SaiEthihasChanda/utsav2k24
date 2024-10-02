@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mushroom_tan_NE.png-429c0c755219957ad118b6dcbbebe287.stex"
+path="res://.import/mushroom_tan_NE.png-862fa8f6ceed37859af6e26452e38108.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/mushroom_tan_NE.png"
-dest_files=[ "res://.import/mushroom_tan_NE.png-429c0c755219957ad118b6dcbbebe287.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/mushroom_tan_NE.png"
+dest_files=[ "res://.import/mushroom_tan_NE.png-862fa8f6ceed37859af6e26452e38108.stex" ]
 
 [params]
 

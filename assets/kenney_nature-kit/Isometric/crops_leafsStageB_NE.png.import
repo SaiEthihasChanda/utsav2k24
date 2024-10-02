@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crops_leafsStageB_NE.png-522d619e191c135c4897382ad896dc8f.stex"
+path="res://.import/crops_leafsStageB_NE.png-202a5862f8a7c8769022cafd0be57040.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/crops_leafsStageB_NE.png"
-dest_files=[ "res://.import/crops_leafsStageB_NE.png-522d619e191c135c4897382ad896dc8f.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/crops_leafsStageB_NE.png"
+dest_files=[ "res://.import/crops_leafsStageB_NE.png-202a5862f8a7c8769022cafd0be57040.stex" ]
 
 [params]
 

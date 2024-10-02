@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh"
+path="res://.import/mushroom_tanTall.obj-2940ea564670894dd268009b4c0e56c3.mesh"
 
 [deps]
 
-files=[ "res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh" ]
+files=[ "res://.import/mushroom_tanTall.obj-2940ea564670894dd268009b4c0e56c3.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/mushroom_tanTall.obj"
-dest_files=[ "res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh", "res://.import/mushroom_tanTall.obj-bac7c6647ddf2f4c2d0ed343a34fa37c.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/mushroom_tanTall.obj"
+dest_files=[ "res://.import/mushroom_tanTall.obj-2940ea564670894dd268009b4c0e56c3.mesh", "res://.import/mushroom_tanTall.obj-2940ea564670894dd268009b4c0e56c3.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/platform-overhang.glb-4ec86e3e2be560b7bc9d2a42c2a99362.scn"
+path="res://.import/platform-overhang.glb-a468f76c2182bad6bbcbf0cfa15d33dc.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/platform-overhang.glb"
-dest_files=[ "res://.import/platform-overhang.glb-4ec86e3e2be560b7bc9d2a42c2a99362.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/platform-overhang.glb"
+dest_files=[ "res://.import/platform-overhang.glb-a468f76c2182bad6bbcbf0cfa15d33dc.scn" ]
 
 [params]
 

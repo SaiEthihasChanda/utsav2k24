@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tool-shovel.png-d4fccfe3aae49aa57196b37d62f76ed1.stex"
+path="res://.import/tool-shovel.png-f3f7016e997a40b35ad611d966223f82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tool-shovel.png"
-dest_files=[ "res://.import/tool-shovel.png-d4fccfe3aae49aa57196b37d62f76ed1.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/tool-shovel.png"
+dest_files=[ "res://.import/tool-shovel.png-f3f7016e997a40b35ad611d966223f82.stex" ]
 
 [params]
 

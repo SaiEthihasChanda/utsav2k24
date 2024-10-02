@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_pumpkin.dae-c47836b97c4e376db10f8c31398e4560.scn"
+path="res://.import/crop_pumpkin.dae-cf75402ce190ee413b3eaadc8ce02ab7.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/crop_pumpkin.dae"
-dest_files=[ "res://.import/crop_pumpkin.dae-c47836b97c4e376db10f8c31398e4560.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crop_pumpkin.dae"
+dest_files=[ "res://.import/crop_pumpkin.dae-cf75402ce190ee413b3eaadc8ce02ab7.scn" ]
 
 [params]
 

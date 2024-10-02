@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/barricade-window-c.glb-fefd8cc0c230ddcaf426f7860465ada1.scn"
+path="res://.import/barricade-window-c.glb-2ac4da92c2458b58e37ad5a2668fd544.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/barricade-window-c.glb"
-dest_files=[ "res://.import/barricade-window-c.glb-fefd8cc0c230ddcaf426f7860465ada1.scn" ]
+source_file="res://assets/kenney_building-kit/Models/GLB format/barricade-window-c.glb"
+dest_files=[ "res://.import/barricade-window-c.glb-2ac4da92c2458b58e37ad5a2668fd544.scn" ]
 
 [params]
 

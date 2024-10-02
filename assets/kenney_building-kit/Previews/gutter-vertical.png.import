@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gutter-vertical.png-e33eded64e62f546a265f9f64e0b869c.stex"
+path="res://.import/gutter-vertical.png-c84eb0b03745ea016785c9a355813488.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Previews/gutter-vertical.png"
-dest_files=[ "res://.import/gutter-vertical.png-e33eded64e62f546a265f9f64e0b869c.stex" ]
+source_file="res://assets/kenney_building-kit/Previews/gutter-vertical.png"
+dest_files=[ "res://.import/gutter-vertical.png-c84eb0b03745ea016785c9a355813488.stex" ]
 
 [params]
 

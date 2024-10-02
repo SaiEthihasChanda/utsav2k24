@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rock-flat-grass.fbx-c13986d1fe29caee886f3ee70fe94c4c.scn"
+path="res://.import/rock-flat-grass.fbx-9fc699953e81feeae804780f97d225d0.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/rock-flat-grass.fbx"
-dest_files=[ "res://.import/rock-flat-grass.fbx-c13986d1fe29caee886f3ee70fe94c4c.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/rock-flat-grass.fbx"
+dest_files=[ "res://.import/rock-flat-grass.fbx-9fc699953e81feeae804780f97d225d0.scn" ]
 
 [params]
 

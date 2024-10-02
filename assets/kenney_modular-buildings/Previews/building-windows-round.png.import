@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-windows-round.png-1957c6215465d655a7055bdc4c304527.stex"
+path="res://.import/building-windows-round.png-4e1fc89be741ceeee58260ade0eac03d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-windows-round.png"
-dest_files=[ "res://.import/building-windows-round.png-1957c6215465d655a7055bdc4c304527.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-windows-round.png"
+dest_files=[ "res://.import/building-windows-round.png-4e1fc89be741ceeee58260ade0eac03d.stex" ]
 
 [params]
 

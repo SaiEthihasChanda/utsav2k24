@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/floor-quarter.fbx-067f8644e401f9e782a312911a93508c.scn"
+path="res://.import/floor-quarter.fbx-287423a88268e49f03f3340a7d92d39a.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/floor-quarter.fbx"
-dest_files=[ "res://.import/floor-quarter.fbx-067f8644e401f9e782a312911a93508c.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/floor-quarter.fbx"
+dest_files=[ "res://.import/floor-quarter.fbx-287423a88268e49f03f3340a7d92d39a.scn" ]
 
 [params]
 

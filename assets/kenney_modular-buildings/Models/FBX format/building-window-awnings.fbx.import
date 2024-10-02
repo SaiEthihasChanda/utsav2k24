@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-window-awnings.fbx-1c1be638efc97a9fc824d8bd829139fb.scn"
+path="res://.import/building-window-awnings.fbx-c9bb79a1f8a9c31185c2c687c40ce9c8.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-window-awnings.fbx"
-dest_files=[ "res://.import/building-window-awnings.fbx-1c1be638efc97a9fc824d8bd829139fb.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-window-awnings.fbx"
+dest_files=[ "res://.import/building-window-awnings.fbx-c9bb79a1f8a9c31185c2c687c40ce9c8.scn" ]
 
 [params]
 

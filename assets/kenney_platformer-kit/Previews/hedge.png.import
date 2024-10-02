@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hedge.png-180d9de153b863cb02cfc3a9929c2b5d.stex"
+path="res://.import/hedge.png-081d065ee4dd5a89eab3c98658bd142e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/hedge.png"
-dest_files=[ "res://.import/hedge.png-180d9de153b863cb02cfc3a9929c2b5d.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/hedge.png"
+dest_files=[ "res://.import/hedge.png-081d065ee4dd5a89eab3c98658bd142e.stex" ]
 
 [params]
 

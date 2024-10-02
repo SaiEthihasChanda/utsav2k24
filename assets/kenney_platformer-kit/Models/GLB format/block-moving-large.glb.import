@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-moving-large.glb-fc098c58b6584d890741e2756ae69541.scn"
+path="res://.import/block-moving-large.glb-f16443253dd8461212c0a976a6a6a137.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-moving-large.glb"
-dest_files=[ "res://.import/block-moving-large.glb-fc098c58b6584d890741e2756ae69541.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-moving-large.glb"
+dest_files=[ "res://.import/block-moving-large.glb-f16443253dd8461212c0a976a6a6a137.scn" ]
 
 [params]
 

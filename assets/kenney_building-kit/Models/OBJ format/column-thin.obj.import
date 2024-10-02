@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/column-thin.obj-b098ccd5a24d7ae20a8d8e60b8283d45.mesh"
+path="res://.import/column-thin.obj-cc20518ada4f609a363ea9bcc6b925d7.mesh"
 
 [deps]
 
-files=[ "res://.import/column-thin.obj-b098ccd5a24d7ae20a8d8e60b8283d45.mesh" ]
+files=[ "res://.import/column-thin.obj-cc20518ada4f609a363ea9bcc6b925d7.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/column-thin.obj"
-dest_files=[ "res://.import/column-thin.obj-b098ccd5a24d7ae20a8d8e60b8283d45.mesh", "res://.import/column-thin.obj-b098ccd5a24d7ae20a8d8e60b8283d45.mesh" ]
+source_file="res://assets/kenney_building-kit/Models/OBJ format/column-thin.obj"
+dest_files=[ "res://.import/column-thin.obj-cc20518ada4f609a363ea9bcc6b925d7.mesh", "res://.import/column-thin.obj-cc20518ada4f609a363ea9bcc6b925d7.mesh" ]
 
 [params]
 

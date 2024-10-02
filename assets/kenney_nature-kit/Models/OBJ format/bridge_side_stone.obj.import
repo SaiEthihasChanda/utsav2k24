@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bridge_side_stone.obj-d5d0f2958da5f375ee2e01c290ec46b2.mesh"
+path="res://.import/bridge_side_stone.obj-a324963c13cd53adb8edf89ea19d3153.mesh"
 
 [deps]
 
-files=[ "res://.import/bridge_side_stone.obj-d5d0f2958da5f375ee2e01c290ec46b2.mesh" ]
+files=[ "res://.import/bridge_side_stone.obj-a324963c13cd53adb8edf89ea19d3153.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/bridge_side_stone.obj"
-dest_files=[ "res://.import/bridge_side_stone.obj-d5d0f2958da5f375ee2e01c290ec46b2.mesh", "res://.import/bridge_side_stone.obj-d5d0f2958da5f375ee2e01c290ec46b2.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/bridge_side_stone.obj"
+dest_files=[ "res://.import/bridge_side_stone.obj-a324963c13cd53adb8edf89ea19d3153.mesh", "res://.import/bridge_side_stone.obj-a324963c13cd53adb8edf89ea19d3153.mesh" ]
 
 [params]
 

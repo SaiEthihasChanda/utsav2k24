@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-windows-sills-round.png-2049bbb824dbe8f7df717047325a411b.stex"
+path="res://.import/building-windows-sills-round.png-9f44af75f51f8610047f4c31e3bc89b4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-windows-sills-round.png"
-dest_files=[ "res://.import/building-windows-sills-round.png-2049bbb824dbe8f7df717047325a411b.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-windows-sills-round.png"
+dest_files=[ "res://.import/building-windows-sills-round.png-9f44af75f51f8610047f4c31e3bc89b4.stex" ]
 
 [params]
 

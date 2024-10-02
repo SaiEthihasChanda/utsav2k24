@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/roof-gable-end.obj-e72ca9e82d7b9175f3b11848d9cbc290.mesh"
+path="res://.import/roof-gable-end.obj-15801e2b25f8676b4d6d2af68753eb9c.mesh"
 
 [deps]
 
-files=[ "res://.import/roof-gable-end.obj-e72ca9e82d7b9175f3b11848d9cbc290.mesh" ]
+files=[ "res://.import/roof-gable-end.obj-15801e2b25f8676b4d6d2af68753eb9c.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/roof-gable-end.obj"
-dest_files=[ "res://.import/roof-gable-end.obj-e72ca9e82d7b9175f3b11848d9cbc290.mesh", "res://.import/roof-gable-end.obj-e72ca9e82d7b9175f3b11848d9cbc290.mesh" ]
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-gable-end.obj"
+dest_files=[ "res://.import/roof-gable-end.obj-15801e2b25f8676b4d6d2af68753eb9c.mesh", "res://.import/roof-gable-end.obj-15801e2b25f8676b4d6d2af68753eb9c.mesh" ]
 
 [params]
 

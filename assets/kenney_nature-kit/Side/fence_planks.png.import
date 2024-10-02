@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence_planks.png-b063b25556a68f276d2c70419cb68d69.stex"
+path="res://.import/fence_planks.png-7012d933e3a2c40cac6ee590520e6f6f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/fence_planks.png"
-dest_files=[ "res://.import/fence_planks.png-b063b25556a68f276d2c70419cb68d69.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/fence_planks.png"
+dest_files=[ "res://.import/fence_planks.png-7012d933e3a2c40cac6ee590520e6f6f.stex" ]
 
 [params]
 

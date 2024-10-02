@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grass_leafs.glb-ff397a9704414869346a23cfdac4cc2c.scn"
+path="res://.import/grass_leafs.glb-384c6c6406f67c91f0ff77720640ee50.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/grass_leafs.glb"
-dest_files=[ "res://.import/grass_leafs.glb-ff397a9704414869346a23cfdac4cc2c.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/grass_leafs.glb"
+dest_files=[ "res://.import/grass_leafs.glb-384c6c6406f67c91f0ff77720640ee50.scn" ]
 
 [params]
 

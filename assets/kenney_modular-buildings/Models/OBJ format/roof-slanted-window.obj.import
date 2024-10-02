@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/roof-slanted-window.obj-306b71f61e76efe34f818881edb9723f.mesh"
+path="res://.import/roof-slanted-window.obj-4653687f4b7825436d87c7f5afaeee20.mesh"
 
 [deps]
 
-files=[ "res://.import/roof-slanted-window.obj-306b71f61e76efe34f818881edb9723f.mesh" ]
+files=[ "res://.import/roof-slanted-window.obj-4653687f4b7825436d87c7f5afaeee20.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/roof-slanted-window.obj"
-dest_files=[ "res://.import/roof-slanted-window.obj-306b71f61e76efe34f818881edb9723f.mesh", "res://.import/roof-slanted-window.obj-306b71f61e76efe34f818881edb9723f.mesh" ]
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-slanted-window.obj"
+dest_files=[ "res://.import/roof-slanted-window.obj-4653687f4b7825436d87c7f5afaeee20.mesh", "res://.import/roof-slanted-window.obj-4653687f4b7825436d87c7f5afaeee20.mesh" ]
 
 [params]
 

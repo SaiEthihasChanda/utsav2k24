@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-sample-house-a.png-2decd2a3bd12a730cf119202ffb4b1d9.stex"
+path="res://.import/building-sample-house-a.png-871eadf103873ed126d0b470558579ee.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-sample-house-a.png"
-dest_files=[ "res://.import/building-sample-house-a.png-2decd2a3bd12a730cf119202ffb4b1d9.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-sample-house-a.png"
+dest_files=[ "res://.import/building-sample-house-a.png-871eadf103873ed126d0b470558579ee.stex" ]
 
 [params]
 

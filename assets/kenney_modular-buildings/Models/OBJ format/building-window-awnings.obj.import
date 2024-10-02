@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/building-window-awnings.obj-fae764e7e6d994ce0c3509a31202eb9e.mesh"
+path="res://.import/building-window-awnings.obj-f42d210a7f7fd425798ecc86834e5e2d.mesh"
 
 [deps]
 
-files=[ "res://.import/building-window-awnings.obj-fae764e7e6d994ce0c3509a31202eb9e.mesh" ]
+files=[ "res://.import/building-window-awnings.obj-f42d210a7f7fd425798ecc86834e5e2d.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/building-window-awnings.obj"
-dest_files=[ "res://.import/building-window-awnings.obj-fae764e7e6d994ce0c3509a31202eb9e.mesh", "res://.import/building-window-awnings.obj-fae764e7e6d994ce0c3509a31202eb9e.mesh" ]
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-window-awnings.obj"
+dest_files=[ "res://.import/building-window-awnings.obj-f42d210a7f7fd425798ecc86834e5e2d.mesh", "res://.import/building-window-awnings.obj-f42d210a7f7fd425798ecc86834e5e2d.mesh" ]
 
 [params]
 

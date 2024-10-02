@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree-pine-small.png-e34692d7f6149cd8d3408a186a50f23b.stex"
+path="res://.import/tree-pine-small.png-cb1d620998ea2cb89075e7108d0748b9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/tree-pine-small.png"
-dest_files=[ "res://.import/tree-pine-small.png-e34692d7f6149cd8d3408a186a50f23b.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/tree-pine-small.png"
+dest_files=[ "res://.import/tree-pine-small.png-cb1d620998ea2cb89075e7108d0748b9.stex" ]
 
 [params]
 

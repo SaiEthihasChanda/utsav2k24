@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_halfCornerInner_rock.glb-9e4033fa839d3e6e53748da681ef07a1.scn"
+path="res://.import/cliff_halfCornerInner_rock.glb-10a41e0ebfa0cd93f9a517f85b10ea05.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/cliff_halfCornerInner_rock.glb"
-dest_files=[ "res://.import/cliff_halfCornerInner_rock.glb-9e4033fa839d3e6e53748da681ef07a1.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_halfCornerInner_rock.glb"
+dest_files=[ "res://.import/cliff_halfCornerInner_rock.glb-10a41e0ebfa0cd93f9a517f85b10ea05.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/metal-panel-screws-half.fbx-e472e52c302115963c5c94a02a2dc9a8.scn"
+path="res://.import/metal-panel-screws-half.fbx-176e2576b33dd5f905a9dadaef5d9cad.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/metal-panel-screws-half.fbx"
-dest_files=[ "res://.import/metal-panel-screws-half.fbx-e472e52c302115963c5c94a02a2dc9a8.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/metal-panel-screws-half.fbx"
+dest_files=[ "res://.import/metal-panel-screws-half.fbx-176e2576b33dd5f905a9dadaef5d9cad.scn" ]
 
 [params]
 

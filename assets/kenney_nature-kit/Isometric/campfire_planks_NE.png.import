@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/campfire_planks_NE.png-e1a1b7647023404b9a1e294e44947d8b.stex"
+path="res://.import/campfire_planks_NE.png-ead1a87d7fc219f8cbf7c1d7f4482f26.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/campfire_planks_NE.png"
-dest_files=[ "res://.import/campfire_planks_NE.png-e1a1b7647023404b9a1e294e44947d8b.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/campfire_planks_NE.png"
+dest_files=[ "res://.import/campfire_planks_NE.png-ead1a87d7fc219f8cbf7c1d7f4482f26.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/colormap.png-7ae298eba1cf3f1aa3b157ea81197a2a.s3tc.stex"
-path.etc2="res://.import/colormap.png-7ae298eba1cf3f1aa3b157ea81197a2a.etc2.stex"
+path.s3tc="res://.import/colormap.png-fb09a491b976d3fcfe0a8d9f55429dd4.s3tc.stex"
+path.etc2="res://.import/colormap.png-fb09a491b976d3fcfe0a8d9f55429dd4.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/Textures/colormap.png"
-dest_files=[ "res://.import/colormap.png-7ae298eba1cf3f1aa3b157ea81197a2a.s3tc.stex", "res://.import/colormap.png-7ae298eba1cf3f1aa3b157ea81197a2a.etc2.stex" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/Textures/colormap.png"
+dest_files=[ "res://.import/colormap.png-fb09a491b976d3fcfe0a8d9f55429dd4.s3tc.stex", "res://.import/colormap.png-fb09a491b976d3fcfe0a8d9f55429dd4.etc2.stex" ]
 
 [params]
 

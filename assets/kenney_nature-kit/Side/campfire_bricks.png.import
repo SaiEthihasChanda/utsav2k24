@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/campfire_bricks.png-b45b85a154bd51c3a62186445cc0d16c.stex"
+path="res://.import/campfire_bricks.png-c042874c6d5329f3b356c7819dc5d331.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/campfire_bricks.png"
-dest_files=[ "res://.import/campfire_bricks.png-b45b85a154bd51c3a62186445cc0d16c.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/campfire_bricks.png"
+dest_files=[ "res://.import/campfire_bricks.png-c042874c6d5329f3b356c7819dc5d331.stex" ]
 
 [params]
 

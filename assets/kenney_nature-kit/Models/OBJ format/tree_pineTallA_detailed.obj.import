@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tree_pineTallA_detailed.obj-754aeb0936fe775d481e0ed1fe951b1d.mesh"
+path="res://.import/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh"
 
 [deps]
 
-files=[ "res://.import/tree_pineTallA_detailed.obj-754aeb0936fe775d481e0ed1fe951b1d.mesh" ]
+files=[ "res://.import/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/tree_pineTallA_detailed.obj"
-dest_files=[ "res://.import/tree_pineTallA_detailed.obj-754aeb0936fe775d481e0ed1fe951b1d.mesh", "res://.import/tree_pineTallA_detailed.obj-754aeb0936fe775d481e0ed1fe951b1d.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_pineTallA_detailed.obj"
+dest_files=[ "res://.import/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh", "res://.import/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh" ]
 
 [params]
 

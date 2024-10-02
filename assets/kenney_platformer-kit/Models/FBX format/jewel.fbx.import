@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/jewel.fbx-de1f28f23433e8f5e2f5ce22db368e08.scn"
+path="res://.import/jewel.fbx-6167f1a1fc9cdb7dde8e5c04bddead72.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/jewel.fbx"
-dest_files=[ "res://.import/jewel.fbx-de1f28f23433e8f5e2f5ce22db368e08.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/jewel.fbx"
+dest_files=[ "res://.import/jewel.fbx-6167f1a1fc9cdb7dde8e5c04bddead72.scn" ]
 
 [params]
 

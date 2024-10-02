@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/flower_purpleA.obj-197f203a07b8feb96e6e8cd71c42c118.mesh"
+path="res://.import/flower_purpleA.obj-bae756e35f7e386426f849f8478b0cc6.mesh"
 
 [deps]
 
-files=[ "res://.import/flower_purpleA.obj-197f203a07b8feb96e6e8cd71c42c118.mesh" ]
+files=[ "res://.import/flower_purpleA.obj-bae756e35f7e386426f849f8478b0cc6.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/flower_purpleA.obj"
-dest_files=[ "res://.import/flower_purpleA.obj-197f203a07b8feb96e6e8cd71c42c118.mesh", "res://.import/flower_purpleA.obj-197f203a07b8feb96e6e8cd71c42c118.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/flower_purpleA.obj"
+dest_files=[ "res://.import/flower_purpleA.obj-bae756e35f7e386426f849f8478b0cc6.mesh", "res://.import/flower_purpleA.obj-bae756e35f7e386426f849f8478b0cc6.mesh" ]
 
 [params]
 

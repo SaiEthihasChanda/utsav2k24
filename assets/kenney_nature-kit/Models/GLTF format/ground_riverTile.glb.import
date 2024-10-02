@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverTile.glb-d9a2890b2110e12713d92408d9b88a1e.scn"
+path="res://.import/ground_riverTile.glb-ecc1964ab9d0ca3026b3091af5469c73.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/ground_riverTile.glb"
-dest_files=[ "res://.import/ground_riverTile.glb-d9a2890b2110e12713d92408d9b88a1e.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverTile.glb"
+dest_files=[ "res://.import/ground_riverTile.glb-ecc1964ab9d0ca3026b3091af5469c73.scn" ]
 
 [params]
 

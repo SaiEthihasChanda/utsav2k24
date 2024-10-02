@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bridge_woodNarrow_SW.png-606750a918f33002894dd12cc1682df1.stex"
+path="res://.import/bridge_woodNarrow_SW.png-e705ca9cf763a96f64256d856b0d6c1f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/bridge_woodNarrow_SW.png"
-dest_files=[ "res://.import/bridge_woodNarrow_SW.png-606750a918f33002894dd12cc1682df1.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/bridge_woodNarrow_SW.png"
+dest_files=[ "res://.import/bridge_woodNarrow_SW.png-e705ca9cf763a96f64256d856b0d6c1f.stex" ]
 
 [params]
 

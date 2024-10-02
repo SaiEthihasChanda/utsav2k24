@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bed_floor.glb-c094c34decdb5fba54a2363af6475e29.scn"
+path="res://.import/bed_floor.glb-2d2337e38af165389caf64db728bbfda.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/bed_floor.glb"
-dest_files=[ "res://.import/bed_floor.glb-c094c34decdb5fba54a2363af6475e29.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/bed_floor.glb"
+dest_files=[ "res://.import/bed_floor.glb-2d2337e38af165389caf64db728bbfda.scn" ]
 
 [params]
 

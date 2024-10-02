@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-window-awnings.glb-158ea2274efe5b371a7ef2677c1f82e1.scn"
+path="res://.import/building-window-awnings.glb-cb2007ac967c7ebb0d6109340bd19684.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/building-window-awnings.glb"
-dest_files=[ "res://.import/building-window-awnings.glb-158ea2274efe5b371a7ef2677c1f82e1.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-window-awnings.glb"
+dest_files=[ "res://.import/building-window-awnings.glb-cb2007ac967c7ebb0d6109340bd19684.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-slanted-corner-a.glb-b9de7214ab95d3898dd1596af856dd24.scn"
+path="res://.import/roof-slanted-corner-a.glb-ae0c94b365d02a11c89d1b83d3cee290.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/roof-slanted-corner-a.glb"
-dest_files=[ "res://.import/roof-slanted-corner-a.glb-b9de7214ab95d3898dd1596af856dd24.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/roof-slanted-corner-a.glb"
+dest_files=[ "res://.import/roof-slanted-corner-a.glb-ae0c94b365d02a11c89d1b83d3cee290.scn" ]
 
 [params]
 

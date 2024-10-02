@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/arrows.glb-50111d234156337b2a8f48b0db481b0b.scn"
+path="res://.import/arrows.glb-b4db79757b6f6279beeba14aaa42863e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/arrows.glb"
-dest_files=[ "res://.import/arrows.glb-50111d234156337b2a8f48b0db481b0b.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/arrows.glb"
+dest_files=[ "res://.import/arrows.glb-b4db79757b6f6279beeba14aaa42863e.scn" ]
 
 [params]
 

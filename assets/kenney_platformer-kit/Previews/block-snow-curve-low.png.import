@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-snow-curve-low.png-1f9a89b606b0d8a93e4706818d4bd677.stex"
+path="res://.import/block-snow-curve-low.png-a31832d041ffa0de112dd4762c73b75e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-snow-curve-low.png"
-dest_files=[ "res://.import/block-snow-curve-low.png-1f9a89b606b0d8a93e4706818d4bd677.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-snow-curve-low.png"
+dest_files=[ "res://.import/block-snow-curve-low.png-a31832d041ffa0de112dd4762c73b75e.stex" ]
 
 [params]
 

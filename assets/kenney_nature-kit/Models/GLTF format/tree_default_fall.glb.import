@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_default_fall.glb-1454380aaadb52fccb00fde2f31b172c.scn"
+path="res://.import/tree_default_fall.glb-fa19461f9bbaeaa8efeb95ab7c5eb6f4.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/tree_default_fall.glb"
-dest_files=[ "res://.import/tree_default_fall.glb-1454380aaadb52fccb00fde2f31b172c.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_default_fall.glb"
+dest_files=[ "res://.import/tree_default_fall.glb-fa19461f9bbaeaa8efeb95ab7c5eb6f4.scn" ]
 
 [params]
 

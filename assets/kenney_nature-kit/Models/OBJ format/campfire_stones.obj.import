@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/campfire_stones.obj-d0317f24c7b8c574712aa4908bf87ca5.mesh"
+path="res://.import/campfire_stones.obj-802ee3e7875e39c58b006de6a9e6b124.mesh"
 
 [deps]
 
-files=[ "res://.import/campfire_stones.obj-d0317f24c7b8c574712aa4908bf87ca5.mesh" ]
+files=[ "res://.import/campfire_stones.obj-802ee3e7875e39c58b006de6a9e6b124.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/campfire_stones.obj"
-dest_files=[ "res://.import/campfire_stones.obj-d0317f24c7b8c574712aa4908bf87ca5.mesh", "res://.import/campfire_stones.obj-d0317f24c7b8c574712aa4908bf87ca5.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/campfire_stones.obj"
+dest_files=[ "res://.import/campfire_stones.obj-802ee3e7875e39c58b006de6a9e6b124.mesh", "res://.import/campfire_stones.obj-802ee3e7875e39c58b006de6a9e6b124.mesh" ]
 
 [params]
 

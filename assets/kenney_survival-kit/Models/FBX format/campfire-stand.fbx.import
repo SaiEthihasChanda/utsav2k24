@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire-stand.fbx-ab918984a1d4a30f83bb91e1ff8ed23c.scn"
+path="res://.import/campfire-stand.fbx-c3e2e4727f018325ff057ca542437587.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/campfire-stand.fbx"
-dest_files=[ "res://.import/campfire-stand.fbx-ab918984a1d4a30f83bb91e1ff8ed23c.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/campfire-stand.fbx"
+dest_files=[ "res://.import/campfire-stand.fbx-c3e2e4727f018325ff057ca542437587.scn" ]
 
 [params]
 

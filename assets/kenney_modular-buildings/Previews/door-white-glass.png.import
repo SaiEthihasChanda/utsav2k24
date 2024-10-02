@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/door-white-glass.png-58e99c17f289311867deb7cbf65e2d07.stex"
+path="res://.import/door-white-glass.png-155205f4bb14623e45804269ef25638d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/door-white-glass.png"
-dest_files=[ "res://.import/door-white-glass.png-58e99c17f289311867deb7cbf65e2d07.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/door-white-glass.png"
+dest_files=[ "res://.import/door-white-glass.png-155205f4bb14623e45804269ef25638d.stex" ]
 
 [params]
 

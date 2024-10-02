@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/building-steps-narrow-windows-round.obj-dcf39030ca07c5cee0e49184c8821aa5.mesh"
+path="res://.import/building-steps-narrow-windows-round.obj-23be263fc08411ca175404531b3316a0.mesh"
 
 [deps]
 
-files=[ "res://.import/building-steps-narrow-windows-round.obj-dcf39030ca07c5cee0e49184c8821aa5.mesh" ]
+files=[ "res://.import/building-steps-narrow-windows-round.obj-23be263fc08411ca175404531b3316a0.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/building-steps-narrow-windows-round.obj"
-dest_files=[ "res://.import/building-steps-narrow-windows-round.obj-dcf39030ca07c5cee0e49184c8821aa5.mesh", "res://.import/building-steps-narrow-windows-round.obj-dcf39030ca07c5cee0e49184c8821aa5.mesh" ]
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/building-steps-narrow-windows-round.obj"
+dest_files=[ "res://.import/building-steps-narrow-windows-round.obj-23be263fc08411ca175404531b3316a0.mesh", "res://.import/building-steps-narrow-windows-round.obj-23be263fc08411ca175404531b3316a0.mesh" ]
 
 [params]
 

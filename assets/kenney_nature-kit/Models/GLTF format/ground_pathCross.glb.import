@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_pathCross.glb-4c3d885856f56d99cebe6bce31516314.scn"
+path="res://.import/ground_pathCross.glb-6446f1f09d85037e64bafe9c93778db3.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/ground_pathCross.glb"
-dest_files=[ "res://.import/ground_pathCross.glb-4c3d885856f56d99cebe6bce31516314.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_pathCross.glb"
+dest_files=[ "res://.import/ground_pathCross.glb-6446f1f09d85037e64bafe9c93778db3.scn" ]
 
 [params]
 

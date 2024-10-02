@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cliff_block_rock.obj-c2dd5bfb4038e70ee7eb21a79bbaf2f9.mesh"
+path="res://.import/cliff_block_rock.obj-88bf47793304bb110927151e68b26e6a.mesh"
 
 [deps]
 
-files=[ "res://.import/cliff_block_rock.obj-c2dd5bfb4038e70ee7eb21a79bbaf2f9.mesh" ]
+files=[ "res://.import/cliff_block_rock.obj-88bf47793304bb110927151e68b26e6a.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/cliff_block_rock.obj"
-dest_files=[ "res://.import/cliff_block_rock.obj-c2dd5bfb4038e70ee7eb21a79bbaf2f9.mesh", "res://.import/cliff_block_rock.obj-c2dd5bfb4038e70ee7eb21a79bbaf2f9.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_block_rock.obj"
+dest_files=[ "res://.import/cliff_block_rock.obj-88bf47793304bb110927151e68b26e6a.mesh", "res://.import/cliff_block_rock.obj-88bf47793304bb110927151e68b26e6a.mesh" ]
 
 [params]
 

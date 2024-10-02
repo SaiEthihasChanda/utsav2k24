@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-large-slope-steep.glb-1da3dee8201df8fb29a8e2b48445e6a9.scn"
+path="res://.import/block-snow-large-slope-steep.glb-ab29b99f386da1b426788f14698a2879.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-snow-large-slope-steep.glb"
-dest_files=[ "res://.import/block-snow-large-slope-steep.glb-1da3dee8201df8fb29a8e2b48445e6a9.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-large-slope-steep.glb"
+dest_files=[ "res://.import/block-snow-large-slope-steep.glb-ab29b99f386da1b426788f14698a2879.scn" ]
 
 [params]
 

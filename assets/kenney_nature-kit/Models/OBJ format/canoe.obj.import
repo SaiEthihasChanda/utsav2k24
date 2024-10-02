@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/canoe.obj-712b3599a9da2b18be80fde292de8ea8.mesh"
+path="res://.import/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh"
 
 [deps]
 
-files=[ "res://.import/canoe.obj-712b3599a9da2b18be80fde292de8ea8.mesh" ]
+files=[ "res://.import/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/canoe.obj"
-dest_files=[ "res://.import/canoe.obj-712b3599a9da2b18be80fde292de8ea8.mesh", "res://.import/canoe.obj-712b3599a9da2b18be80fde292de8ea8.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/canoe.obj"
+dest_files=[ "res://.import/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh", "res://.import/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh" ]
 
 [params]
 

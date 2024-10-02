@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-steps-narrow-windows.png-44a06416cccb9618ae0572358767bcba.stex"
+path="res://.import/building-steps-narrow-windows.png-4ddc1724c82996fe970b506463185973.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-steps-narrow-windows.png"
-dest_files=[ "res://.import/building-steps-narrow-windows.png-44a06416cccb9618ae0572358767bcba.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-steps-narrow-windows.png"
+dest_files=[ "res://.import/building-steps-narrow-windows.png-4ddc1724c82996fe970b506463185973.stex" ]
 
 [params]
 

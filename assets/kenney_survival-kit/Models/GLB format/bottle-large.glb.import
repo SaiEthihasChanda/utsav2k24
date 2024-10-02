@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bottle-large.glb-83c798bf2189a97155307ca884bc4d15.scn"
+path="res://.import/bottle-large.glb-cd9017ce58e1fde8c3053d017b379577.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/bottle-large.glb"
-dest_files=[ "res://.import/bottle-large.glb-83c798bf2189a97155307ca884bc4d15.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/bottle-large.glb"
+dest_files=[ "res://.import/bottle-large.glb-cd9017ce58e1fde8c3053d017b379577.scn" ]
 
 [params]
 

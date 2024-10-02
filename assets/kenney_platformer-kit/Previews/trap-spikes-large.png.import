@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trap-spikes-large.png-cd7cfd98541d7e6d4128f901cfcd697d.stex"
+path="res://.import/trap-spikes-large.png-26031df2ae0cbeb151463f08ebaddcd7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/trap-spikes-large.png"
-dest_files=[ "res://.import/trap-spikes-large.png-cd7cfd98541d7e6d4128f901cfcd697d.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/trap-spikes-large.png"
+dest_files=[ "res://.import/trap-spikes-large.png-26031df2ae0cbeb151463f08ebaddcd7.stex" ]
 
 [params]
 

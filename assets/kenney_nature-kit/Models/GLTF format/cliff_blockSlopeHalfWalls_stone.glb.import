@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_blockSlopeHalfWalls_stone.glb-900b03848ff060d117cc5529c5860c55.scn"
+path="res://.import/cliff_blockSlopeHalfWalls_stone.glb-8491ef5a02b43d124b5ba2a5a4fc40d1.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/cliff_blockSlopeHalfWalls_stone.glb"
-dest_files=[ "res://.import/cliff_blockSlopeHalfWalls_stone.glb-900b03848ff060d117cc5529c5860c55.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_blockSlopeHalfWalls_stone.glb"
+dest_files=[ "res://.import/cliff_blockSlopeHalfWalls_stone.glb-8491ef5a02b43d124b5ba2a5a4fc40d1.scn" ]
 
 [params]
 

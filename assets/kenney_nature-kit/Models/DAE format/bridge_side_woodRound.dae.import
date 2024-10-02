@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_side_woodRound.dae-164199bad2c8133b4e93fd481b6caa24.scn"
+path="res://.import/bridge_side_woodRound.dae-913ab75a2e84804290085856a8cda094.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/bridge_side_woodRound.dae"
-dest_files=[ "res://.import/bridge_side_woodRound.dae-164199bad2c8133b4e93fd481b6caa24.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/bridge_side_woodRound.dae"
+dest_files=[ "res://.import/bridge_side_woodRound.dae-913ab75a2e84804290085856a8cda094.scn" ]
 
 [params]
 

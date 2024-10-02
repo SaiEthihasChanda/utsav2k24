@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_oak_dark.dae-ffe727155fca6d7863fe124bcb213fcf.scn"
+path="res://.import/tree_oak_dark.dae-32460ea87a7fb058445eb20a5f37178c.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/tree_oak_dark.dae"
-dest_files=[ "res://.import/tree_oak_dark.dae-ffe727155fca6d7863fe124bcb213fcf.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_oak_dark.dae"
+dest_files=[ "res://.import/tree_oak_dark.dae-32460ea87a7fb058445eb20a5f37178c.scn" ]
 
 [params]
 

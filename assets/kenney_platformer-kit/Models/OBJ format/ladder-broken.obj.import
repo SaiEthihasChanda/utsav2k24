@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/ladder-broken.obj-fb24c4c3a1537af432abdf6a7b45e4c8.mesh"
+path="res://.import/ladder-broken.obj-78117c75989f28f6fb6357c3251cc37c.mesh"
 
 [deps]
 
-files=[ "res://.import/ladder-broken.obj-fb24c4c3a1537af432abdf6a7b45e4c8.mesh" ]
+files=[ "res://.import/ladder-broken.obj-78117c75989f28f6fb6357c3251cc37c.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/ladder-broken.obj"
-dest_files=[ "res://.import/ladder-broken.obj-fb24c4c3a1537af432abdf6a7b45e4c8.mesh", "res://.import/ladder-broken.obj-fb24c4c3a1537af432abdf6a7b45e4c8.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/ladder-broken.obj"
+dest_files=[ "res://.import/ladder-broken.obj-78117c75989f28f6fb6357c3251cc37c.mesh", "res://.import/ladder-broken.obj-78117c75989f28f6fb6357c3251cc37c.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/resource-wood.fbx-70189cd743d8235d51eb787f0b1e7226.scn"
+path="res://.import/resource-wood.fbx-2bd2979d60048edef2e58a1a6a473065.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/resource-wood.fbx"
-dest_files=[ "res://.import/resource-wood.fbx-70189cd743d8235d51eb787f0b1e7226.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/resource-wood.fbx"
+dest_files=[ "res://.import/resource-wood.fbx-2bd2979d60048edef2e58a1a6a473065.scn" ]
 
 [params]
 

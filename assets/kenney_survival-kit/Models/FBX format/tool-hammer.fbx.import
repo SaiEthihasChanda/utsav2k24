@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-hammer.fbx-ec884cbae56fc3078aad55473b96a3f1.scn"
+path="res://.import/tool-hammer.fbx-51405a73435390d8d1ddbf30eb05077f.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/tool-hammer.fbx"
-dest_files=[ "res://.import/tool-hammer.fbx-ec884cbae56fc3078aad55473b96a3f1.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/tool-hammer.fbx"
+dest_files=[ "res://.import/tool-hammer.fbx-51405a73435390d8d1ddbf30eb05077f.scn" ]
 
 [params]
 

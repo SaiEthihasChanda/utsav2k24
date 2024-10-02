@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-curve-half.fbx-deea1dc36aa230dbbd0028965c6061bb.scn"
+path="res://.import/block-snow-curve-half.fbx-64a6a3c9af9935e5b15894dc0801ca19.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-curve-half.fbx"
-dest_files=[ "res://.import/block-snow-curve-half.fbx-deea1dc36aa230dbbd0028965c6061bb.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-curve-half.fbx"
+dest_files=[ "res://.import/block-snow-curve-half.fbx-64a6a3c9af9935e5b15894dc0801ca19.scn" ]
 
 [params]
 

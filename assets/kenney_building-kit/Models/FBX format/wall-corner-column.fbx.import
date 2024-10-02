@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wall-corner-column.fbx-3161ff7bc9117eb7c87d4939328f2b1f.scn"
+path="res://.import/wall-corner-column.fbx-3d8c199b6b115d4879f80b58653b1b46.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/wall-corner-column.fbx"
-dest_files=[ "res://.import/wall-corner-column.fbx-3161ff7bc9117eb7c87d4939328f2b1f.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/wall-corner-column.fbx"
+dest_files=[ "res://.import/wall-corner-column.fbx-3d8c199b6b115d4879f80b58653b1b46.scn" ]
 
 [params]
 

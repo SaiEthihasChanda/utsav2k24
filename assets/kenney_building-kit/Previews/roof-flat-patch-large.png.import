@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roof-flat-patch-large.png-da260ce94df9f8823c168961c3e18235.stex"
+path="res://.import/roof-flat-patch-large.png-fa0d8665dbab159c0d2ca5de1a5ca298.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Previews/roof-flat-patch-large.png"
-dest_files=[ "res://.import/roof-flat-patch-large.png-da260ce94df9f8823c168961c3e18235.stex" ]
+source_file="res://assets/kenney_building-kit/Previews/roof-flat-patch-large.png"
+dest_files=[ "res://.import/roof-flat-patch-large.png-fa0d8665dbab159c0d2ca5de1a5ca298.stex" ]
 
 [params]
 

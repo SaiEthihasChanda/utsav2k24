@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/roof-flat-border-corner-slanted-passage.obj-739304c9f8e46451a9ec5c082784aad3.mesh"
+path="res://.import/roof-flat-border-corner-slanted-passage.obj-7e957f3dac1ebd7ab6a80924e689c0cd.mesh"
 
 [deps]
 
-files=[ "res://.import/roof-flat-border-corner-slanted-passage.obj-739304c9f8e46451a9ec5c082784aad3.mesh" ]
+files=[ "res://.import/roof-flat-border-corner-slanted-passage.obj-7e957f3dac1ebd7ab6a80924e689c0cd.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/OBJ format/roof-flat-border-corner-slanted-passage.obj"
-dest_files=[ "res://.import/roof-flat-border-corner-slanted-passage.obj-739304c9f8e46451a9ec5c082784aad3.mesh", "res://.import/roof-flat-border-corner-slanted-passage.obj-739304c9f8e46451a9ec5c082784aad3.mesh" ]
+source_file="res://assets/kenney_modular-buildings/Models/OBJ format/roof-flat-border-corner-slanted-passage.obj"
+dest_files=[ "res://.import/roof-flat-border-corner-slanted-passage.obj-7e957f3dac1ebd7ab6a80924e689c0cd.mesh", "res://.import/roof-flat-border-corner-slanted-passage.obj-7e957f3dac1ebd7ab6a80924e689c0cd.mesh" ]
 
 [params]
 

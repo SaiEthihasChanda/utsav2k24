@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_palm.fbx-8d950d80981f7f61dce8e118728874d1.scn"
+path="res://.import/tree_palm.fbx-b50c63b7b8a97844cc134b662571c323.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/tree_palm.fbx"
-dest_files=[ "res://.import/tree_palm.fbx-8d950d80981f7f61dce8e118728874d1.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_palm.fbx"
+dest_files=[ "res://.import/tree_palm.fbx-b50c63b7b8a97844cc134b662571c323.scn" ]
 
 [params]
 

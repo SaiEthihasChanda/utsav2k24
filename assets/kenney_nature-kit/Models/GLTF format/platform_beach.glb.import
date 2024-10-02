@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/platform_beach.glb-63a3eceaaa6919e0522c631b0c30dc47.scn"
+path="res://.import/platform_beach.glb-36a4eec35fd14ab23e55cbbb53660df6.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/platform_beach.glb"
-dest_files=[ "res://.import/platform_beach.glb-63a3eceaaa6919e0522c631b0c30dc47.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/platform_beach.glb"
+dest_files=[ "res://.import/platform_beach.glb-36a4eec35fd14ab23e55cbbb53660df6.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-narrow.glb-c59c3cbdd3d21c73518c33aebd00f077.scn"
+path="res://.import/block-snow-narrow.glb-8b50a154b72300377d7e34c53de783b9.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-snow-narrow.glb"
-dest_files=[ "res://.import/block-snow-narrow.glb-c59c3cbdd3d21c73518c33aebd00f077.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-narrow.glb"
+dest_files=[ "res://.import/block-snow-narrow.glb-8b50a154b72300377d7e34c53de783b9.scn" ]
 
 [params]
 

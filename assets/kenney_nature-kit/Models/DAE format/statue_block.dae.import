@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/statue_block.dae-7ca73c42717dec4a542d7ab9ac279e7f.scn"
+path="res://.import/statue_block.dae-ac716b77b4f2a6057590360f0077625c.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/statue_block.dae"
-dest_files=[ "res://.import/statue_block.dae-7ca73c42717dec4a542d7ab9ac279e7f.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/statue_block.dae"
+dest_files=[ "res://.import/statue_block.dae-ac716b77b4f2a6057590360f0077625c.scn" ]
 
 [params]
 

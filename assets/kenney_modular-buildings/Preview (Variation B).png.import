@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Preview (Variation B).png-4b16624309c1a1f830f8919bfa31f206.stex"
+path="res://.import/Preview (Variation B).png-f737307263a602e784dedda0c9bc6f82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Preview (Variation B).png"
-dest_files=[ "res://.import/Preview (Variation B).png-4b16624309c1a1f830f8919bfa31f206.stex" ]
+source_file="res://assets/kenney_modular-buildings/Preview (Variation B).png"
+dest_files=[ "res://.import/Preview (Variation B).png-f737307263a602e784dedda0c9bc6f82.stex" ]
 
 [params]
 

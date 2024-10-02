@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-edges-door.fbx-72ab400450300700b0f494ea7ab53c8c.scn"
+path="res://.import/building-edges-door.fbx-836f77b2b7f68e657b9cda236ccdb458.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-edges-door.fbx"
-dest_files=[ "res://.import/building-edges-door.fbx-72ab400450300700b0f494ea7ab53c8c.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-edges-door.fbx"
+dest_files=[ "res://.import/building-edges-door.fbx-836f77b2b7f68e657b9cda236ccdb458.scn" ]
 
 [params]
 

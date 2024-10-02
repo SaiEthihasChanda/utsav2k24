@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structure-metal-roof.fbx-45b82fc5206ae1759a08570ce9dcdda4.scn"
+path="res://.import/structure-metal-roof.fbx-dff435f51f2e7c89422f35d208910f2c.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/structure-metal-roof.fbx"
-dest_files=[ "res://.import/structure-metal-roof.fbx-45b82fc5206ae1759a08570ce9dcdda4.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/structure-metal-roof.fbx"
+dest_files=[ "res://.import/structure-metal-roof.fbx-dff435f51f2e7c89422f35d208910f2c.scn" ]
 
 [params]
 

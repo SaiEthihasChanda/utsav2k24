@@ -1,8 +1,9 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://assets/battery/source/Battery.fbx" type="PackedScene" id=1]
 [ext_resource path="res://assets/battery/textures/Battery_Default_Albedo.png" type="Texture" id=2]
 [ext_resource path="res://Battery.gd" type="Script" id=3]
+[ext_resource path="res://interact.tscn" type="PackedScene" id=4]
 
 [sub_resource type="SpatialMaterial" id=1]
 albedo_texture = ExtResource( 2 )
@@ -52,6 +53,8 @@ shape = SubResource( 5 )
 [node name="CollisionShape" type="CollisionShape" parent="Area" index="0"]
 transform = Transform( 1.17872, 0.195052, -0.126667, -0.639609, 0.514551, -0.157378, -0.161561, -0.835911, -0.125099, 0.105916, 0.136997, 0.108008 )
 shape = SubResource( 4 )
+
+[node name="interact" parent="." index="2" instance=ExtResource( 4 )]
 
 [connection signal="area_entered" from="Area" to="." method="_on_Area_area_entered"]
 [connection signal="area_exited" from="Area" to="." method="_on_Area_area_exited"]

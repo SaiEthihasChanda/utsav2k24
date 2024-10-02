@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/door-brown-glass.png-390138dc7eec0a31be58b573004b8d18.stex"
+path="res://.import/door-brown-glass.png-dc1211a17e9598a78c588d4f0226e433.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/door-brown-glass.png"
-dest_files=[ "res://.import/door-brown-glass.png-390138dc7eec0a31be58b573004b8d18.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/door-brown-glass.png"
+dest_files=[ "res://.import/door-brown-glass.png-dc1211a17e9598a78c588d4f0226e433.stex" ]
 
 [params]
 

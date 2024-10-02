@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cactus_tall_SW.png-722d9698fa3067c94075e44728d528b3.stex"
+path="res://.import/cactus_tall_SW.png-33a884d7ceb442174969d96d02e9118c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/cactus_tall_SW.png"
-dest_files=[ "res://.import/cactus_tall_SW.png-722d9698fa3067c94075e44728d528b3.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/cactus_tall_SW.png"
+dest_files=[ "res://.import/cactus_tall_SW.png-33a884d7ceb442174969d96d02e9118c.stex" ]
 
 [params]
 

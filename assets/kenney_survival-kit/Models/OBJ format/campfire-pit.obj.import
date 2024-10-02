@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh"
+path="res://.import/campfire-pit.obj-12c11d6f8a8501a780fc70b980127efc.mesh"
 
 [deps]
 
-files=[ "res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh" ]
+files=[ "res://.import/campfire-pit.obj-12c11d6f8a8501a780fc70b980127efc.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/campfire-pit.obj"
-dest_files=[ "res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh", "res://.import/campfire-pit.obj-c2b3558d3438c9303ef03f65cee7252c.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/campfire-pit.obj"
+dest_files=[ "res://.import/campfire-pit.obj-12c11d6f8a8501a780fc70b980127efc.mesh", "res://.import/campfire-pit.obj-12c11d6f8a8501a780fc70b980127efc.mesh" ]
 
 [params]
 

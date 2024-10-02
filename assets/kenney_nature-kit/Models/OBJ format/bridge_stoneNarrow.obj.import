@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bridge_stoneNarrow.obj-fca484ab8db8537d08a13a2fac3ca69b.mesh"
+path="res://.import/bridge_stoneNarrow.obj-c06afcf436f634af6281c9c8b50588c4.mesh"
 
 [deps]
 
-files=[ "res://.import/bridge_stoneNarrow.obj-fca484ab8db8537d08a13a2fac3ca69b.mesh" ]
+files=[ "res://.import/bridge_stoneNarrow.obj-c06afcf436f634af6281c9c8b50588c4.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/bridge_stoneNarrow.obj"
-dest_files=[ "res://.import/bridge_stoneNarrow.obj-fca484ab8db8537d08a13a2fac3ca69b.mesh", "res://.import/bridge_stoneNarrow.obj-fca484ab8db8537d08a13a2fac3ca69b.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/bridge_stoneNarrow.obj"
+dest_files=[ "res://.import/bridge_stoneNarrow.obj-c06afcf436f634af6281c9c8b50588c4.mesh", "res://.import/bridge_stoneNarrow.obj-c06afcf436f634af6281c9c8b50588c4.mesh" ]
 
 [params]
 

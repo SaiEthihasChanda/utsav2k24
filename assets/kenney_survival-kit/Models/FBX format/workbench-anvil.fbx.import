@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbench-anvil.fbx-abbe95aa060b0c3dc009fb9cf0fc2fc8.scn"
+path="res://.import/workbench-anvil.fbx-3bff780e46286ea275d6f160ec526fcd.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/workbench-anvil.fbx"
-dest_files=[ "res://.import/workbench-anvil.fbx-abbe95aa060b0c3dc009fb9cf0fc2fc8.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/workbench-anvil.fbx"
+dest_files=[ "res://.import/workbench-anvil.fbx-3bff780e46286ea275d6f160ec526fcd.scn" ]
 
 [params]
 

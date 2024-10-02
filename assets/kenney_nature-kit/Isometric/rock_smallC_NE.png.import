@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rock_smallC_NE.png-c8e2c674a59c4655ee8e4f87a1dbdc0c.stex"
+path="res://.import/rock_smallC_NE.png-cd9b59843f3d8783a6c193c69c20a99d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/rock_smallC_NE.png"
-dest_files=[ "res://.import/rock_smallC_NE.png-c8e2c674a59c4655ee8e4f87a1dbdc0c.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/rock_smallC_NE.png"
+dest_files=[ "res://.import/rock_smallC_NE.png-cd9b59843f3d8783a6c193c69c20a99d.stex" ]
 
 [params]
 

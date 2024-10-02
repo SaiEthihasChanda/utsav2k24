@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverCornerSmall.dae-f65feea7e5b0e23b2333e59238045dca.scn"
+path="res://.import/ground_riverCornerSmall.dae-b8a8c21809b6e6dfbd4146d412d80b3f.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/ground_riverCornerSmall.dae"
-dest_files=[ "res://.import/ground_riverCornerSmall.dae-f65feea7e5b0e23b2333e59238045dca.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_riverCornerSmall.dae"
+dest_files=[ "res://.import/ground_riverCornerSmall.dae-b8a8c21809b6e6dfbd4146d412d80b3f.scn" ]
 
 [params]
 

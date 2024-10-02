@@ -1,0 +1,12 @@
+Godot Engine v3.3.4.stable.official.faf3f883d - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+OpenGL ES Batching: ON
+ 
+**ERROR**: Cannot open file 'res://world.tscn'.
+   At: scene/resources/resource_format_text.cpp:1232:load_interactive() - Condition "err != OK" is true. Returned: Ref<ResourceInteractiveLoader>()
+**ERROR**: Failed loading resource: res://world.tscn. Make sure resources have been imported by opening the project in the editor at least once.
+   At: core/io/resource_loader.cpp:282:_load() - Condition "found" is true. Returned: RES()
+**ERROR**: Failed loading scene: res://world.tscn
+   At: main/main.cpp:1961:start() - Condition "!scene" is true. Returned: false
+**WARNING**: ObjectDB instances leaked at exit (run with --verbose for details).
+   At: core/object.cpp:2132:cleanup() - ObjectDB instances leaked at exit (run with --verbose for details).

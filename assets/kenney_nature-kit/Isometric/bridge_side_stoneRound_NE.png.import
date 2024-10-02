@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bridge_side_stoneRound_NE.png-70e9046abde26cf75bb7666388bc113b.stex"
+path="res://.import/bridge_side_stoneRound_NE.png-f7b8bb657a06390abc2e3943779a6416.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/bridge_side_stoneRound_NE.png"
-dest_files=[ "res://.import/bridge_side_stoneRound_NE.png-70e9046abde26cf75bb7666388bc113b.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/bridge_side_stoneRound_NE.png"
+dest_files=[ "res://.import/bridge_side_stoneRound_NE.png-f7b8bb657a06390abc2e3943779a6416.stex" ]
 
 [params]
 

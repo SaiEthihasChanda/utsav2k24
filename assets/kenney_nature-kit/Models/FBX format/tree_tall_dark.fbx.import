@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_tall_dark.fbx-89e8071349f70f5ed0988c3c2621263b.scn"
+path="res://.import/tree_tall_dark.fbx-d78200d18e542fe29dc663863f0c94d0.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/tree_tall_dark.fbx"
-dest_files=[ "res://.import/tree_tall_dark.fbx-89e8071349f70f5ed0988c3c2621263b.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_tall_dark.fbx"
+dest_files=[ "res://.import/tree_tall_dark.fbx-d78200d18e542fe29dc663863f0c94d0.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-overhang-low-long.glb-521bb2d80fcfcfd5c0952aa431c0bf8e.scn"
+path="res://.import/block-grass-overhang-low-long.glb-a2fcb9020e7ca881fffb8c6609ccc507.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-grass-overhang-low-long.glb"
-dest_files=[ "res://.import/block-grass-overhang-low-long.glb-521bb2d80fcfcfd5c0952aa431c0bf8e.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-overhang-low-long.glb"
+dest_files=[ "res://.import/block-grass-overhang-low-long.glb-a2fcb9020e7ca881fffb8c6609ccc507.scn" ]
 
 [params]
 

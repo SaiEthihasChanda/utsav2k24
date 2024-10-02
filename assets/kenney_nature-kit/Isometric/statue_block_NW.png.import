@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/statue_block_NW.png-4c0aef9b3a65b5771fb3f9c48263dc6d.stex"
+path="res://.import/statue_block_NW.png-a7f397676c828be657adca1eebe1ee99.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/statue_block_NW.png"
-dest_files=[ "res://.import/statue_block_NW.png-4c0aef9b3a65b5771fb3f9c48263dc6d.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/statue_block_NW.png"
+dest_files=[ "res://.import/statue_block_NW.png-a7f397676c828be657adca1eebe1ee99.stex" ]
 
 [params]
 

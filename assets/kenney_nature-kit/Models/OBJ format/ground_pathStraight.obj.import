@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/ground_pathStraight.obj-ab6a3b272db82b41036eeefec545f71c.mesh"
+path="res://.import/ground_pathStraight.obj-de36f7a8d7a70e6ef969de267bbe0e63.mesh"
 
 [deps]
 
-files=[ "res://.import/ground_pathStraight.obj-ab6a3b272db82b41036eeefec545f71c.mesh" ]
+files=[ "res://.import/ground_pathStraight.obj-de36f7a8d7a70e6ef969de267bbe0e63.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/ground_pathStraight.obj"
-dest_files=[ "res://.import/ground_pathStraight.obj-ab6a3b272db82b41036eeefec545f71c.mesh", "res://.import/ground_pathStraight.obj-ab6a3b272db82b41036eeefec545f71c.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_pathStraight.obj"
+dest_files=[ "res://.import/ground_pathStraight.obj-de36f7a8d7a70e6ef969de267bbe0e63.mesh", "res://.import/ground_pathStraight.obj-de36f7a8d7a70e6ef969de267bbe0e63.mesh" ]
 
 [params]
 

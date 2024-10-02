@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-windows-high-top-round.png-58816539bc24f3733b9d44f8f196208b.stex"
+path="res://.import/building-windows-high-top-round.png-562322da1807e1856cc245b2ba914094.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-windows-high-top-round.png"
-dest_files=[ "res://.import/building-windows-high-top-round.png-58816539bc24f3733b9d44f8f196208b.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-windows-high-top-round.png"
+dest_files=[ "res://.import/building-windows-high-top-round.png-562322da1807e1856cc245b2ba914094.stex" ]
 
 [params]
 

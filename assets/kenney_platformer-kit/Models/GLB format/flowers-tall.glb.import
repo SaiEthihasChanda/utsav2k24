@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/flowers-tall.glb-082a4525833610d5d43ad73217584bfa.scn"
+path="res://.import/flowers-tall.glb-e0fc94193a84e4c006f420604683da35.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/flowers-tall.glb"
-dest_files=[ "res://.import/flowers-tall.glb-082a4525833610d5d43ad73217584bfa.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/flowers-tall.glb"
+dest_files=[ "res://.import/flowers-tall.glb-e0fc94193a84e4c006f420604683da35.scn" ]
 
 [params]
 

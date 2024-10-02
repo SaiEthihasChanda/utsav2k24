@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crops_dirtRowCorner.png-72b2a85585d8b95cedb6204ecc4b45b2.stex"
+path="res://.import/crops_dirtRowCorner.png-0240dbcdde3c2cd43993ab84cc52c130.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/crops_dirtRowCorner.png"
-dest_files=[ "res://.import/crops_dirtRowCorner.png-72b2a85585d8b95cedb6204ecc4b45b2.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/crops_dirtRowCorner.png"
+dest_files=[ "res://.import/crops_dirtRowCorner.png-0240dbcdde3c2cd43993ab84cc52c130.stex" ]
 
 [params]
 

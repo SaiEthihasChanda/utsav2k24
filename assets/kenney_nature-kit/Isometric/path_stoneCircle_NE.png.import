@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/path_stoneCircle_NE.png-71488e9f0bccc85dceda6dc9e0ec5d25.stex"
+path="res://.import/path_stoneCircle_NE.png-dd5a8a7d13096e838bee058b889604af.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/path_stoneCircle_NE.png"
-dest_files=[ "res://.import/path_stoneCircle_NE.png-71488e9f0bccc85dceda6dc9e0ec5d25.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/path_stoneCircle_NE.png"
+dest_files=[ "res://.import/path_stoneCircle_NE.png-dd5a8a7d13096e838bee058b889604af.stex" ]
 
 [params]
 

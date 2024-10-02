@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fish-large.png-05d5409bda6e7c699f121620c955968c.stex"
+path="res://.import/fish-large.png-d1fafeed13b43f98abd50ffd7ee8a839.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/fish-large.png"
-dest_files=[ "res://.import/fish-large.png-05d5409bda6e7c699f121620c955968c.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/fish-large.png"
+dest_files=[ "res://.import/fish-large.png-d1fafeed13b43f98abd50ffd7ee8a839.stex" ]
 
 [params]
 

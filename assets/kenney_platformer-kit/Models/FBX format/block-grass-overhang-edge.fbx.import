@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-overhang-edge.fbx-56b14a5999c39e4f38c99b8f3091737d.scn"
+path="res://.import/block-grass-overhang-edge.fbx-3650e96c8fe6d494b2a52deb89ddb5b0.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-edge.fbx"
-dest_files=[ "res://.import/block-grass-overhang-edge.fbx-56b14a5999c39e4f38c99b8f3091737d.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-edge.fbx"
+dest_files=[ "res://.import/block-grass-overhang-edge.fbx-3650e96c8fe6d494b2a52deb89ddb5b0.scn" ]
 
 [params]
 

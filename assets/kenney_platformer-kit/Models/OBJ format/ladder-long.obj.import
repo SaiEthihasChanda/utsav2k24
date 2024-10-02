@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/ladder-long.obj-9b48b111ec22917e698980e6777d8194.mesh"
+path="res://.import/ladder-long.obj-0241c4e286bd12557640c1fbf6713a79.mesh"
 
 [deps]
 
-files=[ "res://.import/ladder-long.obj-9b48b111ec22917e698980e6777d8194.mesh" ]
+files=[ "res://.import/ladder-long.obj-0241c4e286bd12557640c1fbf6713a79.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/ladder-long.obj"
-dest_files=[ "res://.import/ladder-long.obj-9b48b111ec22917e698980e6777d8194.mesh", "res://.import/ladder-long.obj-9b48b111ec22917e698980e6777d8194.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/ladder-long.obj"
+dest_files=[ "res://.import/ladder-long.obj-0241c4e286bd12557640c1fbf6713a79.mesh", "res://.import/ladder-long.obj-0241c4e286bd12557640c1fbf6713a79.mesh" ]
 
 [params]
 

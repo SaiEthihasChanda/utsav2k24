@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh"
+path="res://.import/floor-hole.obj-cbe26cb45d5b98c2b3fa7bb044c62757.mesh"
 
 [deps]
 
-files=[ "res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh" ]
+files=[ "res://.import/floor-hole.obj-cbe26cb45d5b98c2b3fa7bb044c62757.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/floor-hole.obj"
-dest_files=[ "res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh", "res://.import/floor-hole.obj-57fbc15d9394ffb22cd1ca61b18bcfff.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/floor-hole.obj"
+dest_files=[ "res://.import/floor-hole.obj-cbe26cb45d5b98c2b3fa7bb044c62757.mesh", "res://.import/floor-hole.obj-cbe26cb45d5b98c2b3fa7bb044c62757.mesh" ]
 
 [params]
 

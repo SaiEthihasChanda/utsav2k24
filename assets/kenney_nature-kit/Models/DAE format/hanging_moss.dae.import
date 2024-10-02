@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hanging_moss.dae-fabe91daad4b6e1289229792c139c398.scn"
+path="res://.import/hanging_moss.dae-05d9ed3dea08b3d85461015de172fedb.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/hanging_moss.dae"
-dest_files=[ "res://.import/hanging_moss.dae-fabe91daad4b6e1289229792c139c398.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/hanging_moss.dae"
+dest_files=[ "res://.import/hanging_moss.dae-05d9ed3dea08b3d85461015de172fedb.scn" ]
 
 [params]
 

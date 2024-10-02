@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/path_woodCorner_NW.png-277e5756e15fdf187d3002e77e6124e7.stex"
+path="res://.import/path_woodCorner_NW.png-918c1d15bf6b9379e94199e9ff61778c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/path_woodCorner_NW.png"
-dest_files=[ "res://.import/path_woodCorner_NW.png-277e5756e15fdf187d3002e77e6124e7.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/path_woodCorner_NW.png"
+dest_files=[ "res://.import/path_woodCorner_NW.png-918c1d15bf6b9379e94199e9ff61778c.stex" ]
 
 [params]
 

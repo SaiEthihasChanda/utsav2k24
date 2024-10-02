@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/statue_columnDamaged.glb-39e29dabdfb72026a2a45394b42301af.scn"
+path="res://.import/statue_columnDamaged.glb-20520264290bd24253eb185ceb8a9d0e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/statue_columnDamaged.glb"
-dest_files=[ "res://.import/statue_columnDamaged.glb-39e29dabdfb72026a2a45394b42301af.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/statue_columnDamaged.glb"
+dest_files=[ "res://.import/statue_columnDamaged.glb-20520264290bd24253eb185ceb8a9d0e.scn" ]
 
 [params]
 

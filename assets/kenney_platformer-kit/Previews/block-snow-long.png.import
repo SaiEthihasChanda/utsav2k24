@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-snow-long.png-34c46fcfef1ba9c52d7dd49e29643228.stex"
+path="res://.import/block-snow-long.png-60c2b02a7c2b412c472f1fddf74965f2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-snow-long.png"
-dest_files=[ "res://.import/block-snow-long.png-34c46fcfef1ba9c52d7dd49e29643228.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-snow-long.png"
+dest_files=[ "res://.import/block-snow-long.png-60c2b02a7c2b412c472f1fddf74965f2.stex" ]
 
 [params]
 

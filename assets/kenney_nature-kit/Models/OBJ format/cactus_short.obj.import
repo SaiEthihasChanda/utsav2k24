@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cactus_short.obj-7cf18c24dac178298fe3a7079c5dc3f1.mesh"
+path="res://.import/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh"
 
 [deps]
 
-files=[ "res://.import/cactus_short.obj-7cf18c24dac178298fe3a7079c5dc3f1.mesh" ]
+files=[ "res://.import/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/cactus_short.obj"
-dest_files=[ "res://.import/cactus_short.obj-7cf18c24dac178298fe3a7079c5dc3f1.mesh", "res://.import/cactus_short.obj-7cf18c24dac178298fe3a7079c5dc3f1.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/cactus_short.obj"
+dest_files=[ "res://.import/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh", "res://.import/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh" ]
 
 [params]
 

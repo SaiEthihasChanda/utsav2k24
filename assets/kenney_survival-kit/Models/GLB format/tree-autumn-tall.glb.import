@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree-autumn-tall.glb-206149babf5ac8810f248562b76ab1ef.scn"
+path="res://.import/tree-autumn-tall.glb-c3a2fb26be9a3d8db4af7c570b6a844e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tree-autumn-tall.glb"
-dest_files=[ "res://.import/tree-autumn-tall.glb-206149babf5ac8810f248562b76ab1ef.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/tree-autumn-tall.glb"
+dest_files=[ "res://.import/tree-autumn-tall.glb-c3a2fb26be9a3d8db4af7c570b6a844e.scn" ]
 
 [params]
 

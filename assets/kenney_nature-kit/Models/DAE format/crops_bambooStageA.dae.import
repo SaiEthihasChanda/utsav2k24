@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crops_bambooStageA.dae-c2a34f5e1c5e8dd7686daf1672697849.scn"
+path="res://.import/crops_bambooStageA.dae-d2e297513f71daaff40b0d813ecc2a8e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/crops_bambooStageA.dae"
-dest_files=[ "res://.import/crops_bambooStageA.dae-c2a34f5e1c5e8dd7686daf1672697849.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crops_bambooStageA.dae"
+dest_files=[ "res://.import/crops_bambooStageA.dae-d2e297513f71daaff40b0d813ecc2a8e.scn" ]
 
 [params]
 

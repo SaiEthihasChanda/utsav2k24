@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire-pit.glb-d02e9fa5101d2a2f37a7079f8fdfc575.scn"
+path="res://.import/campfire-pit.glb-e0c145012d096e148a94a5a11fffb900.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/campfire-pit.glb"
-dest_files=[ "res://.import/campfire-pit.glb-d02e9fa5101d2a2f37a7079f8fdfc575.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/campfire-pit.glb"
+dest_files=[ "res://.import/campfire-pit.glb-e0c145012d096e148a94a5a11fffb900.scn" ]
 
 [params]
 

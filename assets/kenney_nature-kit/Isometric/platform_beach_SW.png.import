@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/platform_beach_SW.png-57fcaf6a30bf2f4287067a36a8c6fb74.stex"
+path="res://.import/platform_beach_SW.png-75d154727ba5cf41db359eca1c17fee2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/platform_beach_SW.png"
-dest_files=[ "res://.import/platform_beach_SW.png-57fcaf6a30bf2f4287067a36a8c6fb74.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/platform_beach_SW.png"
+dest_files=[ "res://.import/platform_beach_SW.png-75d154727ba5cf41db359eca1c17fee2.stex" ]
 
 [params]
 

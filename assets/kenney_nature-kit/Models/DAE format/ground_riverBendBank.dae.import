@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverBendBank.dae-747d94f1e7c35196a75660dc72b9fbce.scn"
+path="res://.import/ground_riverBendBank.dae-04d96eb3a1694cc7a521827749266ef7.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/ground_riverBendBank.dae"
-dest_files=[ "res://.import/ground_riverBendBank.dae-747d94f1e7c35196a75660dc72b9fbce.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_riverBendBank.dae"
+dest_files=[ "res://.import/ground_riverBendBank.dae-04d96eb3a1694cc7a521827749266ef7.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_center_wood.fbx-b55140f97fa19798235626d4572daf58.scn"
+path="res://.import/bridge_center_wood.fbx-bd3be108495d6d1589cf327e0b2e1cad.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/bridge_center_wood.fbx"
-dest_files=[ "res://.import/bridge_center_wood.fbx-b55140f97fa19798235626d4572daf58.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/bridge_center_wood.fbx"
+dest_files=[ "res://.import/bridge_center_wood.fbx-bd3be108495d6d1589cf327e0b2e1cad.scn" ]
 
 [params]
 

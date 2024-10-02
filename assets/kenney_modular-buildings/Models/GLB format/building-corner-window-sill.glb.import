@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-corner-window-sill.glb-b2ea4f20b2b209a3b753d826c7f8c170.scn"
+path="res://.import/building-corner-window-sill.glb-f689b4cb577ff210fbf7af43b21f0f2f.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/building-corner-window-sill.glb"
-dest_files=[ "res://.import/building-corner-window-sill.glb-b2ea4f20b2b209a3b753d826c7f8c170.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-corner-window-sill.glb"
+dest_files=[ "res://.import/building-corner-window-sill.glb-f689b4cb577ff210fbf7af43b21f0f2f.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_small_fall.fbx-a0bf724f9a7d20e09e773760d6384f92.scn"
+path="res://.import/tree_small_fall.fbx-14d79ff039a7408b05f117f8ed803cc0.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/tree_small_fall.fbx"
-dest_files=[ "res://.import/tree_small_fall.fbx-a0bf724f9a7d20e09e773760d6384f92.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_small_fall.fbx"
+dest_files=[ "res://.import/tree_small_fall.fbx-14d79ff039a7408b05f117f8ed803cc0.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/mushrooms.obj-8238e1c25f4fbb6e3e62d73af7069e08.mesh"
+path="res://.import/mushrooms.obj-b2623dbea7919c0cb21daece23afe14d.mesh"
 
 [deps]
 
-files=[ "res://.import/mushrooms.obj-8238e1c25f4fbb6e3e62d73af7069e08.mesh" ]
+files=[ "res://.import/mushrooms.obj-b2623dbea7919c0cb21daece23afe14d.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/mushrooms.obj"
-dest_files=[ "res://.import/mushrooms.obj-8238e1c25f4fbb6e3e62d73af7069e08.mesh", "res://.import/mushrooms.obj-8238e1c25f4fbb6e3e62d73af7069e08.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/mushrooms.obj"
+dest_files=[ "res://.import/mushrooms.obj-b2623dbea7919c0cb21daece23afe14d.mesh", "res://.import/mushrooms.obj-b2623dbea7919c0cb21daece23afe14d.mesh" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bedroll.obj-81e5d38b75bc783d212ecf947e800ad8.mesh"
+path="res://.import/bedroll.obj-636acc698c72c63a542d109b13dabac0.mesh"
 
 [deps]
 
-files=[ "res://.import/bedroll.obj-81e5d38b75bc783d212ecf947e800ad8.mesh" ]
+files=[ "res://.import/bedroll.obj-636acc698c72c63a542d109b13dabac0.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/bedroll.obj"
-dest_files=[ "res://.import/bedroll.obj-81e5d38b75bc783d212ecf947e800ad8.mesh", "res://.import/bedroll.obj-81e5d38b75bc783d212ecf947e800ad8.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/bedroll.obj"
+dest_files=[ "res://.import/bedroll.obj-636acc698c72c63a542d109b13dabac0.mesh", "res://.import/bedroll.obj-636acc698c72c63a542d109b13dabac0.mesh" ]
 
 [params]
 

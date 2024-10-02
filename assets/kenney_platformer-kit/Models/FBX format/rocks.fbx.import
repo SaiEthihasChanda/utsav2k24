@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rocks.fbx-4c15535e09dc6cdb1bf6e88c0bffcf83.scn"
+path="res://.import/rocks.fbx-1292b6cad655cc1215a99bc3086a2340.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/rocks.fbx"
-dest_files=[ "res://.import/rocks.fbx-4c15535e09dc6cdb1bf6e88c0bffcf83.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/rocks.fbx"
+dest_files=[ "res://.import/rocks.fbx-1292b6cad655cc1215a99bc3086a2340.scn" ]
 
 [params]
 

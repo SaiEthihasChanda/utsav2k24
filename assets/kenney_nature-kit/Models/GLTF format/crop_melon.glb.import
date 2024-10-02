@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_melon.glb-22012ef2c37f2c191924a3574e725a53.scn"
+path="res://.import/crop_melon.glb-f726279cfd9c4cf52bb88dbac4b4d66b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/crop_melon.glb"
-dest_files=[ "res://.import/crop_melon.glb-22012ef2c37f2c191924a3574e725a53.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/crop_melon.glb"
+dest_files=[ "res://.import/crop_melon.glb-f726279cfd9c4cf52bb88dbac4b4d66b.scn" ]
 
 [params]
 

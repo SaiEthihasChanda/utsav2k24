@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/canoe.fbx-b2e6c2d66123f3a8b40e55acc7897f3d.scn"
+path="res://.import/canoe.fbx-4d987e1e1f949de8a52aa12c9a3f8b17.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/canoe.fbx"
-dest_files=[ "res://.import/canoe.fbx-b2e6c2d66123f3a8b40e55acc7897f3d.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/canoe.fbx"
+dest_files=[ "res://.import/canoe.fbx-4d987e1e1f949de8a52aa12c9a3f8b17.scn" ]
 
 [params]
 

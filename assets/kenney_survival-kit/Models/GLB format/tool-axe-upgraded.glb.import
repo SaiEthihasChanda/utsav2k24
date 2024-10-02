@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-axe-upgraded.glb-a165b32143b3d04077d69e8fe5e402d6.scn"
+path="res://.import/tool-axe-upgraded.glb-5afc55401ce5e60196c51aecaa4f206f.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tool-axe-upgraded.glb"
-dest_files=[ "res://.import/tool-axe-upgraded.glb-a165b32143b3d04077d69e8fe5e402d6.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/tool-axe-upgraded.glb"
+dest_files=[ "res://.import/tool-axe-upgraded.glb-5afc55401ce5e60196c51aecaa4f206f.scn" ]
 
 [params]
 

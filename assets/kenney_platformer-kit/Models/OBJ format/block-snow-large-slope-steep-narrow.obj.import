@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/block-snow-large-slope-steep-narrow.obj-6fc3a6d9917da7697475f0cb938e0e8e.mesh"
+path="res://.import/block-snow-large-slope-steep-narrow.obj-f7a589e0bc101aa27ce7c7e40b8ff2eb.mesh"
 
 [deps]
 
-files=[ "res://.import/block-snow-large-slope-steep-narrow.obj-6fc3a6d9917da7697475f0cb938e0e8e.mesh" ]
+files=[ "res://.import/block-snow-large-slope-steep-narrow.obj-f7a589e0bc101aa27ce7c7e40b8ff2eb.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/block-snow-large-slope-steep-narrow.obj"
-dest_files=[ "res://.import/block-snow-large-slope-steep-narrow.obj-6fc3a6d9917da7697475f0cb938e0e8e.mesh", "res://.import/block-snow-large-slope-steep-narrow.obj-6fc3a6d9917da7697475f0cb938e0e8e.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-snow-large-slope-steep-narrow.obj"
+dest_files=[ "res://.import/block-snow-large-slope-steep-narrow.obj-f7a589e0bc101aa27ce7c7e40b8ff2eb.mesh", "res://.import/block-snow-large-slope-steep-narrow.obj-f7a589e0bc101aa27ce7c7e40b8ff2eb.mesh" ]
 
 [params]
 

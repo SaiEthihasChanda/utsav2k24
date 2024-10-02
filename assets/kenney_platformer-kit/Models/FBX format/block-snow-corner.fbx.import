@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-corner.fbx-0c08f40df9120e5a45ba779ee0650a79.scn"
+path="res://.import/block-snow-corner.fbx-adcd64341dbee3df3a4443c40582d0bc.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-corner.fbx"
-dest_files=[ "res://.import/block-snow-corner.fbx-0c08f40df9120e5a45ba779ee0650a79.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-corner.fbx"
+dest_files=[ "res://.import/block-snow-corner.fbx-adcd64341dbee3df3a4443c40582d0bc.scn" ]
 
 [params]
 

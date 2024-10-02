@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-windows-sills-round.fbx-0e2c21c88c85e3c0b4ae3de048362b5e.scn"
+path="res://.import/building-windows-sills-round.fbx-7409a5ca1403c2b4aeef22afc12ffcc8.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-windows-sills-round.fbx"
-dest_files=[ "res://.import/building-windows-sills-round.fbx-0e2c21c88c85e3c0b4ae3de048362b5e.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-windows-sills-round.fbx"
+dest_files=[ "res://.import/building-windows-sills-round.fbx-7409a5ca1403c2b4aeef22afc12ffcc8.scn" ]
 
 [params]
 

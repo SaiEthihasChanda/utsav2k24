@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-overhang-large-slope-narrow.glb-b85ddaddd8f2d6c50c400ab82ca3696a.scn"
+path="res://.import/block-snow-overhang-large-slope-narrow.glb-da0bc8baef101b899b79ccf73c528bea.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-snow-overhang-large-slope-narrow.glb"
-dest_files=[ "res://.import/block-snow-overhang-large-slope-narrow.glb-b85ddaddd8f2d6c50c400ab82ca3696a.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-overhang-large-slope-narrow.glb"
+dest_files=[ "res://.import/block-snow-overhang-large-slope-narrow.glb-da0bc8baef101b899b79ccf73c528bea.scn" ]
 
 [params]
 

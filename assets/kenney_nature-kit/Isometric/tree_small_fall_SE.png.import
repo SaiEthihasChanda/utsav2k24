@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_small_fall_SE.png-c829b87a29e73c9caa2b401297902238.stex"
+path="res://.import/tree_small_fall_SE.png-4afd90cc4072cc298399bd3a19c99b0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/tree_small_fall_SE.png"
-dest_files=[ "res://.import/tree_small_fall_SE.png-c829b87a29e73c9caa2b401297902238.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/tree_small_fall_SE.png"
+dest_files=[ "res://.import/tree_small_fall_SE.png-4afd90cc4072cc298399bd3a19c99b0b.stex" ]
 
 [params]
 

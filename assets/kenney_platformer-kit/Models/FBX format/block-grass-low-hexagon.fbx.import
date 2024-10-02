@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-low-hexagon.fbx-34c3e86cb663960576441c01bac03ad1.scn"
+path="res://.import/block-grass-low-hexagon.fbx-3ffad5e67cf66976863615ccf76a7d47.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-grass-low-hexagon.fbx"
-dest_files=[ "res://.import/block-grass-low-hexagon.fbx-34c3e86cb663960576441c01bac03ad1.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-low-hexagon.fbx"
+dest_files=[ "res://.import/block-grass-low-hexagon.fbx-3ffad5e67cf66976863615ccf76a7d47.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cliff_steps_stone.obj-b63617171686c98f2949b4f9d3b5267c.mesh"
+path="res://.import/cliff_steps_stone.obj-7caf099703932a574622a5f5ba399f55.mesh"
 
 [deps]
 
-files=[ "res://.import/cliff_steps_stone.obj-b63617171686c98f2949b4f9d3b5267c.mesh" ]
+files=[ "res://.import/cliff_steps_stone.obj-7caf099703932a574622a5f5ba399f55.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/cliff_steps_stone.obj"
-dest_files=[ "res://.import/cliff_steps_stone.obj-b63617171686c98f2949b4f9d3b5267c.mesh", "res://.import/cliff_steps_stone.obj-b63617171686c98f2949b4f9d3b5267c.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_steps_stone.obj"
+dest_files=[ "res://.import/cliff_steps_stone.obj-7caf099703932a574622a5f5ba399f55.mesh", "res://.import/cliff_steps_stone.obj-7caf099703932a574622a5f5ba399f55.mesh" ]
 
 [params]
 

@@ -1,0 +1,24 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="ViewportTexture" id=17]
+viewport_path = NodePath("Spatial/Viewport")
+
+[node name="Spatial" type="Spatial"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.885762, 0 )
+
+[node name="Viewport" type="Viewport" parent="."]
+size = Vector2( 300, 25 )
+transparent_bg = true
+
+[node name="Label" type="Label" parent="Viewport"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_bottom = 14.0
+text = "Solar Panel"
+align = 1
+valign = 1
+
+[node name="Sprite3D" type="Sprite3D" parent="."]
+flip_v = true
+billboard = 2
+texture = SubResource( 17 )

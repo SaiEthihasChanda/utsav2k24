@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hanging_moss_NW.png-da69a426ec1ce0ec7af2e1b5771eb2fa.stex"
+path="res://.import/hanging_moss_NW.png-5d684419bbbeb1a244a6ee76fc636902.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/hanging_moss_NW.png"
-dest_files=[ "res://.import/hanging_moss_NW.png-da69a426ec1ce0ec7af2e1b5771eb2fa.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/hanging_moss_NW.png"
+dest_files=[ "res://.import/hanging_moss_NW.png-5d684419bbbeb1a244a6ee76fc636902.stex" ]
 
 [params]
 

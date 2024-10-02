@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-edges-door.glb-14635f62acbbf926adfb103e8389394c.scn"
+path="res://.import/building-edges-door.glb-bfb956debe7b1958452584219edf26de.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/building-edges-door.glb"
-dest_files=[ "res://.import/building-edges-door.glb-14635f62acbbf926adfb103e8389394c.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-edges-door.glb"
+dest_files=[ "res://.import/building-edges-door.glb-bfb956debe7b1958452584219edf26de.scn" ]
 
 [params]
 

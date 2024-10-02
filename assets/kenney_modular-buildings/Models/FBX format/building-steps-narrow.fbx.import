@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-steps-narrow.fbx-89b9ebbac441da0188e3a4259c21fc86.scn"
+path="res://.import/building-steps-narrow.fbx-ad906d27fe9f3e5c84d05a0120aee88a.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-steps-narrow.fbx"
-dest_files=[ "res://.import/building-steps-narrow.fbx-89b9ebbac441da0188e3a4259c21fc86.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-steps-narrow.fbx"
+dest_files=[ "res://.import/building-steps-narrow.fbx-ad906d27fe9f3e5c84d05a0120aee88a.scn" ]
 
 [params]
 

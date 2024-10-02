@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sign_NW.png-a9710e8b3303204e3565d941169c8f6d.stex"
+path="res://.import/sign_NW.png-68a0b9e8f4add66cc67aa591fa73cdbe.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/sign_NW.png"
-dest_files=[ "res://.import/sign_NW.png-a9710e8b3303204e3565d941169c8f6d.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/sign_NW.png"
+dest_files=[ "res://.import/sign_NW.png-68a0b9e8f4add66cc67aa591fa73cdbe.stex" ]
 
 [params]
 

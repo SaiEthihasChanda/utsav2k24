@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/window-brown-round-top.png-f10e3a79363227639182fdc23a5d1c67.stex"
+path="res://.import/window-brown-round-top.png-4c1601f8330eff0b08462bf79b1cb5df.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/window-brown-round-top.png"
-dest_files=[ "res://.import/window-brown-round-top.png-f10e3a79363227639182fdc23a5d1c67.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/window-brown-round-top.png"
+dest_files=[ "res://.import/window-brown-round-top.png-4c1601f8330eff0b08462bf79b1cb5df.stex" ]
 
 [params]
 

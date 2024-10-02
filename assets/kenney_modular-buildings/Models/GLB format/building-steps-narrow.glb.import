@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-steps-narrow.glb-0fd10f4f1dd5a24efe72fa6816568487.scn"
+path="res://.import/building-steps-narrow.glb-2f503384d23050e2fc3cd23c62bdbf6b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/building-steps-narrow.glb"
-dest_files=[ "res://.import/building-steps-narrow.glb-0fd10f4f1dd5a24efe72fa6816568487.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-steps-narrow.glb"
+dest_files=[ "res://.import/building-steps-narrow.glb-2f503384d23050e2fc3cd23c62bdbf6b.scn" ]
 
 [params]
 

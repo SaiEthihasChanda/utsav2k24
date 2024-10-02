@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crops_bambooStageA_NE.png-a26d593194ea995bc7e52165bfee6be9.stex"
+path="res://.import/crops_bambooStageA_NE.png-34af04c6e89240ec5825191678e9adfa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/crops_bambooStageA_NE.png"
-dest_files=[ "res://.import/crops_bambooStageA_NE.png-a26d593194ea995bc7e52165bfee6be9.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/crops_bambooStageA_NE.png"
+dest_files=[ "res://.import/crops_bambooStageA_NE.png-34af04c6e89240ec5825191678e9adfa.stex" ]
 
 [params]
 

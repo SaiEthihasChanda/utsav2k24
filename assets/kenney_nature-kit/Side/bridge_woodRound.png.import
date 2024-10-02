@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bridge_woodRound.png-6e3aeda0381d97cbb6934bf332d6db7e.stex"
+path="res://.import/bridge_woodRound.png-7a99b89280a0575ed5446b29442d1d0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/bridge_woodRound.png"
-dest_files=[ "res://.import/bridge_woodRound.png-6e3aeda0381d97cbb6934bf332d6db7e.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/bridge_woodRound.png"
+dest_files=[ "res://.import/bridge_woodRound.png-7a99b89280a0575ed5446b29442d1d0b.stex" ]
 
 [params]
 

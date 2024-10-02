@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/mushrooms.glb-6039bfefc15cc8c8b460605eff1e6b06.scn"
+path="res://.import/mushrooms.glb-9be84edee6edefe97336d5528e8e1d1b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/mushrooms.glb"
-dest_files=[ "res://.import/mushrooms.glb-6039bfefc15cc8c8b460605eff1e6b06.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/mushrooms.glb"
+dest_files=[ "res://.import/mushrooms.glb-9be84edee6edefe97336d5528e8e1d1b.scn" ]
 
 [params]
 

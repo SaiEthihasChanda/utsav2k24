@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plant_flatTall_SW.png-a0482b302bdee9be57f6f78fdbc24b13.stex"
+path="res://.import/plant_flatTall_SW.png-14e2087769e01931207dc8448a373211.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/plant_flatTall_SW.png"
-dest_files=[ "res://.import/plant_flatTall_SW.png-a0482b302bdee9be57f6f78fdbc24b13.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/plant_flatTall_SW.png"
+dest_files=[ "res://.import/plant_flatTall_SW.png-14e2087769e01931207dc8448a373211.stex" ]
 
 [params]
 

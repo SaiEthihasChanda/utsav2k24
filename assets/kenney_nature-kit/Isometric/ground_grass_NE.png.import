@@ -2,33 +2,35 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_grass_NE.png-ee5dc6b7ddef093432bd21686ec1492e.stex"
+path.s3tc="res://.import/ground_grass_NE.png-a90b84240e7fe8877ecd3875154ffa04.s3tc.stex"
+path.etc2="res://.import/ground_grass_NE.png-a90b84240e7fe8877ecd3875154ffa04.etc2.stex"
 metadata={
-"vram_texture": false
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/ground_grass_NE.png"
-dest_files=[ "res://.import/ground_grass_NE.png-ee5dc6b7ddef093432bd21686ec1492e.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/ground_grass_NE.png"
+dest_files=[ "res://.import/ground_grass_NE.png-a90b84240e7fe8877ecd3875154ffa04.s3tc.stex", "res://.import/ground_grass_NE.png-a90b84240e7fe8877ecd3875154ffa04.etc2.stex" ]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
-flags/repeat=0
+flags/repeat=true
 flags/filter=true
-flags/mipmaps=false
+flags/mipmaps=true
 flags/anisotropic=false
-flags/srgb=2
+flags/srgb=1
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0

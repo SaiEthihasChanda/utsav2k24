@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_center_wood.glb-25fbd8df59e856d847da1495b7c6e09d.scn"
+path="res://.import/bridge_center_wood.glb-05d34fc4146ed325d43ec389386169f4.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/bridge_center_wood.glb"
-dest_files=[ "res://.import/bridge_center_wood.glb-25fbd8df59e856d847da1495b7c6e09d.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/bridge_center_wood.glb"
+dest_files=[ "res://.import/bridge_center_wood.glb-05d34fc4146ed325d43ec389386169f4.scn" ]
 
 [params]
 

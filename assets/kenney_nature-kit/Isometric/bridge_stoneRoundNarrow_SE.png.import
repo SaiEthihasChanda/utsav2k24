@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bridge_stoneRoundNarrow_SE.png-f6990c0c6f965811194089a7b097de88.stex"
+path="res://.import/bridge_stoneRoundNarrow_SE.png-4567f4f34ca8f7d27a6251c9c64a3854.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/bridge_stoneRoundNarrow_SE.png"
-dest_files=[ "res://.import/bridge_stoneRoundNarrow_SE.png-f6990c0c6f965811194089a7b097de88.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/bridge_stoneRoundNarrow_SE.png"
+dest_files=[ "res://.import/bridge_stoneRoundNarrow_SE.png-4567f4f34ca8f7d27a6251c9c64a3854.stex" ]
 
 [params]
 

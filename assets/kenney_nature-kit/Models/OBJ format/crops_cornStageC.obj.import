@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/crops_cornStageC.obj-876a55a7ae359567e22f4524af8f1a77.mesh"
+path="res://.import/crops_cornStageC.obj-05d9ae690f748b636a58f06f481821b7.mesh"
 
 [deps]
 
-files=[ "res://.import/crops_cornStageC.obj-876a55a7ae359567e22f4524af8f1a77.mesh" ]
+files=[ "res://.import/crops_cornStageC.obj-05d9ae690f748b636a58f06f481821b7.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/crops_cornStageC.obj"
-dest_files=[ "res://.import/crops_cornStageC.obj-876a55a7ae359567e22f4524af8f1a77.mesh", "res://.import/crops_cornStageC.obj-876a55a7ae359567e22f4524af8f1a77.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/crops_cornStageC.obj"
+dest_files=[ "res://.import/crops_cornStageC.obj-05d9ae690f748b636a58f06f481821b7.mesh", "res://.import/crops_cornStageC.obj-05d9ae690f748b636a58f06f481821b7.mesh" ]
 
 [params]
 

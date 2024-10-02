@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-overhang-low-hexagon.glb-a3a2c658f6f5cd883ad49175b17657ad.scn"
+path="res://.import/block-grass-overhang-low-hexagon.glb-3c9f38ce402265e98c71d17746edc1df.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-grass-overhang-low-hexagon.glb"
-dest_files=[ "res://.import/block-grass-overhang-low-hexagon.glb-a3a2c658f6f5cd883ad49175b17657ad.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-overhang-low-hexagon.glb"
+dest_files=[ "res://.import/block-grass-overhang-low-hexagon.glb-3c9f38ce402265e98c71d17746edc1df.scn" ]
 
 [params]
 

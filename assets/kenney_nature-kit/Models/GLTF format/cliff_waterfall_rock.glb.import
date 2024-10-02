@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_waterfall_rock.glb-4f174df842b3d4db26cdf5cbef3ca1d5.scn"
+path="res://.import/cliff_waterfall_rock.glb-ee019135fab37dec4d692ec37c9fbca3.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/cliff_waterfall_rock.glb"
-dest_files=[ "res://.import/cliff_waterfall_rock.glb-4f174df842b3d4db26cdf5cbef3ca1d5.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_waterfall_rock.glb"
+dest_files=[ "res://.import/cliff_waterfall_rock.glb-ee019135fab37dec4d692ec37c9fbca3.scn" ]
 
 [params]
 

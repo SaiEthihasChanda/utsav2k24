@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_riverCross_SE.png-fa1ee81ed1948c62e5a3fd8c9653849f.stex"
+path="res://.import/ground_riverCross_SE.png-d0c9a857749493b7aa63b5e7aeb4794c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/ground_riverCross_SE.png"
-dest_files=[ "res://.import/ground_riverCross_SE.png-fa1ee81ed1948c62e5a3fd8c9653849f.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/ground_riverCross_SE.png"
+dest_files=[ "res://.import/ground_riverCross_SE.png-d0c9a857749493b7aa63b5e7aeb4794c.stex" ]
 
 [params]
 

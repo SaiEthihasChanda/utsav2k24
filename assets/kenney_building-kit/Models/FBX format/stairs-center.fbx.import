@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stairs-center.fbx-a7e21bad4cf557a03ad03d677b7b1706.scn"
+path="res://.import/stairs-center.fbx-f868773113ea8f172a755487d404e68c.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/stairs-center.fbx"
-dest_files=[ "res://.import/stairs-center.fbx-a7e21bad4cf557a03ad03d677b7b1706.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/stairs-center.fbx"
+dest_files=[ "res://.import/stairs-center.fbx-f868773113ea8f172a755487d404e68c.scn" ]
 
 [params]
 

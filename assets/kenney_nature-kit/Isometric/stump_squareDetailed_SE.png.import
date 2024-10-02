@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stump_squareDetailed_SE.png-b5b055b6cf809de083ab57c06468245a.stex"
+path="res://.import/stump_squareDetailed_SE.png-458440467ebb5ffda6a12c54526ca66b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/stump_squareDetailed_SE.png"
-dest_files=[ "res://.import/stump_squareDetailed_SE.png-b5b055b6cf809de083ab57c06468245a.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/stump_squareDetailed_SE.png"
+dest_files=[ "res://.import/stump_squareDetailed_SE.png-458440467ebb5ffda6a12c54526ca66b.stex" ]
 
 [params]
 

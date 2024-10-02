@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-corner-overhang-low.glb-a15df9e7e8d870335519f51a9952887c.scn"
+path="res://.import/block-snow-corner-overhang-low.glb-c2c61cc5ca32657cb2a240de48634769.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-snow-corner-overhang-low.glb"
-dest_files=[ "res://.import/block-snow-corner-overhang-low.glb-a15df9e7e8d870335519f51a9952887c.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-corner-overhang-low.glb"
+dest_files=[ "res://.import/block-snow-corner-overhang-low.glb-c2c61cc5ca32657cb2a240de48634769.scn" ]
 
 [params]
 

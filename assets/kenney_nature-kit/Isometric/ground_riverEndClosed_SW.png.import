@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_riverEndClosed_SW.png-c416548efc9f8a4c12b04e328c9fc1bf.stex"
+path="res://.import/ground_riverEndClosed_SW.png-d7199524a4ac40a6bb11fa6df7bb05b5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/ground_riverEndClosed_SW.png"
-dest_files=[ "res://.import/ground_riverEndClosed_SW.png-c416548efc9f8a4c12b04e328c9fc1bf.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/ground_riverEndClosed_SW.png"
+dest_files=[ "res://.import/ground_riverEndClosed_SW.png-d7199524a4ac40a6bb11fa6df7bb05b5.stex" ]
 
 [params]
 

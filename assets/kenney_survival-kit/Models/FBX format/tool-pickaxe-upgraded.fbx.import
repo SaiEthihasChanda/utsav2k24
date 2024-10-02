@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-pickaxe-upgraded.fbx-b2546e14ebffb9d683c8b8b2599150ca.scn"
+path="res://.import/tool-pickaxe-upgraded.fbx-00764c113b3b817d5763b8c50a2d8d85.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/tool-pickaxe-upgraded.fbx"
-dest_files=[ "res://.import/tool-pickaxe-upgraded.fbx-b2546e14ebffb9d683c8b8b2599150ca.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/tool-pickaxe-upgraded.fbx"
+dest_files=[ "res://.import/tool-pickaxe-upgraded.fbx-00764c113b3b817d5763b8c50a2d8d85.scn" ]
 
 [params]
 

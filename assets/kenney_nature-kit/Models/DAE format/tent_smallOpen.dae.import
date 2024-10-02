@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tent_smallOpen.dae-90c5d8ab97edcf4111b8386658d6d86f.scn"
+path="res://.import/tent_smallOpen.dae-6de0ea1381c3e99df5205e669d673756.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/tent_smallOpen.dae"
-dest_files=[ "res://.import/tent_smallOpen.dae-90c5d8ab97edcf4111b8386658d6d86f.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/tent_smallOpen.dae"
+dest_files=[ "res://.import/tent_smallOpen.dae-6de0ea1381c3e99df5205e669d673756.scn" ]
 
 [params]
 

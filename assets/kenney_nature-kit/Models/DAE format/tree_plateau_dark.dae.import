@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_plateau_dark.dae-2101db34b3ddc429e4e604e112a8ff53.scn"
+path="res://.import/tree_plateau_dark.dae-14ce8f266a5749f2ade17a95204ed022.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/tree_plateau_dark.dae"
-dest_files=[ "res://.import/tree_plateau_dark.dae-2101db34b3ddc429e4e604e112a8ff53.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_plateau_dark.dae"
+dest_files=[ "res://.import/tree_plateau_dark.dae-14ce8f266a5749f2ade17a95204ed022.scn" ]
 
 [params]
 

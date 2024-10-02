@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/door-brown.png-8d25b779ad387d780663987ab254d4c8.stex"
+path="res://.import/door-brown.png-72921235254a02628f9057acdbee2ced.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/door-brown.png"
-dest_files=[ "res://.import/door-brown.png-8d25b779ad387d780663987ab254d4c8.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/door-brown.png"
+dest_files=[ "res://.import/door-brown.png-72921235254a02628f9057acdbee2ced.stex" ]
 
 [params]
 

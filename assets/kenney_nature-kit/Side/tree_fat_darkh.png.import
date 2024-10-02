@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_fat_darkh.png-9d3e54212963281ccc99a64577befd09.stex"
+path="res://.import/tree_fat_darkh.png-84b73c676e1b7e4010d4ef4d0ee62ea5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/tree_fat_darkh.png"
-dest_files=[ "res://.import/tree_fat_darkh.png-9d3e54212963281ccc99a64577befd09.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/tree_fat_darkh.png"
+dest_files=[ "res://.import/tree_fat_darkh.png-84b73c676e1b7e4010d4ef4d0ee62ea5.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_riverSide_NW.png-db54f0408b484d817ad9a09aafe43000.stex"
+path="res://.import/ground_riverSide_NW.png-4235f3438add6cf5eb2d38b56a55843a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/ground_riverSide_NW.png"
-dest_files=[ "res://.import/ground_riverSide_NW.png-db54f0408b484d817ad9a09aafe43000.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/ground_riverSide_NW.png"
+dest_files=[ "res://.import/ground_riverSide_NW.png-4235f3438add6cf5eb2d38b56a55843a.stex" ]
 
 [params]
 

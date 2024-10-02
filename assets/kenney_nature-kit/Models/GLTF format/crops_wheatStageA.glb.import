@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crops_wheatStageA.glb-d5887c9e5b4acc59bb081d88a2d3f8d8.scn"
+path="res://.import/crops_wheatStageA.glb-dccbbb6150a09da7e7e366445f2c10fc.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/crops_wheatStageA.glb"
-dest_files=[ "res://.import/crops_wheatStageA.glb-d5887c9e5b4acc59bb081d88a2d3f8d8.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/crops_wheatStageA.glb"
+dest_files=[ "res://.import/crops_wheatStageA.glb-dccbbb6150a09da7e7e366445f2c10fc.scn" ]
 
 [params]
 

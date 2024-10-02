@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crops_dirtRow.dae-9d61de2ff2b03928111da9adb5161bfb.scn"
+path="res://.import/crops_dirtRow.dae-a0ef762683566460a6e34655b63751dc.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/crops_dirtRow.dae"
-dest_files=[ "res://.import/crops_dirtRow.dae-9d61de2ff2b03928111da9adb5161bfb.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crops_dirtRow.dae"
+dest_files=[ "res://.import/crops_dirtRow.dae-a0ef762683566460a6e34655b63751dc.scn" ]
 
 [params]
 

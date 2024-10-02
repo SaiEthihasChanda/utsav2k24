@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tool-hammer-upgraded.png-411cf0a41b68ccb1a8a448d290f8c2d4.stex"
+path="res://.import/tool-hammer-upgraded.png-4ceb30a5310d283b76fc62b83b3ec052.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/tool-hammer-upgraded.png"
-dest_files=[ "res://.import/tool-hammer-upgraded.png-411cf0a41b68ccb1a8a448d290f8c2d4.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/tool-hammer-upgraded.png"
+dest_files=[ "res://.import/tool-hammer-upgraded.png-4ceb30a5310d283b76fc62b83b3ec052.stex" ]
 
 [params]
 

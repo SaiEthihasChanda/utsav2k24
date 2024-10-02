@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_tall_fall_NW.png-b524596a27a786aa9f8dbe62dead6ebe.stex"
+path="res://.import/tree_tall_fall_NW.png-d9b9cc6876a45a7e1ff05c0544d287e7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/tree_tall_fall_NW.png"
-dest_files=[ "res://.import/tree_tall_fall_NW.png-b524596a27a786aa9f8dbe62dead6ebe.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/tree_tall_fall_NW.png"
+dest_files=[ "res://.import/tree_tall_fall_NW.png-d9b9cc6876a45a7e1ff05c0544d287e7.stex" ]
 
 [params]
 

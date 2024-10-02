@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rock_tallA.obj-a2380e89e6ba5368cb81ef9431f15cff.mesh"
+path="res://.import/rock_tallA.obj-a45f2a805ea1571688f0d3392d43eb7f.mesh"
 
 [deps]
 
-files=[ "res://.import/rock_tallA.obj-a2380e89e6ba5368cb81ef9431f15cff.mesh" ]
+files=[ "res://.import/rock_tallA.obj-a45f2a805ea1571688f0d3392d43eb7f.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/rock_tallA.obj"
-dest_files=[ "res://.import/rock_tallA.obj-a2380e89e6ba5368cb81ef9431f15cff.mesh", "res://.import/rock_tallA.obj-a2380e89e6ba5368cb81ef9431f15cff.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/rock_tallA.obj"
+dest_files=[ "res://.import/rock_tallA.obj-a45f2a805ea1571688f0d3392d43eb7f.mesh", "res://.import/rock_tallA.obj-a45f2a805ea1571688f0d3392d43eb7f.mesh" ]
 
 [params]
 

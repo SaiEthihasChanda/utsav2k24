@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/platform_beach.fbx-e14f331bef222b4af5aff662555a77a4.scn"
+path="res://.import/platform_beach.fbx-f003c33df049fb06a501f5a96dc298d6.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/platform_beach.fbx"
-dest_files=[ "res://.import/platform_beach.fbx-e14f331bef222b4af5aff662555a77a4.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/platform_beach.fbx"
+dest_files=[ "res://.import/platform_beach.fbx-f003c33df049fb06a501f5a96dc298d6.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-flat-patch.fbx-08112aeca2797ece74705c9781c9af90.scn"
+path="res://.import/roof-flat-patch.fbx-0c92cd33f0af61951d88dc0519379da6.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/roof-flat-patch.fbx"
-dest_files=[ "res://.import/roof-flat-patch.fbx-08112aeca2797ece74705c9781c9af90.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/roof-flat-patch.fbx"
+dest_files=[ "res://.import/roof-flat-patch.fbx-0c92cd33f0af61951d88dc0519379da6.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fish-large.glb-76f0c56ef3dcd2a464f4eaa2d9d39f19.scn"
+path="res://.import/fish-large.glb-6d557f84e1d71336d25267b911c79c2b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/fish-large.glb"
-dest_files=[ "res://.import/fish-large.glb-76f0c56ef3dcd2a464f4eaa2d9d39f19.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/fish-large.glb"
+dest_files=[ "res://.import/fish-large.glb-6d557f84e1d71336d25267b911c79c2b.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/platform-ramp.glb-ccb64c7ef1960b43a636d88b1d9f4942.scn"
+path="res://.import/platform-ramp.glb-63ec2816a15f18f9a4fb1f2a39118b9e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/platform-ramp.glb"
-dest_files=[ "res://.import/platform-ramp.glb-ccb64c7ef1960b43a636d88b1d9f4942.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/platform-ramp.glb"
+dest_files=[ "res://.import/platform-ramp.glb-63ec2816a15f18f9a4fb1f2a39118b9e.scn" ]
 
 [params]
 

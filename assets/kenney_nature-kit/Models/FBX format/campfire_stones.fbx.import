@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire_stones.fbx-ace2b182a7c6ac7088257ca221762691.scn"
+path="res://.import/campfire_stones.fbx-edcc2b673caccaff8cd03f2309e037ac.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/campfire_stones.fbx"
-dest_files=[ "res://.import/campfire_stones.fbx-ace2b182a7c6ac7088257ca221762691.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/campfire_stones.fbx"
+dest_files=[ "res://.import/campfire_stones.fbx-edcc2b673caccaff8cd03f2309e037ac.scn" ]
 
 [params]
 

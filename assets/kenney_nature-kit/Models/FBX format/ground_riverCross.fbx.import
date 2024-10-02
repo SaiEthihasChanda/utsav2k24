@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverCross.fbx-3a61e593c598b9a578cc0bae66274b13.scn"
+path="res://.import/ground_riverCross.fbx-62eedf526266daa3ed2899516dd9d08f.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/ground_riverCross.fbx"
-dest_files=[ "res://.import/ground_riverCross.fbx-3a61e593c598b9a578cc0bae66274b13.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/ground_riverCross.fbx"
+dest_files=[ "res://.import/ground_riverCross.fbx-62eedf526266daa3ed2899516dd9d08f.scn" ]
 
 [params]
 

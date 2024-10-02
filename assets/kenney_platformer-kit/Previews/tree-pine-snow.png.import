@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree-pine-snow.png-57022bba4cdb40839bd7f495a47db025.stex"
+path="res://.import/tree-pine-snow.png-69d81fa158bdf5d0fc4e0228b0841ac5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/tree-pine-snow.png"
-dest_files=[ "res://.import/tree-pine-snow.png-57022bba4cdb40839bd7f495a47db025.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/tree-pine-snow.png"
+dest_files=[ "res://.import/tree-pine-snow.png-69d81fa158bdf5d0fc4e0228b0841ac5.stex" ]
 
 [params]
 

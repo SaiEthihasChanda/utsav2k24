@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/door-open.obj-d052cd2819a3c8f5eba6e579eb08811e.mesh"
+path="res://.import/door-open.obj-bd440f446ac68851aa4e0c0efeffd118.mesh"
 
 [deps]
 
-files=[ "res://.import/door-open.obj-d052cd2819a3c8f5eba6e579eb08811e.mesh" ]
+files=[ "res://.import/door-open.obj-bd440f446ac68851aa4e0c0efeffd118.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/door-open.obj"
-dest_files=[ "res://.import/door-open.obj-d052cd2819a3c8f5eba6e579eb08811e.mesh", "res://.import/door-open.obj-d052cd2819a3c8f5eba6e579eb08811e.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/door-open.obj"
+dest_files=[ "res://.import/door-open.obj-bd440f446ac68851aa4e0c0efeffd118.mesh", "res://.import/door-open.obj-bd440f446ac68851aa4e0c0efeffd118.mesh" ]
 
 [params]
 

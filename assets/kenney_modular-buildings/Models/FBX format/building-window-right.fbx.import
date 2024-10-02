@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-window-right.fbx-dd3b06e7c09f9274176a693a7e85e69d.scn"
+path="res://.import/building-window-right.fbx-4f181489c254c4fbc4a9f070265e2e11.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-window-right.fbx"
-dest_files=[ "res://.import/building-window-right.fbx-dd3b06e7c09f9274176a693a7e85e69d.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-window-right.fbx"
+dest_files=[ "res://.import/building-window-right.fbx-4f181489c254c4fbc4a9f070265e2e11.scn" ]
 
 [params]
 

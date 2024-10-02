@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/mushroom_redTall.fbx-fd169a469b134147c4d52234379eef43.scn"
+path="res://.import/mushroom_redTall.fbx-738ee77bf5c7f6daffec097899f34fbb.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/mushroom_redTall.fbx"
-dest_files=[ "res://.import/mushroom_redTall.fbx-fd169a469b134147c4d52234379eef43.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/mushroom_redTall.fbx"
+dest_files=[ "res://.import/mushroom_redTall.fbx-738ee77bf5c7f6daffec097899f34fbb.scn" ]
 
 [params]
 

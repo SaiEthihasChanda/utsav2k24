@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crop_turnip.png-7ce9bab9cc5c4585bf7b5205501d0dd7.stex"
+path="res://.import/crop_turnip.png-73633eb4094cccf5f525449e6451b34b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/crop_turnip.png"
-dest_files=[ "res://.import/crop_turnip.png-7ce9bab9cc5c4585bf7b5205501d0dd7.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/crop_turnip.png"
+dest_files=[ "res://.import/crop_turnip.png-73633eb4094cccf5f525449e6451b34b.stex" ]
 
 [params]
 

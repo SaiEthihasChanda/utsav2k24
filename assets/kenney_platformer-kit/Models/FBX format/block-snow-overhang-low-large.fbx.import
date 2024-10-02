@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-overhang-low-large.fbx-998b12a06c1ff523fe2774deec27c04b.scn"
+path="res://.import/block-snow-overhang-low-large.fbx-255607f044d69846d34cac241863700e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-snow-overhang-low-large.fbx"
-dest_files=[ "res://.import/block-snow-overhang-low-large.fbx-998b12a06c1ff523fe2774deec27c04b.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-overhang-low-large.fbx"
+dest_files=[ "res://.import/block-snow-overhang-low-large.fbx-255607f044d69846d34cac241863700e.scn" ]
 
 [params]
 

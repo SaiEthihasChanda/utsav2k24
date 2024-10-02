@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence_simpleLow_NW.png-7bbff8a0b9a7b748ef331dd1b6bbf79c.stex"
+path="res://.import/fence_simpleLow_NW.png-677e1cffa26ff6a06e386de6100b27b7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/fence_simpleLow_NW.png"
-dest_files=[ "res://.import/fence_simpleLow_NW.png-7bbff8a0b9a7b748ef331dd1b6bbf79c.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/fence_simpleLow_NW.png"
+dest_files=[ "res://.import/fence_simpleLow_NW.png-677e1cffa26ff6a06e386de6100b27b7.stex" ]
 
 [params]
 

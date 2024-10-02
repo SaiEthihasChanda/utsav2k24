@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_pathStraight.glb-ce726aa7fb92547c0aa94ff3da0f5c0a.scn"
+path="res://.import/ground_pathStraight.glb-51a3cec8758d0a2edda9070e1eba1f4e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/ground_pathStraight.glb"
-dest_files=[ "res://.import/ground_pathStraight.glb-ce726aa7fb92547c0aa94ff3da0f5c0a.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_pathStraight.glb"
+dest_files=[ "res://.import/ground_pathStraight.glb-51a3cec8758d0a2edda9070e1eba1f4e.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_side_stone.fbx-1e9c48329658aff75e9395684c8266a9.scn"
+path="res://.import/bridge_side_stone.fbx-d01491169763d3481f3346e9d3ecd678.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/bridge_side_stone.fbx"
-dest_files=[ "res://.import/bridge_side_stone.fbx-1e9c48329658aff75e9395684c8266a9.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/bridge_side_stone.fbx"
+dest_files=[ "res://.import/bridge_side_stone.fbx-d01491169763d3481f3346e9d3ecd678.scn" ]
 
 [params]
 

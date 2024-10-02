@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stairs-closed.glb-628b197e8c8472213720af04f5b364cd.scn"
+path="res://.import/stairs-closed.glb-ef0f873088addd5d6041491909903b04.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/stairs-closed.glb"
-dest_files=[ "res://.import/stairs-closed.glb-628b197e8c8472213720af04f5b364cd.scn" ]
+source_file="res://assets/kenney_building-kit/Models/GLB format/stairs-closed.glb"
+dest_files=[ "res://.import/stairs-closed.glb-ef0f873088addd5d6041491909903b04.scn" ]
 
 [params]
 

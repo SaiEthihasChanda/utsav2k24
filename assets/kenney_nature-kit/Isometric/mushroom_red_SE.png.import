@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mushroom_red_SE.png-09eb6a9fbb5c9683c8b359901eed334b.stex"
+path="res://.import/mushroom_red_SE.png-65be8c2a69af631ae36ef9b5d9aee645.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/mushroom_red_SE.png"
-dest_files=[ "res://.import/mushroom_red_SE.png-09eb6a9fbb5c9683c8b359901eed334b.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/mushroom_red_SE.png"
+dest_files=[ "res://.import/mushroom_red_SE.png-65be8c2a69af631ae36ef9b5d9aee645.stex" ]
 
 [params]
 

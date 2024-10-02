@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plant_bushSmall.glb-9c5056101dc2db82912c3195b1ab13af.scn"
+path="res://.import/plant_bushSmall.glb-21e26cae082797c405330b513c16b9f0.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/plant_bushSmall.glb"
-dest_files=[ "res://.import/plant_bushSmall.glb-9c5056101dc2db82912c3195b1ab13af.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/plant_bushSmall.glb"
+dest_files=[ "res://.import/plant_bushSmall.glb-21e26cae082797c405330b513c16b9f0.scn" ]
 
 [params]
 

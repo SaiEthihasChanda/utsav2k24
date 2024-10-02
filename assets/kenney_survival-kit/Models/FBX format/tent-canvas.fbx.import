@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tent-canvas.fbx-3dcc6c8e3a6d224b0a17a3277edd9345.scn"
+path="res://.import/tent-canvas.fbx-2087027427a54c9e21d500b4dbb6a66a.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/tent-canvas.fbx"
-dest_files=[ "res://.import/tent-canvas.fbx-3dcc6c8e3a6d224b0a17a3277edd9345.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/tent-canvas.fbx"
+dest_files=[ "res://.import/tent-canvas.fbx-2087027427a54c9e21d500b4dbb6a66a.scn" ]
 
 [params]
 

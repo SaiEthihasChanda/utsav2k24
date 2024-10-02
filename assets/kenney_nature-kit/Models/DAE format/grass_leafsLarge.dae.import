@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grass_leafsLarge.dae-553c86f29e97979eb37660bcc15944ef.scn"
+path="res://.import/grass_leafsLarge.dae-67297f827e2a71dfeee4301431ffd17c.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/grass_leafsLarge.dae"
-dest_files=[ "res://.import/grass_leafsLarge.dae-553c86f29e97979eb37660bcc15944ef.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/grass_leafsLarge.dae"
+dest_files=[ "res://.import/grass_leafsLarge.dae-67297f827e2a71dfeee4301431ffd17c.scn" ]
 
 [params]
 

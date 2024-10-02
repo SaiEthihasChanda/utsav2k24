@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/path_woodEnd_SE.png-5def84f792bdfd35e5e19edbfd6295eb.stex"
+path="res://.import/path_woodEnd_SE.png-ee39fe55daca88928c2b4ebad9584198.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/path_woodEnd_SE.png"
-dest_files=[ "res://.import/path_woodEnd_SE.png-5def84f792bdfd35e5e19edbfd6295eb.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/path_woodEnd_SE.png"
+dest_files=[ "res://.import/path_woodEnd_SE.png-ee39fe55daca88928c2b4ebad9584198.stex" ]
 
 [params]
 

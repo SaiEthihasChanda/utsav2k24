@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-gable.fbx-c66b13f9ab5ea264e934fa2e7dfca496.scn"
+path="res://.import/roof-gable.fbx-ba411903394b36a382a0bb439d28da05.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/roof-gable.fbx"
-dest_files=[ "res://.import/roof-gable.fbx-c66b13f9ab5ea264e934fa2e7dfca496.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-gable.fbx"
+dest_files=[ "res://.import/roof-gable.fbx-ba411903394b36a382a0bb439d28da05.scn" ]
 
 [params]
 

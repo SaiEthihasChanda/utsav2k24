@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-flat-border-center-corner.glb-9d32c2eecf3cc2c0f79aa75199a5de34.scn"
+path="res://.import/roof-flat-border-center-corner.glb-1c08ffd5105571e7a18001fd0dcfee79.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/roof-flat-border-center-corner.glb"
-dest_files=[ "res://.import/roof-flat-border-center-corner.glb-9d32c2eecf3cc2c0f79aa75199a5de34.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/roof-flat-border-center-corner.glb"
+dest_files=[ "res://.import/roof-flat-border-center-corner.glb-1c08ffd5105571e7a18001fd0dcfee79.scn" ]
 
 [params]
 

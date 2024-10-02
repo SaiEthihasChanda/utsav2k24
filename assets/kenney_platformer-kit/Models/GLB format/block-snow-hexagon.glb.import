@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-snow-hexagon.glb-3504404a6a2a191f19cec55b9a8f7a0d.scn"
+path="res://.import/block-snow-hexagon.glb-e7c3a3013f7e3e2d715e1e03e8640e91.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/block-snow-hexagon.glb"
-dest_files=[ "res://.import/block-snow-hexagon.glb-3504404a6a2a191f19cec55b9a8f7a0d.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-hexagon.glb"
+dest_files=[ "res://.import/block-snow-hexagon.glb-e7c3a3013f7e3e2d715e1e03e8640e91.scn" ]
 
 [params]
 

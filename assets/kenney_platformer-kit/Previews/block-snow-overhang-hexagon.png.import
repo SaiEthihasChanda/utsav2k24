@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-snow-overhang-hexagon.png-3fcb37fe35a0bea5a4da9b8e1d53225f.stex"
+path="res://.import/block-snow-overhang-hexagon.png-f09d4090770960451c4a018419cdae94.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-snow-overhang-hexagon.png"
-dest_files=[ "res://.import/block-snow-overhang-hexagon.png-3fcb37fe35a0bea5a4da9b8e1d53225f.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-snow-overhang-hexagon.png"
+dest_files=[ "res://.import/block-snow-overhang-hexagon.png-f09d4090770960451c4a018419cdae94.stex" ]
 
 [params]
 

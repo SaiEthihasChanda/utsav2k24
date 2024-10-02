@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/floor-quarter.png-336fa1f7b8d16995998a8b0d4f0996e7.stex"
+path="res://.import/floor-quarter.png-e4c5a3a3fe1772a2bca0552840acfbd5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Previews/floor-quarter.png"
-dest_files=[ "res://.import/floor-quarter.png-336fa1f7b8d16995998a8b0d4f0996e7.stex" ]
+source_file="res://assets/kenney_building-kit/Previews/floor-quarter.png"
+dest_files=[ "res://.import/floor-quarter.png-e4c5a3a3fe1772a2bca0552840acfbd5.stex" ]
 
 [params]
 

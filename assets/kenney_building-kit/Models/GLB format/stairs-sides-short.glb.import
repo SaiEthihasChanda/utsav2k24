@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stairs-sides-short.glb-badd518bfbef3d3ef63cfe8bc6db9a71.scn"
+path="res://.import/stairs-sides-short.glb-7225130cb543fb8020c2df1a106ddc1b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/stairs-sides-short.glb"
-dest_files=[ "res://.import/stairs-sides-short.glb-badd518bfbef3d3ef63cfe8bc6db9a71.scn" ]
+source_file="res://assets/kenney_building-kit/Models/GLB format/stairs-sides-short.glb"
+dest_files=[ "res://.import/stairs-sides-short.glb-7225130cb543fb8020c2df1a106ddc1b.scn" ]
 
 [params]
 

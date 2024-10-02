@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/gutter-vertical.glb-b37810c297ccc4fef49619ae896c8447.scn"
+path="res://.import/gutter-vertical.glb-c0d399e19601e390b02324a5fad38ede.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/GLB format/gutter-vertical.glb"
-dest_files=[ "res://.import/gutter-vertical.glb-b37810c297ccc4fef49619ae896c8447.scn" ]
+source_file="res://assets/kenney_building-kit/Models/GLB format/gutter-vertical.glb"
+dest_files=[ "res://.import/gutter-vertical.glb-c0d399e19601e390b02324a5fad38ede.scn" ]
 
 [params]
 

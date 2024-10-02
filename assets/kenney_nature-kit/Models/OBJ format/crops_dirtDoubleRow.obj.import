@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/crops_dirtDoubleRow.obj-55b02c3c6b6b6475b5e2f709883e9ca4.mesh"
+path="res://.import/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh"
 
 [deps]
 
-files=[ "res://.import/crops_dirtDoubleRow.obj-55b02c3c6b6b6475b5e2f709883e9ca4.mesh" ]
+files=[ "res://.import/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/crops_dirtDoubleRow.obj"
-dest_files=[ "res://.import/crops_dirtDoubleRow.obj-55b02c3c6b6b6475b5e2f709883e9ca4.mesh", "res://.import/crops_dirtDoubleRow.obj-55b02c3c6b6b6475b5e2f709883e9ca4.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/crops_dirtDoubleRow.obj"
+dest_files=[ "res://.import/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh", "res://.import/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-shovel.glb-2e5a8ed5d57dd4eea669f8257dd731ec.scn"
+path="res://.import/tool-shovel.glb-8ad2c0646b4cbb701be5ddfbcd9d6e2d.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/tool-shovel.glb"
-dest_files=[ "res://.import/tool-shovel.glb-2e5a8ed5d57dd4eea669f8257dd731ec.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/tool-shovel.glb"
+dest_files=[ "res://.import/tool-shovel.glb-8ad2c0646b4cbb701be5ddfbcd9d6e2d.scn" ]
 
 [params]
 

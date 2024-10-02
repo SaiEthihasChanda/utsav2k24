@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverSplit.dae-f47c333ed18f3420d59b2182e94fd2ad.scn"
+path="res://.import/ground_riverSplit.dae-7aa1bf0cbdd43e98fcde3995381873b5.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/ground_riverSplit.dae"
-dest_files=[ "res://.import/ground_riverSplit.dae-f47c333ed18f3420d59b2182e94fd2ad.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_riverSplit.dae"
+dest_files=[ "res://.import/ground_riverSplit.dae-7aa1bf0cbdd43e98fcde3995381873b5.scn" ]
 
 [params]
 

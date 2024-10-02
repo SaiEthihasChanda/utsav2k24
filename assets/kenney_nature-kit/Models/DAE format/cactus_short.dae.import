@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cactus_short.dae-6ca324772638d8b77b757d9db192e02f.scn"
+path="res://.import/cactus_short.dae-6e5da917f4750af1e317ff4ea1d328e7.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/cactus_short.dae"
-dest_files=[ "res://.import/cactus_short.dae-6ca324772638d8b77b757d9db192e02f.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/cactus_short.dae"
+dest_files=[ "res://.import/cactus_short.dae-6e5da917f4750af1e317ff4ea1d328e7.scn" ]
 
 [params]
 

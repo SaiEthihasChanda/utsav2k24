@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbench-grind.fbx-1eac122b075e82f2044069a9e1eeae7f.scn"
+path="res://.import/workbench-grind.fbx-d25a026237aeb84437f000e9c89a1853.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/workbench-grind.fbx"
-dest_files=[ "res://.import/workbench-grind.fbx-1eac122b075e82f2044069a9e1eeae7f.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/workbench-grind.fbx"
+dest_files=[ "res://.import/workbench-grind.fbx-d25a026237aeb84437f000e9c89a1853.scn" ]
 
 [params]
 

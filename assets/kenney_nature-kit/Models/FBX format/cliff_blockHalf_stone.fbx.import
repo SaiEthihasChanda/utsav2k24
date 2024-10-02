@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_blockHalf_stone.fbx-ff611e3cf5cb4cd5a845bfe615a19fed.scn"
+path="res://.import/cliff_blockHalf_stone.fbx-5ba0d7bb2331ac78265e0d4108640fd4.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/cliff_blockHalf_stone.fbx"
-dest_files=[ "res://.import/cliff_blockHalf_stone.fbx-ff611e3cf5cb4cd5a845bfe615a19fed.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/cliff_blockHalf_stone.fbx"
+dest_files=[ "res://.import/cliff_blockHalf_stone.fbx-5ba0d7bb2331ac78265e0d4108640fd4.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/fence_simple.obj-4e8173146e8f991b2eafb74e556c6c9b.mesh"
+path="res://.import/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh"
 
 [deps]
 
-files=[ "res://.import/fence_simple.obj-4e8173146e8f991b2eafb74e556c6c9b.mesh" ]
+files=[ "res://.import/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/fence_simple.obj"
-dest_files=[ "res://.import/fence_simple.obj-4e8173146e8f991b2eafb74e556c6c9b.mesh", "res://.import/fence_simple.obj-4e8173146e8f991b2eafb74e556c6c9b.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/fence_simple.obj"
+dest_files=[ "res://.import/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh", "res://.import/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh" ]
 
 [params]
 

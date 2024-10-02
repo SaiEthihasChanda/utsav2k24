@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rock-sand-a.glb-6b8fbfc9a991cef79f033e79dfad2d05.scn"
+path="res://.import/rock-sand-a.glb-b21355b59a0f979b6e4c22d8338fdda6.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/rock-sand-a.glb"
-dest_files=[ "res://.import/rock-sand-a.glb-6b8fbfc9a991cef79f033e79dfad2d05.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/rock-sand-a.glb"
+dest_files=[ "res://.import/rock-sand-a.glb-b21355b59a0f979b6e4c22d8338fdda6.scn" ]
 
 [params]
 

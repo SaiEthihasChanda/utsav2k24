@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plant_bushLargeTriangle.dae-dbfaf61e55f14111db3d3000b5495299.scn"
+path="res://.import/plant_bushLargeTriangle.dae-b72ead850c6b7d9bdeeec2ccf2556bcb.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/plant_bushLargeTriangle.dae"
-dest_files=[ "res://.import/plant_bushLargeTriangle.dae-dbfaf61e55f14111db3d3000b5495299.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/plant_bushLargeTriangle.dae"
+dest_files=[ "res://.import/plant_bushLargeTriangle.dae-b72ead850c6b7d9bdeeec2ccf2556bcb.scn" ]
 
 [params]
 

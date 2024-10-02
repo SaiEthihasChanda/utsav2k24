@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/block-grass-low-long.fbx-0868c325b2f52fd1380f756497dfe1a2.scn"
+path="res://.import/block-grass-low-long.fbx-1dccccdac883fb509c41062db2e053ad.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/block-grass-low-long.fbx"
-dest_files=[ "res://.import/block-grass-low-long.fbx-0868c325b2f52fd1380f756497dfe1a2.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-low-long.fbx"
+dest_files=[ "res://.import/block-grass-low-long.fbx-1dccccdac883fb509c41062db2e053ad.scn" ]
 
 [params]
 

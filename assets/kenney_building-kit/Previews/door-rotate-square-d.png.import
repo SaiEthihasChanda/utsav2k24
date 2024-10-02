@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/door-rotate-square-d.png-4c1c29db1a31d8d52e2d740995762ac2.stex"
+path="res://.import/door-rotate-square-d.png-b3a3f3b03658e11ddb1a394474229586.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Previews/door-rotate-square-d.png"
-dest_files=[ "res://.import/door-rotate-square-d.png-4c1c29db1a31d8d52e2d740995762ac2.stex" ]
+source_file="res://assets/kenney_building-kit/Previews/door-rotate-square-d.png"
+dest_files=[ "res://.import/door-rotate-square-d.png-b3a3f3b03658e11ddb1a394474229586.stex" ]
 
 [params]
 

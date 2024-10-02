@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/building-window-sill.png-d3c56c74e46f41545858688a5b4e2f14.stex"
+path="res://.import/building-window-sill.png-40dbf16c884230976e09eb68a6ce502a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/building-window-sill.png"
-dest_files=[ "res://.import/building-window-sill.png-d3c56c74e46f41545858688a5b4e2f14.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/building-window-sill.png"
+dest_files=[ "res://.import/building-window-sill.png-40dbf16c884230976e09eb68a6ce502a.stex" ]
 
 [params]
 

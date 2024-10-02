@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/ground_pathRocks.obj-66ada99d883e20d5fff371693444c1e7.mesh"
+path="res://.import/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh"
 
 [deps]
 
-files=[ "res://.import/ground_pathRocks.obj-66ada99d883e20d5fff371693444c1e7.mesh" ]
+files=[ "res://.import/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/ground_pathRocks.obj"
-dest_files=[ "res://.import/ground_pathRocks.obj-66ada99d883e20d5fff371693444c1e7.mesh", "res://.import/ground_pathRocks.obj-66ada99d883e20d5fff371693444c1e7.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_pathRocks.obj"
+dest_files=[ "res://.import/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh", "res://.import/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh" ]
 
 [params]
 

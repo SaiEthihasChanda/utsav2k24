@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plating-wide.fbx-6f44aada8eb1722da8eebaca617d4120.scn"
+path="res://.import/plating-wide.fbx-eb54e5cc074754858859913a717a868d.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/plating-wide.fbx"
-dest_files=[ "res://.import/plating-wide.fbx-6f44aada8eb1722da8eebaca617d4120.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/plating-wide.fbx"
+dest_files=[ "res://.import/plating-wide.fbx-eb54e5cc074754858859913a717a868d.scn" ]
 
 [params]
 

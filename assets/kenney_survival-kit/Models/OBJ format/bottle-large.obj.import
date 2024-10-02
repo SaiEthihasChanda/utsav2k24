@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bottle-large.obj-e4e8030698dc71c3db164dc57066326a.mesh"
+path="res://.import/bottle-large.obj-62ae6c48afbe54015ebd7bdaa8008626.mesh"
 
 [deps]
 
-files=[ "res://.import/bottle-large.obj-e4e8030698dc71c3db164dc57066326a.mesh" ]
+files=[ "res://.import/bottle-large.obj-62ae6c48afbe54015ebd7bdaa8008626.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/bottle-large.obj"
-dest_files=[ "res://.import/bottle-large.obj-e4e8030698dc71c3db164dc57066326a.mesh", "res://.import/bottle-large.obj-e4e8030698dc71c3db164dc57066326a.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/bottle-large.obj"
+dest_files=[ "res://.import/bottle-large.obj-62ae6c48afbe54015ebd7bdaa8008626.mesh", "res://.import/bottle-large.obj-62ae6c48afbe54015ebd7bdaa8008626.mesh" ]
 
 [params]
 

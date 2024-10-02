@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/fence_gate.obj-7cf6abdb80a4ad872b238b3fa2451fd9.mesh"
+path="res://.import/fence_gate.obj-4017096ab009ebcb644c937dc8bf9550.mesh"
 
 [deps]
 
-files=[ "res://.import/fence_gate.obj-7cf6abdb80a4ad872b238b3fa2451fd9.mesh" ]
+files=[ "res://.import/fence_gate.obj-4017096ab009ebcb644c937dc8bf9550.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/fence_gate.obj"
-dest_files=[ "res://.import/fence_gate.obj-7cf6abdb80a4ad872b238b3fa2451fd9.mesh", "res://.import/fence_gate.obj-7cf6abdb80a4ad872b238b3fa2451fd9.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/fence_gate.obj"
+dest_files=[ "res://.import/fence_gate.obj-4017096ab009ebcb644c937dc8bf9550.mesh", "res://.import/fence_gate.obj-4017096ab009ebcb644c937dc8bf9550.mesh" ]
 
 [params]
 

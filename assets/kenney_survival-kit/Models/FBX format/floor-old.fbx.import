@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/floor-old.fbx-ad628bc6d3387a2553657883c3a4a8bb.scn"
+path="res://.import/floor-old.fbx-af955b79ad9d2bd9ccb8ab13986c567e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/floor-old.fbx"
-dest_files=[ "res://.import/floor-old.fbx-ad628bc6d3387a2553657883c3a4a8bb.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/floor-old.fbx"
+dest_files=[ "res://.import/floor-old.fbx-af955b79ad9d2bd9ccb8ab13986c567e.scn" ]
 
 [params]
 

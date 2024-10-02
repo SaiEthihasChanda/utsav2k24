@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-brown-window.glb-c1b500679d37521e0d302a55777c11be.scn"
+path="res://.import/door-brown-window.glb-1e6a183f5cba634c4ba7984d9016e611.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/door-brown-window.glb"
-dest_files=[ "res://.import/door-brown-window.glb-c1b500679d37521e0d302a55777c11be.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/door-brown-window.glb"
+dest_files=[ "res://.import/door-brown-window.glb-1e6a183f5cba634c4ba7984d9016e611.scn" ]
 
 [params]
 

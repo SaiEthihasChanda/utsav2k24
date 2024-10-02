@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-flat-awning-a.fbx-45a90b5c3bcfcf6ca534990ae2181f4e.scn"
+path="res://.import/roof-flat-awning-a.fbx-6d81e463669311718eea193a187736ef.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/roof-flat-awning-a.fbx"
-dest_files=[ "res://.import/roof-flat-awning-a.fbx-45a90b5c3bcfcf6ca534990ae2181f4e.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-flat-awning-a.fbx"
+dest_files=[ "res://.import/roof-flat-awning-a.fbx-6d81e463669311718eea193a187736ef.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverRocks.glb-dfa0e8b1999bafc9c374ae3eb6c83fe8.scn"
+path="res://.import/ground_riverRocks.glb-c93ae7e74de3a38d7646fd088289960e.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/ground_riverRocks.glb"
-dest_files=[ "res://.import/ground_riverRocks.glb-dfa0e8b1999bafc9c374ae3eb6c83fe8.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverRocks.glb"
+dest_files=[ "res://.import/ground_riverRocks.glb-c93ae7e74de3a38d7646fd088289960e.scn" ]
 
 [params]
 

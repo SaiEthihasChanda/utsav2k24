@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-sample-house-c.fbx-bb07dc9268adaee98c4e3dea2ef4a7fe.scn"
+path="res://.import/building-sample-house-c.fbx-d25a171375b5b21b47af7a563b87d7f8.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/FBX format/building-sample-house-c.fbx"
-dest_files=[ "res://.import/building-sample-house-c.fbx-bb07dc9268adaee98c4e3dea2ef4a7fe.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-sample-house-c.fbx"
+dest_files=[ "res://.import/building-sample-house-c.fbx-d25a171375b5b21b47af7a563b87d7f8.scn" ]
 
 [params]
 

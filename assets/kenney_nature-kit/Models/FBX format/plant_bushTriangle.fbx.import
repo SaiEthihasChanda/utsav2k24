@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plant_bushTriangle.fbx-ae8d7f7087de37735853ce5c543110aa.scn"
+path="res://.import/plant_bushTriangle.fbx-b41ec6b5cf65885b68b14117d46be379.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/plant_bushTriangle.fbx"
-dest_files=[ "res://.import/plant_bushTriangle.fbx-ae8d7f7087de37735853ce5c543110aa.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/plant_bushTriangle.fbx"
+dest_files=[ "res://.import/plant_bushTriangle.fbx-b41ec6b5cf65885b68b14117d46be379.scn" ]
 
 [params]
 

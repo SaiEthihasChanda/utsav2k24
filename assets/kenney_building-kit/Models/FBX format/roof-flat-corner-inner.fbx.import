@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/roof-flat-corner-inner.fbx-f4429a04ee09c2ab31c90888e1437822.scn"
+path="res://.import/roof-flat-corner-inner.fbx-94a1c2489dd075ef5e8bb0915f88d668.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/roof-flat-corner-inner.fbx"
-dest_files=[ "res://.import/roof-flat-corner-inner.fbx-f4429a04ee09c2ab31c90888e1437822.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/roof-flat-corner-inner.fbx"
+dest_files=[ "res://.import/roof-flat-corner-inner.fbx-94a1c2489dd075ef5e8bb0915f88d668.scn" ]
 
 [params]
 

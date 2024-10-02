@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lily_small_NE.png-5f46ca77221ce3bf22f60fdeddff5ed5.stex"
+path="res://.import/lily_small_NE.png-ce99c55dec820b05886b4c29198c298e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/lily_small_NE.png"
-dest_files=[ "res://.import/lily_small_NE.png-5f46ca77221ce3bf22f60fdeddff5ed5.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/lily_small_NE.png"
+dest_files=[ "res://.import/lily_small_NE.png-ce99c55dec820b05886b4c29198c298e.stex" ]
 
 [params]
 

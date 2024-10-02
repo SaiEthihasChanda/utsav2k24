@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_melon.fbx-fee89742a41f3723fa6f8974d6ae3271.scn"
+path="res://.import/crop_melon.fbx-bb01fdb0de9c8bdacd2aebde320142de.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/crop_melon.fbx"
-dest_files=[ "res://.import/crop_melon.fbx-fee89742a41f3723fa6f8974d6ae3271.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/crop_melon.fbx"
+dest_files=[ "res://.import/crop_melon.fbx-bb01fdb0de9c8bdacd2aebde320142de.scn" ]
 
 [params]
 

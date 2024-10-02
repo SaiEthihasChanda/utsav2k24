@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_center_stoneRound.glb-a05d49f4ee5d0521bf2ad711ed05af5c.scn"
+path="res://.import/bridge_center_stoneRound.glb-8990e5d9f78e57425f624cc51e1ccfad.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/bridge_center_stoneRound.glb"
-dest_files=[ "res://.import/bridge_center_stoneRound.glb-a05d49f4ee5d0521bf2ad711ed05af5c.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/bridge_center_stoneRound.glb"
+dest_files=[ "res://.import/bridge_center_stoneRound.glb-8990e5d9f78e57425f624cc51e1ccfad.scn" ]
 
 [params]
 

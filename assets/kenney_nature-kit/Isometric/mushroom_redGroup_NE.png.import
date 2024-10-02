@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mushroom_redGroup_NE.png-c9ed9add3a4fc355bc9f5f495095e144.stex"
+path="res://.import/mushroom_redGroup_NE.png-873e73b8154fa46fb02deb35db957791.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/mushroom_redGroup_NE.png"
-dest_files=[ "res://.import/mushroom_redGroup_NE.png-c9ed9add3a4fc355bc9f5f495095e144.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/mushroom_redGroup_NE.png"
+dest_files=[ "res://.import/mushroom_redGroup_NE.png-873e73b8154fa46fb02deb35db957791.stex" ]
 
 [params]
 

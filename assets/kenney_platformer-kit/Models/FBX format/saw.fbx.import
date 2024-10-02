@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/saw.fbx-9933d91926ca38072be2e1f13a24a38c.scn"
+path="res://.import/saw.fbx-d63e590291e08824239d8685bd30206b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/saw.fbx"
-dest_files=[ "res://.import/saw.fbx-9933d91926ca38072be2e1f13a24a38c.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/saw.fbx"
+dest_files=[ "res://.import/saw.fbx-d63e590291e08824239d8685bd30206b.scn" ]
 
 [params]
 

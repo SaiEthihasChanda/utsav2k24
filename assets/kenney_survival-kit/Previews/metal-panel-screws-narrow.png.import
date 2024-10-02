@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/metal-panel-screws-narrow.png-4b29edd3e4a81c90a3de0282e7c58e33.stex"
+path="res://.import/metal-panel-screws-narrow.png-4a72c7050344eafaf666b767e57421cb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/metal-panel-screws-narrow.png"
-dest_files=[ "res://.import/metal-panel-screws-narrow.png-4b29edd3e4a81c90a3de0282e7c58e33.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/metal-panel-screws-narrow.png"
+dest_files=[ "res://.import/metal-panel-screws-narrow.png-4a72c7050344eafaf666b767e57421cb.stex" ]
 
 [params]
 

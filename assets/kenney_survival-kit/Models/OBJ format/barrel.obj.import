@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/barrel.obj-6fe791aee300cee125bc6e7526cf7469.mesh"
+path="res://.import/barrel.obj-0975405f0065d23834759574bdfd53f8.mesh"
 
 [deps]
 
-files=[ "res://.import/barrel.obj-6fe791aee300cee125bc6e7526cf7469.mesh" ]
+files=[ "res://.import/barrel.obj-0975405f0065d23834759574bdfd53f8.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/barrel.obj"
-dest_files=[ "res://.import/barrel.obj-6fe791aee300cee125bc6e7526cf7469.mesh", "res://.import/barrel.obj-6fe791aee300cee125bc6e7526cf7469.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/barrel.obj"
+dest_files=[ "res://.import/barrel.obj-0975405f0065d23834759574bdfd53f8.mesh", "res://.import/barrel.obj-0975405f0065d23834759574bdfd53f8.mesh" ]
 
 [params]
 

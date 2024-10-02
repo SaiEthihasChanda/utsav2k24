@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roof-flat-corner.png-ead93341fb6b4688eabd27a64cf58343.stex"
+path="res://.import/roof-flat-corner.png-ef5207a5926ca83afa50efb8a039922c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/roof-flat-corner.png"
-dest_files=[ "res://.import/roof-flat-corner.png-ead93341fb6b4688eabd27a64cf58343.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/roof-flat-corner.png"
+dest_files=[ "res://.import/roof-flat-corner.png-ef5207a5926ca83afa50efb8a039922c.stex" ]
 
 [params]
 

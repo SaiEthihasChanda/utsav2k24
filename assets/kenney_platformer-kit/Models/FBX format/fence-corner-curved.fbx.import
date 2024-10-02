@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence-corner-curved.fbx-496577b47c1ea57c30363765077ac1f4.scn"
+path="res://.import/fence-corner-curved.fbx-3bc2589dca3009e7e9733995b6fbacc8.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/fence-corner-curved.fbx"
-dest_files=[ "res://.import/fence-corner-curved.fbx-496577b47c1ea57c30363765077ac1f4.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/fence-corner-curved.fbx"
+dest_files=[ "res://.import/fence-corner-curved.fbx-3bc2589dca3009e7e9733995b6fbacc8.scn" ]
 
 [params]
 

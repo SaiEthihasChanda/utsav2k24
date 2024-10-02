@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rock-c.png-45cb2b9766cf72a7dc475155c357bcdf.stex"
+path="res://.import/rock-c.png-0e6c30d8b0f4d337146bd299d55a4101.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Previews/rock-c.png"
-dest_files=[ "res://.import/rock-c.png-45cb2b9766cf72a7dc475155c357bcdf.stex" ]
+source_file="res://assets/kenney_survival-kit/Previews/rock-c.png"
+dest_files=[ "res://.import/rock-c.png-0e6c30d8b0f4d337146bd299d55a4101.stex" ]
 
 [params]
 

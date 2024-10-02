@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/mushroom_redGroup.obj-6145d53c1c68911ddc5b5d508e592891.mesh"
+path="res://.import/mushroom_redGroup.obj-32cfd50d56219a89163b59e43d42fe8c.mesh"
 
 [deps]
 
-files=[ "res://.import/mushroom_redGroup.obj-6145d53c1c68911ddc5b5d508e592891.mesh" ]
+files=[ "res://.import/mushroom_redGroup.obj-32cfd50d56219a89163b59e43d42fe8c.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/mushroom_redGroup.obj"
-dest_files=[ "res://.import/mushroom_redGroup.obj-6145d53c1c68911ddc5b5d508e592891.mesh", "res://.import/mushroom_redGroup.obj-6145d53c1c68911ddc5b5d508e592891.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/mushroom_redGroup.obj"
+dest_files=[ "res://.import/mushroom_redGroup.obj-32cfd50d56219a89163b59e43d42fe8c.mesh", "res://.import/mushroom_redGroup.obj-32cfd50d56219a89163b59e43d42fe8c.mesh" ]
 
 [params]
 

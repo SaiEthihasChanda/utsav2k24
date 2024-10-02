@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cliff_blockSlope_rock_SE.png-babcc95d45cfb73c6b91fc18930ec0d7.stex"
+path="res://.import/cliff_blockSlope_rock_SE.png-ab1ff06b625930e80217c8f51cfc1a9d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/cliff_blockSlope_rock_SE.png"
-dest_files=[ "res://.import/cliff_blockSlope_rock_SE.png-babcc95d45cfb73c6b91fc18930ec0d7.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/cliff_blockSlope_rock_SE.png"
+dest_files=[ "res://.import/cliff_blockSlope_rock_SE.png-ab1ff06b625930e80217c8f51cfc1a9d.stex" ]
 
 [params]
 

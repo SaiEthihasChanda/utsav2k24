@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_turnip.dae-64da74e4eb1c4abe618be41f356ee4cf.scn"
+path="res://.import/crop_turnip.dae-a0b114ca7dfde18e6c7be3eea7a95b69.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/crop_turnip.dae"
-dest_files=[ "res://.import/crop_turnip.dae-64da74e4eb1c4abe618be41f356ee4cf.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crop_turnip.dae"
+dest_files=[ "res://.import/crop_turnip.dae-a0b114ca7dfde18e6c7be3eea7a95b69.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-large-open.fbx-fad649eff46923e3b6089906828da8dd.scn"
+path="res://.import/door-large-open.fbx-6d13e81408f9804bb2548acc3beb8071.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/FBX format/door-large-open.fbx"
-dest_files=[ "res://.import/door-large-open.fbx-fad649eff46923e3b6089906828da8dd.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/FBX format/door-large-open.fbx"
+dest_files=[ "res://.import/door-large-open.fbx-6d13e81408f9804bb2548acc3beb8071.scn" ]
 
 [params]
 

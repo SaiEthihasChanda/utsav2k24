@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/ground_riverBend.obj-56dc300b00975fc7e18492f83f6c5539.mesh"
+path="res://.import/ground_riverBend.obj-4efb66689786dc9067520b9c350057f9.mesh"
 
 [deps]
 
-files=[ "res://.import/ground_riverBend.obj-56dc300b00975fc7e18492f83f6c5539.mesh" ]
+files=[ "res://.import/ground_riverBend.obj-4efb66689786dc9067520b9c350057f9.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/ground_riverBend.obj"
-dest_files=[ "res://.import/ground_riverBend.obj-56dc300b00975fc7e18492f83f6c5539.mesh", "res://.import/ground_riverBend.obj-56dc300b00975fc7e18492f83f6c5539.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_riverBend.obj"
+dest_files=[ "res://.import/ground_riverBend.obj-4efb66689786dc9067520b9c350057f9.mesh", "res://.import/ground_riverBend.obj-4efb66689786dc9067520b9c350057f9.mesh" ]
 
 [params]
 

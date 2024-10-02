@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_rock.glb-dc4523792e5591f44610a04075fd10fc.scn"
+path="res://.import/cliff_rock.glb-d80e558bbf739d8ff2d4ac8a0375131f.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/cliff_rock.glb"
-dest_files=[ "res://.import/cliff_rock.glb-dc4523792e5591f44610a04075fd10fc.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_rock.glb"
+dest_files=[ "res://.import/cliff_rock.glb-d80e558bbf739d8ff2d4ac8a0375131f.scn" ]
 
 [params]
 

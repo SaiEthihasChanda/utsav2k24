@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree_cone_fall.fbx-8b8c91eb24a3994a4fb777dc7d11b5c4.scn"
+path="res://.import/tree_cone_fall.fbx-614e1f1a56c604a3d1b364372f6dcbe5.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/tree_cone_fall.fbx"
-dest_files=[ "res://.import/tree_cone_fall.fbx-8b8c91eb24a3994a4fb777dc7d11b5c4.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_cone_fall.fbx"
+dest_files=[ "res://.import/tree_cone_fall.fbx-614e1f1a56c604a3d1b364372f6dcbe5.scn" ]
 
 [params]
 

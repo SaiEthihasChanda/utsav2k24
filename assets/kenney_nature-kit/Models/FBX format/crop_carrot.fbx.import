@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_carrot.fbx-d365d799c7bad39830466f2b2fc533e4.scn"
+path="res://.import/crop_carrot.fbx-2c940d399d7c7cb9aff9d697da095e37.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/crop_carrot.fbx"
-dest_files=[ "res://.import/crop_carrot.fbx-d365d799c7bad39830466f2b2fc533e4.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/crop_carrot.fbx"
+dest_files=[ "res://.import/crop_carrot.fbx-2c940d399d7c7cb9aff9d697da095e37.scn" ]
 
 [params]
 

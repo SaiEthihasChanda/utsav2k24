@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roof-flat-awning-a.png-6e7bf09d84715a18131193c84351d237.stex"
+path="res://.import/roof-flat-awning-a.png-e7db6d2cfdba3a28b4953dc24940f0d9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/roof-flat-awning-a.png"
-dest_files=[ "res://.import/roof-flat-awning-a.png-6e7bf09d84715a18131193c84351d237.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/roof-flat-awning-a.png"
+dest_files=[ "res://.import/roof-flat-awning-a.png-e7db6d2cfdba3a28b4953dc24940f0d9.stex" ]
 
 [params]
 

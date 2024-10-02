@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cliff_waterfallTop_rock.obj-5c71d87eccc71cc3b65c89683a37eaba.mesh"
+path="res://.import/cliff_waterfallTop_rock.obj-95ca8b068b63b4e7f659dcf655c0064a.mesh"
 
 [deps]
 
-files=[ "res://.import/cliff_waterfallTop_rock.obj-5c71d87eccc71cc3b65c89683a37eaba.mesh" ]
+files=[ "res://.import/cliff_waterfallTop_rock.obj-95ca8b068b63b4e7f659dcf655c0064a.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/cliff_waterfallTop_rock.obj"
-dest_files=[ "res://.import/cliff_waterfallTop_rock.obj-5c71d87eccc71cc3b65c89683a37eaba.mesh", "res://.import/cliff_waterfallTop_rock.obj-5c71d87eccc71cc3b65c89683a37eaba.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_waterfallTop_rock.obj"
+dest_files=[ "res://.import/cliff_waterfallTop_rock.obj-95ca8b068b63b4e7f659dcf655c0064a.mesh", "res://.import/cliff_waterfallTop_rock.obj-95ca8b068b63b4e7f659dcf655c0064a.mesh" ]
 
 [params]
 

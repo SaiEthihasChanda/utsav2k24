@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/plant_bushLarge.obj-c2e4a8640c784691f51613bafe24278a.mesh"
+path="res://.import/plant_bushLarge.obj-b18d3e3ec078939dbb40f9bd58745fd6.mesh"
 
 [deps]
 
-files=[ "res://.import/plant_bushLarge.obj-c2e4a8640c784691f51613bafe24278a.mesh" ]
+files=[ "res://.import/plant_bushLarge.obj-b18d3e3ec078939dbb40f9bd58745fd6.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/plant_bushLarge.obj"
-dest_files=[ "res://.import/plant_bushLarge.obj-c2e4a8640c784691f51613bafe24278a.mesh", "res://.import/plant_bushLarge.obj-c2e4a8640c784691f51613bafe24278a.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/plant_bushLarge.obj"
+dest_files=[ "res://.import/plant_bushLarge.obj-b18d3e3ec078939dbb40f9bd58745fd6.mesh", "res://.import/plant_bushLarge.obj-b18d3e3ec078939dbb40f9bd58745fd6.mesh" ]
 
 [params]
 

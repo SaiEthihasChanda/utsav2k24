@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/colormap.png-f9e2ee184dd873d4e3e58dc9a28c7639.s3tc.stex"
-path.etc2="res://.import/colormap.png-f9e2ee184dd873d4e3e58dc9a28c7639.etc2.stex"
+path.s3tc="res://.import/colormap.png-3eb9758e29e27c0072e6355aaa609723.s3tc.stex"
+path.etc2="res://.import/colormap.png-3eb9758e29e27c0072e6355aaa609723.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/Textures/colormap.png"
-dest_files=[ "res://.import/colormap.png-f9e2ee184dd873d4e3e58dc9a28c7639.s3tc.stex", "res://.import/colormap.png-f9e2ee184dd873d4e3e58dc9a28c7639.etc2.stex" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/Textures/colormap.png"
+dest_files=[ "res://.import/colormap.png-3eb9758e29e27c0072e6355aaa609723.s3tc.stex", "res://.import/colormap.png-3eb9758e29e27c0072e6355aaa609723.etc2.stex" ]
 
 [params]
 
@@ -30,6 +30,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=false

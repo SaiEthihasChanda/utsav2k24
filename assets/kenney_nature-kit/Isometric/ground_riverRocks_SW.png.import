@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_riverRocks_SW.png-36acbe5c6cc5b253ff6f5fdc0b177fd3.stex"
+path="res://.import/ground_riverRocks_SW.png-d3abab4bed2b75313375b9e2b12105f8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/ground_riverRocks_SW.png"
-dest_files=[ "res://.import/ground_riverRocks_SW.png-36acbe5c6cc5b253ff6f5fdc0b177fd3.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/ground_riverRocks_SW.png"
+dest_files=[ "res://.import/ground_riverRocks_SW.png-d3abab4bed2b75313375b9e2b12105f8.stex" ]
 
 [params]
 

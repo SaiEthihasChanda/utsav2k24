@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bed_floor_NW.png-d5aef6103e81e940998d8b6a51760ac8.stex"
+path="res://.import/bed_floor_NW.png-948636ecddc4152b1d3642ab5a77b8ce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/bed_floor_NW.png"
-dest_files=[ "res://.import/bed_floor_NW.png-d5aef6103e81e940998d8b6a51760ac8.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/bed_floor_NW.png"
+dest_files=[ "res://.import/bed_floor_NW.png-948636ecddc4152b1d3642ab5a77b8ce.stex" ]
 
 [params]
 

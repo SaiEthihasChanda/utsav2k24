@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_cornerInner_rock.dae-702b0e83f3a64af2912b38989c3ef2df.scn"
+path="res://.import/cliff_cornerInner_rock.dae-7d0f5d3ff01712be15a413cd2f8358c2.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/cliff_cornerInner_rock.dae"
-dest_files=[ "res://.import/cliff_cornerInner_rock.dae-702b0e83f3a64af2912b38989c3ef2df.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_cornerInner_rock.dae"
+dest_files=[ "res://.import/cliff_cornerInner_rock.dae-7d0f5d3ff01712be15a413cd2f8358c2.scn" ]
 
 [params]
 

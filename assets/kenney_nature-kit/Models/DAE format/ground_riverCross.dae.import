@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverCross.dae-f8ab961bb4728594d90984402b739b69.scn"
+path="res://.import/ground_riverCross.dae-c9baf9483be8b42e3a40120841dd0381.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/ground_riverCross.dae"
-dest_files=[ "res://.import/ground_riverCross.dae-f8ab961bb4728594d90984402b739b69.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_riverCross.dae"
+dest_files=[ "res://.import/ground_riverCross.dae-c9baf9483be8b42e3a40120841dd0381.scn" ]
 
 [params]
 

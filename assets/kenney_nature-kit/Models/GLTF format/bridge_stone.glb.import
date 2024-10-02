@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge_stone.glb-856946178792544f6530961ae8b51bc0.scn"
+path="res://.import/bridge_stone.glb-2797cd2cc6f24e95ab50a04560f0bcd2.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/bridge_stone.glb"
-dest_files=[ "res://.import/bridge_stone.glb-856946178792544f6530961ae8b51bc0.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/bridge_stone.glb"
+dest_files=[ "res://.import/bridge_stone.glb-2797cd2cc6f24e95ab50a04560f0bcd2.scn" ]
 
 [params]
 

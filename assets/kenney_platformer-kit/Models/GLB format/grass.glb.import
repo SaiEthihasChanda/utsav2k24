@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grass.glb-79e5f0622af0b091f841721ddbe69bb6.scn"
+path="res://.import/grass.glb-d00f0325c182d2a36717e5da821c1ff6.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/grass.glb"
-dest_files=[ "res://.import/grass.glb-79e5f0622af0b091f841721ddbe69bb6.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/grass.glb"
+dest_files=[ "res://.import/grass.glb-d00f0325c182d2a36717e5da821c1ff6.scn" ]
 
 [params]
 

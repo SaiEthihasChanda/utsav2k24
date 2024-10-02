@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverEnd.fbx-a622d77903cc039f772909dfacdbd609.scn"
+path="res://.import/ground_riverEnd.fbx-c999a9652402ec10fdf876f435ad7699.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/ground_riverEnd.fbx"
-dest_files=[ "res://.import/ground_riverEnd.fbx-a622d77903cc039f772909dfacdbd609.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/ground_riverEnd.fbx"
+dest_files=[ "res://.import/ground_riverEnd.fbx-c999a9652402ec10fdf876f435ad7699.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barrel.png-bd2e27875638502e9ab24eab36699a1b.stex"
+path="res://.import/barrel.png-e67104fc8723e2133043cdd8dc31f514.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/barrel.png"
-dest_files=[ "res://.import/barrel.png-bd2e27875638502e9ab24eab36699a1b.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/barrel.png"
+dest_files=[ "res://.import/barrel.png-e67104fc8723e2133043cdd8dc31f514.stex" ]
 
 [params]
 

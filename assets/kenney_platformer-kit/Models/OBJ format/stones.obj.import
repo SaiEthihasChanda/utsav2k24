@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/stones.obj-fa4d793e312a4b34a8cce9d8a6fc76ef.mesh"
+path="res://.import/stones.obj-713d57e0ec67c4c5f2cfee2a4adf8f4f.mesh"
 
 [deps]
 
-files=[ "res://.import/stones.obj-fa4d793e312a4b34a8cce9d8a6fc76ef.mesh" ]
+files=[ "res://.import/stones.obj-713d57e0ec67c4c5f2cfee2a4adf8f4f.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/stones.obj"
-dest_files=[ "res://.import/stones.obj-fa4d793e312a4b34a8cce9d8a6fc76ef.mesh", "res://.import/stones.obj-fa4d793e312a4b34a8cce9d8a6fc76ef.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/stones.obj"
+dest_files=[ "res://.import/stones.obj-713d57e0ec67c4c5f2cfee2a4adf8f4f.mesh", "res://.import/stones.obj-713d57e0ec67c4c5f2cfee2a4adf8f4f.mesh" ]
 
 [params]
 

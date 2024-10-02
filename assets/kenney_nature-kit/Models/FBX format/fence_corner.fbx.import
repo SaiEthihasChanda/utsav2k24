@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence_corner.fbx-122195cecae26e1bfe77ed9f96259f9f.scn"
+path="res://.import/fence_corner.fbx-7c697ef32bd77965bc50bce71def4e44.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/fence_corner.fbx"
-dest_files=[ "res://.import/fence_corner.fbx-122195cecae26e1bfe77ed9f96259f9f.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/fence_corner.fbx"
+dest_files=[ "res://.import/fence_corner.fbx-7c697ef32bd77965bc50bce71def4e44.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/building-windows-high-top-round.glb-44184abfbae3798e2f8e0e69c6141368.scn"
+path="res://.import/building-windows-high-top-round.glb-b3a64329bb83ff38864b40f1c667d80d.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Models/GLB format/building-windows-high-top-round.glb"
-dest_files=[ "res://.import/building-windows-high-top-round.glb-44184abfbae3798e2f8e0e69c6141368.scn" ]
+source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-windows-high-top-round.glb"
+dest_files=[ "res://.import/building-windows-high-top-round.glb-b3a64329bb83ff38864b40f1c667d80d.scn" ]
 
 [params]
 

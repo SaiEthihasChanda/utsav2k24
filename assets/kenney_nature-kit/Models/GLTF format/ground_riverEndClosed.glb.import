@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ground_riverEndClosed.glb-8fa99c2473905480058d7b034fe1c16b.scn"
+path="res://.import/ground_riverEndClosed.glb-0fcfe63f9395f3d87f40882124d4bde5.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/ground_riverEndClosed.glb"
-dest_files=[ "res://.import/ground_riverEndClosed.glb-8fa99c2473905480058d7b034fe1c16b.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverEndClosed.glb"
+dest_files=[ "res://.import/ground_riverEndClosed.glb-0fcfe63f9395f3d87f40882124d4bde5.scn" ]
 
 [params]
 

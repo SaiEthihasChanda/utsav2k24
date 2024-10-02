@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tool-shovel-upgraded.fbx-ccdd24385a30190f8877a4262ca96846.scn"
+path="res://.import/tool-shovel-upgraded.fbx-91263bf09af07d58faa4b6a310e23d37.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/tool-shovel-upgraded.fbx"
-dest_files=[ "res://.import/tool-shovel-upgraded.fbx-ccdd24385a30190f8877a4262ca96846.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/tool-shovel-upgraded.fbx"
+dest_files=[ "res://.import/tool-shovel-upgraded.fbx-91263bf09af07d58faa4b6a310e23d37.scn" ]
 
 [params]
 

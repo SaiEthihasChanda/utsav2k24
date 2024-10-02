@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/block-grass-overhang-low.png-ff9ac206bc4177445f98894e004808fb.stex"
+path="res://.import/block-grass-overhang-low.png-a4868ee4e2ca4f93f320ab871dd58f8a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Previews/block-grass-overhang-low.png"
-dest_files=[ "res://.import/block-grass-overhang-low.png-ff9ac206bc4177445f98894e004808fb.stex" ]
+source_file="res://assets/kenney_platformer-kit/Previews/block-grass-overhang-low.png"
+dest_files=[ "res://.import/block-grass-overhang-low.png-a4868ee4e2ca4f93f320ab871dd58f8a.stex" ]
 
 [params]
 

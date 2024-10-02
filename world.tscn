@@ -1,8 +1,9 @@
-[gd_scene load_steps=25 format=2]
+[gd_scene load_steps=35 format=2]
 
 [ext_resource path="res://turbine.tscn" type="PackedScene" id=1]
 [ext_resource path="res://house.tscn" type="PackedScene" id=2]
 [ext_resource path="res://SolarPanel.tscn" type="PackedScene" id=3]
+[ext_resource path="res://mountains.tscn" type="PackedScene" id=4]
 [ext_resource path="res://Camera.gd" type="Script" id=5]
 [ext_resource path="res://assets/Grass004_1K-JPG/Grass004_1K-JPG_Color.jpg" type="Texture" id=6]
 [ext_resource path="res://assets/Grass004_1K-JPG/Grass004_1K-JPG_AmbientOcclusion.jpg" type="Texture" id=7]
@@ -13,25 +14,11 @@
 [ext_resource path="res://fence_planks.tscn" type="PackedScene" id=12]
 [ext_resource path="res://assets/PlaywriteDEGrund-VariableFont_wght.ttf" type="DynamicFontData" id=13]
 [ext_resource path="res://assets/kenney_nature-kit/Isometric/tree_blocks_dark_NE.png" type="Texture" id=14]
+[ext_resource path="res://energyui.gd" type="Script" id=15]
+[ext_resource path="res://rocks.tscn" type="PackedScene" id=16]
+[ext_resource path="res://assets/kenney_ui-pack-space-expansion/Vector/Red/button_square_header_large_rectangle.svg" type="Texture" id=17]
 
-[sub_resource type="CubeMesh" id=1]
-
-[sub_resource type="SpatialMaterial" id=2]
-albedo_texture = ExtResource( 6 )
-normal_enabled = true
-normal_scale = 1.0
-normal_texture = ExtResource( 9 )
-ao_enabled = true
-ao_light_affect = 0.0
-ao_texture = ExtResource( 7 )
-ao_on_uv2 = false
-ao_texture_channel = 0
-uv1_scale = Vector3( 50, 50, 50 )
-
-[sub_resource type="ConcavePolygonShape" id=3]
-data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1 )
-
-[sub_resource type="GDScript" id=4]
+[sub_resource type="GDScript" id=1]
 script/source = "extends KinematicBody
 
 const GRAVITY = -15
@@ -56,10 +43,25 @@ var battery_bought = false
 # New variables for instancing
 var scene_to_place = preload(\"res://SolarPanel.tscn\") # Preload the scene
 var instance_ready_to_place = false
+var infestation_timer
+var response_timer
 
 func _ready():
 	camera = $Camera
+	get_parent().get_node(\"warninglight\").mouse_filter = Control.MOUSE_FILTER_IGNORE
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	infestation_timer = Timer.new()
+	infestation_timer.wait_time = 20  # 15 minutes
+	infestation_timer.connect(\"timeout\", self, \"_on_infestation_timeout\")
+	add_child(infestation_timer)
+	infestation_timer.start()
+
+	# Create and configure the response timer (15 seconds)
+	response_timer = Timer.new()
+	response_timer.wait_time = 15  # 15 seconds
+	response_timer.one_shot = true
+	response_timer.connect(\"timeout\", self, \"_on_response_timeout\")
+	add_child(response_timer)
 
 func _unhandled_input(event):
 	if event is InputEventMouseMotion:
@@ -71,18 +73,50 @@ func _unhandled_input(event):
 	if event is InputEventMouseButton:
 		if event.button_index == BUTTON_LEFT and instance_ready_to_place:
 			place_instance()
+	
+	# Detect pressing the \"E\" button
+	if Input.is_action_just_pressed(\"infeststop\"):
+		if response_timer.is_stopped() == false and sing.energy_points>=100:
+			# Cancel the infestation if the user presses \"E\" within the response time
+			response_timer.stop()
+			sing.energy_points -=100
+			print(\"Infestation avoided!\")
+			
+			
+			
+			
+			get_parent().get_node(\"warninglight/AnimationPlayer\").stop()
+			get_parent().get_node(\"warninglight\").hide()
+			
 
 func _physics_process(delta):
 	handle_movement(delta)
 	#print(instance_ready_to_place)
 	if $Camera/RayCast.is_colliding():
 		var current_target = $Camera/RayCast.get_collider().name
-		#print(current_target)
+		#	wprint(current_target)
 		if (current_target == \"SolarPanel\") or (current_target == \"Turbine\"):
 			if Input.is_action_just_pressed(\"upgrade\"):
+				if current_target == \"SolarPanel\":
+					
+					if sing.energy_points>=sing.cost[\"solar\"]*(sing.levels[$Camera/RayCast.get_collider()]+1):
 				#var chk = emit_signal(\"upgrade\")
-				sing.levels[$Camera/RayCast.get_collider()]+=1
-				print(sing.levels[$Camera/RayCast.get_collider()])
+						sing.levels[$Camera/RayCast.get_collider()]+=1
+				
+						sing.energy_points -= (sing.cost[\"solar\"]*(sing.levels[$Camera/RayCast.get_collider()]))
+						print(sing.levels[$Camera/RayCast.get_collider()])
+					else:
+						print(\"no money \")
+				elif current_target == \"Turbine\":
+					
+					if sing.energy_points>=sing.cost[\"turbine\"]*(sing.levels[$Camera/RayCast.get_collider()]+1):
+				#var chk = emit_signal(\"upgrade\")
+						sing.levels[$Camera/RayCast.get_collider()]+=1
+				
+						sing.energy_points -= (sing.cost[\"turbine\"]*(sing.levels[$Camera/RayCast.get_collider()]))
+						print(sing.levels[$Camera/RayCast.get_collider()])
+					else:
+						print(\"no money \")
 		
 		else:
 			pass
@@ -181,8 +215,8 @@ func place_instance():
 			store.hide()
 			Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	elif battery_bought:
-		if sing.energy_points > 300:
-			sing.energy_points -=300
+		if sing.energy_points > 500:
+			sing.energy_points -=500
 			print(sing.energy_points)
 			bought = true
 			scene_to_place = preload(\"res://Battery.tscn\")
@@ -243,6 +277,33 @@ func place_instance():
 		pass
 
 
+func _on_infestation_timeout():
+	if sing.trees:
+		print(\"Infestation started! Press 'E' to stop it.\")
+		get_parent().get_node(\"warninglight\").show()
+		get_parent().get_node(\"warninglight/AnimationPlayer\").play(\"flash\")
+		get_parent().get_node(\"warninglight/AnimationPlayer2\").play(\"PANELIN\")
+		
+		# Start the 15-second response timer
+		response_timer.start()
+	else:
+		pass
+
+func _on_response_timeout():
+	print(sing.trees)
+	# If the user didn't press the \"E\" button in time, remove a tree
+	if sing.trees.size() > 0:
+		var tree = sing.trees.pop_back()
+		tree.queue_free()
+		sing.elements[\"trees\"] -=1  # Remove the last tree
+		print(\"Tree infested and removed:\", tree)
+		get_parent().get_node(\"warninglight/AnimationPlayer\").stop()
+		
+		#get_parent().get_node(\"warninglight/AnimationPlayer\").stop()
+		get_parent().get_node(\"warninglight\").hide()
+		
+	else:
+		print(\"No trees to infest.\")
 
 
 
@@ -275,56 +336,143 @@ func _on_buy_battery_button_pressed():
 	pass # Replace with function body.
 "
 
-[sub_resource type="BoxShape" id=5]
+[sub_resource type="BoxShape" id=2]
 
-[sub_resource type="SpatialMaterial" id=6]
+[sub_resource type="SpatialMaterial" id=3]
 albedo_color = Color( 0.25098, 0.964706, 0.0745098, 1 )
 
-[sub_resource type="CapsuleMesh" id=7]
-material = SubResource( 6 )
+[sub_resource type="CapsuleMesh" id=4]
+material = SubResource( 3 )
 
-[sub_resource type="SpatialMaterial" id=8]
+[sub_resource type="SpatialMaterial" id=5]
 albedo_color = Color( 0.964706, 0.482353, 0.133333, 1 )
 
-[sub_resource type="SphereMesh" id=9]
-material = SubResource( 8 )
+[sub_resource type="SphereMesh" id=6]
+material = SubResource( 5 )
 
-[sub_resource type="BoxShape" id=11]
+[sub_resource type="BoxShape" id=7]
 extents = Vector3( 0.194188, 0.205295, 0.190798 )
 
-[sub_resource type="DynamicFont" id=10]
+[sub_resource type="CubeMesh" id=8]
+
+[sub_resource type="SpatialMaterial" id=9]
+albedo_texture = ExtResource( 6 )
+normal_enabled = true
+normal_scale = 1.0
+normal_texture = ExtResource( 9 )
+ao_enabled = true
+ao_light_affect = 0.0
+ao_texture = ExtResource( 7 )
+ao_on_uv2 = false
+ao_texture_channel = 0
+uv1_scale = Vector3( 50, 50, 50 )
+
+[sub_resource type="ConcavePolygonShape" id=10]
+data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1 )
+
+[sub_resource type="DynamicFont" id=11]
 font_data = ExtResource( 13 )
+
+[sub_resource type="DynamicFont" id=12]
+size = 43
+font_data = ExtResource( 13 )
+
+[sub_resource type="Animation" id=13]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/path = NodePath("red:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Color( 0.94902, 0.403922, 0.403922, 0 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("redpanel:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 633.724, -55.3686 ) ]
+}
+
+[sub_resource type="Animation" id=14]
+resource_name = "flash"
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("red:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.7, 1 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0.94902, 0.403922, 0.403922, 0 ), Color( 0.921569, 0.329412, 0.329412, 0.223529 ), Color( 0.921569, 0.329412, 0.329412, 0 ) ]
+}
+
+[sub_resource type="DynamicFont" id=15]
+size = 11
+font_data = ExtResource( 13 )
+
+[sub_resource type="Animation" id=16]
+resource_name = "PANELIN"
+length = 0.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("redpanel:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 633.724, -59.1184 ), Vector2( 633.724, 58.8816 ) ]
+}
+
+[sub_resource type="Animation" id=17]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/path = NodePath("redpanel:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 633.724, -59.1184 ) ]
+}
 
 [node name="world" type="Spatial"]
 
-[node name="land" type="StaticBody" parent="."]
-transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, -0.724937, 0 )
-
-[node name="MeshInstance" type="MeshInstance" parent="land"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0391844, 0.826096, -0.00815964 )
-mesh = SubResource( 1 )
-material/0 = SubResource( 2 )
-
-[node name="landcoll" type="StaticBody" parent="land/MeshInstance"]
-
-[node name="CollisionShape" type="CollisionShape" parent="land/MeshInstance/landcoll"]
-shape = SubResource( 3 )
-
 [node name="jeff" type="KinematicBody" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.12696, 10.9699 )
-script = SubResource( 4 )
+script = SubResource( 1 )
 
 [node name="CollisionShape" type="CollisionShape" parent="jeff"]
 transform = Transform( 1, 0, 0, 0, -6.15154e-08, -1.40731, 0, 1, -4.37114e-08, 0, 0, 0 )
-shape = SubResource( 5 )
+shape = SubResource( 2 )
 
 [node name="MeshInstance" type="MeshInstance" parent="jeff"]
 transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 0 )
-mesh = SubResource( 7 )
+mesh = SubResource( 4 )
 material/0 = null
 
 [node name="Camera" type="Camera" parent="jeff"]
 transform = Transform( -1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 1.1911, 0.439435 )
+far = 8192.0
 script = ExtResource( 5 )
 
 [node name="RayCast" type="RayCast" parent="jeff/Camera"]
@@ -334,7 +482,7 @@ cast_to = Vector3( 0, -10, 0 )
 
 [node name="cursor" type="MeshInstance" parent="jeff/Camera"]
 transform = Transform( 0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, 2.56864e-07, 0, -2.93819 )
-mesh = SubResource( 9 )
+mesh = SubResource( 6 )
 material/0 = null
 
 [node name="cursor" type="Area" parent="jeff/Camera/cursor"]
@@ -342,7 +490,20 @@ transform = Transform( 1, 0, 1.42109e-14, 0, 1, 0, -1.42109e-14, 0, 1, 0.0051748
 
 [node name="CollisionShape" type="CollisionShape" parent="jeff/Camera/cursor/cursor"]
 transform = Transform( 5.04396, 0, -1.78258e-07, 0, 4.4159, 0, -3.56517e-07, 0, 4.56102, 0, 0, 0 )
-shape = SubResource( 11 )
+shape = SubResource( 7 )
+
+[node name="land" type="StaticBody" parent="."]
+transform = Transform( 50, 0, 0, 0, 1, 0, 0, 0, 50, 0, -0.724937, 0 )
+
+[node name="MeshInstance" type="MeshInstance" parent="land"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0391844, 0.826096, -0.00815964 )
+mesh = SubResource( 8 )
+material/0 = SubResource( 9 )
+
+[node name="landcoll" type="StaticBody" parent="land/MeshInstance"]
+
+[node name="CollisionShape" type="CollisionShape" parent="land/MeshInstance/landcoll"]
+shape = SubResource( 10 )
 
 [node name="building-sample-house-c" parent="." instance=ExtResource( 2 )]
 transform = Transform( 8, 0, 0, 0, 8, 0, 0, 0, 8, 5.15056, 1.20079, -8.93666 )
@@ -362,7 +523,7 @@ shadow_enabled = true
 scale = Vector2( 0.75, 0.75 )
 
 [node name="garden" parent="." instance=ExtResource( 10 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.762119, 0.301299, -34.1754 )
+transform = Transform( 0.99571, 0, 0, 0, 1, 0, 0, 0, 1, 2.10652, 0.301299, -35.9437 )
 
 [node name="fence_corner" parent="garden" instance=ExtResource( 11 )]
 transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, -44.8125, 1.52226, 10.9998 )
@@ -390,9 +551,6 @@ transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 4.56608, 1.43475, 10.6036 )
 
 [node name="fence_planks6" parent="garden" instance=ExtResource( 12 )]
 transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 14.4977, 1.43475, 10.6036 )
-
-[node name="fence_planks7" parent="garden" instance=ExtResource( 12 )]
-transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 24.5485, 1.43475, 10.6036 )
 
 [node name="fence_planks8" parent="garden" instance=ExtResource( 12 )]
 transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 34.4076, 1.43475, 10.6036 )
@@ -467,20 +625,20 @@ __meta__ = {
 visible = false
 
 [node name="base" type="ColorRect" parent="store_dialog"]
-margin_left = 103.0
-margin_top = 63.0
-margin_right = 924.0
-margin_bottom = 534.0
+margin_left = 197.393
+margin_top = 127.427
+margin_right = 1018.39
+margin_bottom = 598.427
 color = Color( 0.494118, 0.501961, 0.482353, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="buy_tree" type="ColorRect" parent="store_dialog"]
-margin_left = 154.841
-margin_top = 120.136
-margin_right = 273.841
-margin_bottom = 289.136
+margin_left = 316.841
+margin_top = 269.136
+margin_right = 435.841
+margin_bottom = 438.136
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -505,27 +663,30 @@ margin_left = 32.9632
 margin_top = 97.9989
 margin_right = 93.9632
 margin_bottom = 126.999
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "100 EP"
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="title" type="Label" parent="store_dialog/buy_tree"]
 margin_left = 38.3086
 margin_top = 2.99886
 margin_right = 99.3086
 margin_bottom = 31.9989
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "Tree"
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="buy_solar_panels" type="ColorRect" parent="store_dialog"]
-margin_left = 308.95
-margin_top = 119.917
-margin_right = 427.95
-margin_bottom = 288.917
+margin_left = 470.95
+margin_top = 268.917
+margin_right = 589.95
+margin_bottom = 437.917
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -545,8 +706,8 @@ margin_left = 32.9632
 margin_top = 97.9989
 margin_right = 93.9632
 margin_bottom = 126.999
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "150 EP"
 __meta__ = {
 "_edit_use_anchors_": false
@@ -557,18 +718,18 @@ margin_left = 10.6908
 margin_top = 3.88976
 margin_right = 110.691
 margin_bottom = 32.8898
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "Solar Panels"
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="buy_WindTurbine" type="ColorRect" parent="store_dialog"]
-margin_left = 453.95
-margin_top = 119.917
-margin_right = 572.95
-margin_bottom = 288.917
+margin_left = 615.95
+margin_top = 268.917
+margin_right = 734.95
+margin_bottom = 437.917
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -588,8 +749,8 @@ margin_left = 29.3996
 margin_top = 97.9989
 margin_right = 94.3996
 margin_bottom = 126.999
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "300 EP"
 __meta__ = {
 "_edit_use_anchors_": false
@@ -600,18 +761,18 @@ margin_left = 6.2363
 margin_top = 5.67155
 margin_right = 117.236
 margin_bottom = 34.6716
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "Wind Turbine"
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="buy_battery" type="ColorRect" parent="store_dialog"]
-margin_left = 604.95
-margin_top = 119.917
-margin_right = 723.95
-margin_bottom = 288.917
+margin_left = 766.95
+margin_top = 268.917
+margin_right = 885.95
+margin_bottom = 437.917
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -631,8 +792,8 @@ margin_left = 29.3996
 margin_top = 97.9989
 margin_right = 94.3996
 margin_bottom = 126.999
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "500 EP"
 __meta__ = {
 "_edit_use_anchors_": false
@@ -643,12 +804,296 @@ margin_left = 24.9452
 margin_top = 5.67155
 margin_right = 135.945
 margin_bottom = 34.6716
-custom_fonts/font = SubResource( 10 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 11 )
 text = "Battery"
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
+[node name="environment" parent="." instance=ExtResource( 4 )]
+transform = Transform( 20, 0, 0, 0, 20, 0, 0, 0, 20, 0, -10.2919, 11.5272 )
+
+[node name="energyui" type="Node2D" parent="."]
+script = ExtResource( 15 )
+
+[node name="energypoints" type="Label" parent="energyui"]
+margin_left = 1027.29
+margin_top = 16.7696
+margin_right = 1253.29
+margin_bottom = 127.77
+custom_colors/font_color = Color( 0.980392, 0.698039, 0, 1 )
+custom_fonts/font = SubResource( 12 )
+text = "0/100"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="warninglight" type="Control" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="red" type="ColorRect" parent="warninglight"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+color = Color( 0.94902, 0.403922, 0.403922, 0 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="warninglight"]
+anims/RESET = SubResource( 13 )
+anims/flash = SubResource( 14 )
+
+[node name="redpanel" type="Sprite" parent="warninglight"]
+position = Vector2( 633.724, -59.1184 )
+scale = Vector2( 2.25217, 1.7513 )
+texture = ExtResource( 17 )
+
+[node name="Label" type="Label" parent="warninglight/redpanel"]
+margin_left = -56.6972
+margin_top = -25.9624
+margin_right = 89.3028
+margin_bottom = 3.03762
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = SubResource( 15 )
+text = "INFESTATION!"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label2" type="Label" parent="warninglight/redpanel"]
+margin_left = -93.0
+margin_top = 4.0
+margin_right = 98.0
+margin_bottom = 33.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 15 )
+text = "PRESS \"E\" TO EVADE: 200EP"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer2" type="AnimationPlayer" parent="warninglight"]
+anims/PANELIN = SubResource( 16 )
+anims/RESET = SubResource( 17 )
+
+[node name="rocks" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="rocks" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 6.27698 )
+
+[node name="rocks2" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 1.31886 )
+
+[node name="rocks4" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, -2.69046 )
+
+[node name="rocks5" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, -7.1258 )
+
+[node name="rocks6" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, -11.8716 )
+
+[node name="rocks7" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, -15.8946 )
+
+[node name="rocks8" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 11.0615 )
+
+[node name="rocks9" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 15.8517 )
+
+[node name="rocks10" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 15.8517 )
+
+[node name="rocks11" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 20.415 )
+
+[node name="rocks12" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 24.843 )
+
+[node name="rocks13" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 29.5013 )
+
+[node name="rocks14" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 33.132 )
+
+[node name="rocks15" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 36.9394 )
+
+[node name="rocks16" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 41.896 )
+
+[node name="rocks17" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 41.896 )
+
+[node name="rocks18" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 47.9929, 0, 46.1575 )
+
+[node name="rocks19" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 22.478, 0, 45.6084 )
+
+[node name="rocks20" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 27.4357, 0, 45.6772 )
+
+[node name="rocks21" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 31.4446, 0, 45.7328 )
+
+[node name="rocks22" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 35.8795, 0, 45.7943 )
+
+[node name="rocks23" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 40.6249, 0, 45.8602 )
+
+[node name="rocks24" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 44.6475, 0, 45.916 )
+
+[node name="rocks25" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 17.694, 0, 45.542 )
+
+[node name="rocks26" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 12.9042, 0, 45.4755 )
+
+[node name="rocks27" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 12.9042, 0, 45.4755 )
+
+[node name="rocks28" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 8.34134, 0, 45.4122 )
+
+[node name="rocks29" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, 3.91377, 0, 45.3508 )
+
+[node name="rocks30" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, -0.744078, 0, 45.2862 )
+
+[node name="rocks31" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, -4.37438, 0, 45.2358 )
+
+[node name="rocks32" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, -8.18144, 0, 45.1829 )
+
+[node name="rocks33" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, -13.1375, 0, 45.1142 )
+
+[node name="rocks34" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, -13.1375, 0, 45.1142 )
+
+[node name="rocks35" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -0.13875, 0, -9.99904, 0, 10, 0, 9.99904, 0, -0.13875, -17.3987, 0, 45.055 )
+
+[node name="rocks37" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.9909, 0, 23.0307 )
+
+[node name="rocks38" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -44.0246, 0, 27.9887 )
+
+[node name="rocks39" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -44.0519, 0, 31.9979 )
+
+[node name="rocks40" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -44.0821, 0, 36.4332 )
+
+[node name="rocks41" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -44.1144, 0, 41.1788 )
+
+[node name="rocks42" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -44.1418, 0, 45.2018 )
+
+[node name="rocks43" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.9583, 0, 18.2463 )
+
+[node name="rocks44" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.9257, 0, 13.4561 )
+
+[node name="rocks45" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.9257, 0, 13.4561 )
+
+[node name="rocks46" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.8946, 0, 8.89296 )
+
+[node name="rocks47" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.8645, 0, 4.46506 )
+
+[node name="rocks48" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.8328, 0, -0.193123 )
+
+[node name="rocks49" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.8081, 0, -3.82369 )
+
+[node name="rocks50" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.7821, 0, -7.63103 )
+
+[node name="rocks51" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.7484, 0, -12.5875 )
+
+[node name="rocks52" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.7484, 0, -12.5875 )
+
+[node name="rocks53" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( -9.99977, 0, 0.0680677, 0, 10, 0, -0.0680677, 0, -9.99977, -43.7194, 0, -16.8489 )
+
+[node name="rocks55" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -5.24999, 0, 44.7834 )
+
+[node name="rocks56" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -0.292442, 0, 44.7077 )
+
+[node name="rocks57" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, 3.71641, 0, 44.6465 )
+
+[node name="rocks58" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, 8.15123, 0, 44.5788 )
+
+[node name="rocks59" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, 12.8965, 0, 44.5063 )
+
+[node name="rocks60" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, 16.919, 0, 44.4449 )
+
+[node name="rocks61" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -10.034, 0, 44.8565 )
+
+[node name="rocks62" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -14.8236, 0, 44.9297 )
+
+[node name="rocks63" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -14.8236, 0, 44.9297 )
+
+[node name="rocks64" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -19.3864, 0, 44.9993 )
+
+[node name="rocks65" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -23.8139, 0, 45.067 )
+
+[node name="rocks66" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -28.4716, 0, 45.1381 )
+
+[node name="rocks67" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -32.1018, 0, 45.1935 )
+
+[node name="rocks68" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -35.9088, 0, 45.2517 )
+
+[node name="rocks69" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -40.8648, 0, 45.3274 )
+
+[node name="rocks70" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -40.8648, 0, 45.3274 )
+
+[node name="rocks71" parent="rocks" instance=ExtResource( 16 )]
+transform = Transform( 0.15271, 0, -9.99883, 0, 10, 0, 9.99883, 0, 0.15271, -45.1259, 0, 45.3925 )
 
 [connection signal="pressed" from="upgrade_dialog/upgrade" to="jeff" method="_on_upgrade_pressed"]
 [connection signal="pressed" from="store_dialog/buy_tree/buy_tree_button" to="jeff" method="_on_buy_tree_button_pressed"]

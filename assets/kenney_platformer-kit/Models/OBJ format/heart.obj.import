@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/heart.obj-2c66952e82240273d6c8da64d4b8a647.mesh"
+path="res://.import/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh"
 
 [deps]
 
-files=[ "res://.import/heart.obj-2c66952e82240273d6c8da64d4b8a647.mesh" ]
+files=[ "res://.import/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/OBJ format/heart.obj"
-dest_files=[ "res://.import/heart.obj-2c66952e82240273d6c8da64d4b8a647.mesh", "res://.import/heart.obj-2c66952e82240273d6c8da64d4b8a647.mesh" ]
+source_file="res://assets/kenney_platformer-kit/Models/OBJ format/heart.obj"
+dest_files=[ "res://.import/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh", "res://.import/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh" ]
 
 [params]
 

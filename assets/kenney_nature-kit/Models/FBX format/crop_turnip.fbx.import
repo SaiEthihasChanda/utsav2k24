@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crop_turnip.fbx-e700395a44bd2fdb1e71ec6a5beff5ec.scn"
+path="res://.import/crop_turnip.fbx-abca56b4b60c715b0e1bb125fe787618.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/crop_turnip.fbx"
-dest_files=[ "res://.import/crop_turnip.fbx-e700395a44bd2fdb1e71ec6a5beff5ec.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/crop_turnip.fbx"
+dest_files=[ "res://.import/crop_turnip.fbx-abca56b4b60c715b0e1bb125fe787618.scn" ]
 
 [params]
 

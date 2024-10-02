@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_blockSlopeWalls_rock.fbx-b902afcc04da442bf06fa2a429147e0e.scn"
+path="res://.import/cliff_blockSlopeWalls_rock.fbx-c06a6defb3687faeb5db65a3c47573fa.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/cliff_blockSlopeWalls_rock.fbx"
-dest_files=[ "res://.import/cliff_blockSlopeWalls_rock.fbx-b902afcc04da442bf06fa2a429147e0e.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/cliff_blockSlopeWalls_rock.fbx"
+dest_files=[ "res://.import/cliff_blockSlopeWalls_rock.fbx-c06a6defb3687faeb5db65a3c47573fa.scn" ]
 
 [params]
 

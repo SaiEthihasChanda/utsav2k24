@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/mushroom_tanGroup.dae-01fdf6f12210f28c12b5a037f79a3420.scn"
+path="res://.import/mushroom_tanGroup.dae-d74f5056d4cd7de45005cde7edf8c770.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/mushroom_tanGroup.dae"
-dest_files=[ "res://.import/mushroom_tanGroup.dae-01fdf6f12210f28c12b5a037f79a3420.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/mushroom_tanGroup.dae"
+dest_files=[ "res://.import/mushroom_tanGroup.dae-d74f5056d4cd7de45005cde7edf8c770.scn" ]
 
 [params]
 

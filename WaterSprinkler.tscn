@@ -1,0 +1,57 @@
+[gd_scene load_steps=8 format=3 uid="uid://c2diccf8uoiv5"]
+
+[sub_resource type="Curve" id="Curve_i24xr"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.724138, 1), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_564lg"]
+curve = SubResource("Curve_i24xr")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_juy31"]
+particle_flag_align_y = true
+direction = Vector3(1, 45, 0)
+initial_velocity_min = 12.0
+initial_velocity_max = 50.0
+scale_min = 0.5
+scale_max = 1.5
+scale_curve = SubResource("CurveTexture_564lg")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_qqdxt"]
+albedo_color = Color(0.562952, 0.840562, 0.972608, 1)
+emission_enabled = true
+emission = Color(0.748042, 0.878973, 0.995828, 1)
+emission_energy_multiplier = 2.0
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_pxfkr"]
+material = SubResource("StandardMaterial3D_qqdxt")
+top_radius = 0.035
+bottom_radius = 0.0
+cap_top = false
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_626mk"]
+top_radius = 0.4
+bottom_radius = 0.08
+height = 0.5
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_hw5am"]
+custom_aabb = AABB(0, -20000, 0, 0, -50, 0)
+top_radius = 0.0
+bottom_radius = 0.25
+height = 0.59
+
+[node name="WaterSprinkler" type="Node3D"]
+
+[node name="GPUParticles3D" type="GPUParticles3D" parent="."]
+amount = 24
+lifetime = 0.25
+explosiveness = 1.0
+fixed_fps = 60
+process_material = SubResource("ParticleProcessMaterial_juy31")
+draw_pass_1 = SubResource("CylinderMesh_pxfkr")
+
+[node name="GPUParticles3D2" type="GPUParticles3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.999988, 0.00499162, 0, -0.00499162, 0.999988, 0, 0, 0)
+draw_pass_1 = SubResource("CylinderMesh_626mk")
+
+[node name="GPUParticles3D3" type="GPUParticles3D" parent="."]
+draw_pass_1 = SubResource("CylinderMesh_hw5am")

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/metal-panel.glb-c3a67f7bf618804eb736201cc282fc21.scn"
+path="res://.import/metal-panel.glb-fe4ff2554f8cf65e5ae5bae7a80d39bc.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/metal-panel.glb"
-dest_files=[ "res://.import/metal-panel.glb-c3a67f7bf618804eb736201cc282fc21.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/metal-panel.glb"
+dest_files=[ "res://.import/metal-panel.glb-fe4ff2554f8cf65e5ae5bae7a80d39bc.scn" ]
 
 [params]
 

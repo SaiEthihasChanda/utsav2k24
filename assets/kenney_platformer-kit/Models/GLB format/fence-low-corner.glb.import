@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence-low-corner.glb-aba7054324d6f2cd38fcc0a3d0ab8aab.scn"
+path="res://.import/fence-low-corner.glb-f84e10d46b433a2cea5a7d523614eb73.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/fence-low-corner.glb"
-dest_files=[ "res://.import/fence-low-corner.glb-aba7054324d6f2cd38fcc0a3d0ab8aab.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/fence-low-corner.glb"
+dest_files=[ "res://.import/fence-low-corner.glb-f84e10d46b433a2cea5a7d523614eb73.scn" ]
 
 [params]
 

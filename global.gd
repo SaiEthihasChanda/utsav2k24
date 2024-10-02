@@ -4,8 +4,8 @@ extends Node
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
-var energy_points = 30
-var energy_threshold = 1000
+var energy_points = 500
+var energy_threshold = 600
 var elements = {
 	"solar":1,
 	"turbine":1,
@@ -14,6 +14,11 @@ var elements = {
 }
 var levels ={
 	
+}
+var trees = []
+var cost = {
+	"solar":150,
+	"turbine":300
 }
 
 # Called when the node enters the scene tree for the first time.

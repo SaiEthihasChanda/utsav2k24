@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/campfire-fishing-stand.obj-4b2cff3342cc9ca80b5b76234684a6a0.mesh"
+path="res://.import/campfire-fishing-stand.obj-13a011c1fd54d204c815b0159dec7f1a.mesh"
 
 [deps]
 
-files=[ "res://.import/campfire-fishing-stand.obj-4b2cff3342cc9ca80b5b76234684a6a0.mesh" ]
+files=[ "res://.import/campfire-fishing-stand.obj-13a011c1fd54d204c815b0159dec7f1a.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/campfire-fishing-stand.obj"
-dest_files=[ "res://.import/campfire-fishing-stand.obj-4b2cff3342cc9ca80b5b76234684a6a0.mesh", "res://.import/campfire-fishing-stand.obj-4b2cff3342cc9ca80b5b76234684a6a0.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/campfire-fishing-stand.obj"
+dest_files=[ "res://.import/campfire-fishing-stand.obj-13a011c1fd54d204c815b0159dec7f1a.mesh", "res://.import/campfire-fishing-stand.obj-13a011c1fd54d204c815b0159dec7f1a.mesh" ]
 
 [params]
 

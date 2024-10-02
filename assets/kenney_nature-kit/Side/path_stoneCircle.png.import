@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/path_stoneCircle.png-19988a1b33f697a259230b4a9a8e7776.stex"
+path="res://.import/path_stoneCircle.png-b35c9fa88f7bb16f890f243a63d54fc2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/path_stoneCircle.png"
-dest_files=[ "res://.import/path_stoneCircle.png-19988a1b33f697a259230b4a9a8e7776.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/path_stoneCircle.png"
+dest_files=[ "res://.import/path_stoneCircle.png-b35c9fa88f7bb16f890f243a63d54fc2.stex" ]
 
 [params]
 

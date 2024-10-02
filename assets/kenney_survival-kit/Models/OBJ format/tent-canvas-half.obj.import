@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tent-canvas-half.obj-9a3ba4973b31e5872bd7cd8abec893bf.mesh"
+path="res://.import/tent-canvas-half.obj-a4c3a710f82bf67d76fd5ca006b9e9c8.mesh"
 
 [deps]
 
-files=[ "res://.import/tent-canvas-half.obj-9a3ba4973b31e5872bd7cd8abec893bf.mesh" ]
+files=[ "res://.import/tent-canvas-half.obj-a4c3a710f82bf67d76fd5ca006b9e9c8.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/OBJ format/tent-canvas-half.obj"
-dest_files=[ "res://.import/tent-canvas-half.obj-9a3ba4973b31e5872bd7cd8abec893bf.mesh", "res://.import/tent-canvas-half.obj-9a3ba4973b31e5872bd7cd8abec893bf.mesh" ]
+source_file="res://assets/kenney_survival-kit/Models/OBJ format/tent-canvas-half.obj"
+dest_files=[ "res://.import/tent-canvas-half.obj-a4c3a710f82bf67d76fd5ca006b9e9c8.mesh", "res://.import/tent-canvas-half.obj-a4c3a710f82bf67d76fd5ca006b9e9c8.mesh" ]
 
 [params]
 

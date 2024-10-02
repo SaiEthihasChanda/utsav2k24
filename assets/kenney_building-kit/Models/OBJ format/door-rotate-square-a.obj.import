@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/door-rotate-square-a.obj-c68f4c1562776506a3d730677c9103f9.mesh"
+path="res://.import/door-rotate-square-a.obj-632914ba8658e1136ee8d719d308974c.mesh"
 
 [deps]
 
-files=[ "res://.import/door-rotate-square-a.obj-c68f4c1562776506a3d730677c9103f9.mesh" ]
+files=[ "res://.import/door-rotate-square-a.obj-632914ba8658e1136ee8d719d308974c.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/OBJ format/door-rotate-square-a.obj"
-dest_files=[ "res://.import/door-rotate-square-a.obj-c68f4c1562776506a3d730677c9103f9.mesh", "res://.import/door-rotate-square-a.obj-c68f4c1562776506a3d730677c9103f9.mesh" ]
+source_file="res://assets/kenney_building-kit/Models/OBJ format/door-rotate-square-a.obj"
+dest_files=[ "res://.import/door-rotate-square-a.obj-632914ba8658e1136ee8d719d308974c.mesh", "res://.import/door-rotate-square-a.obj-632914ba8658e1136ee8d719d308974c.mesh" ]
 
 [params]
 

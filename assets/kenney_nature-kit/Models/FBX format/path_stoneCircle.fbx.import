@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/path_stoneCircle.fbx-b19ca4729cad62bf34bee774e278d461.scn"
+path="res://.import/path_stoneCircle.fbx-822f9ea928c15a3e989eebc07a5e214f.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/path_stoneCircle.fbx"
-dest_files=[ "res://.import/path_stoneCircle.fbx-b19ca4729cad62bf34bee774e278d461.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/path_stoneCircle.fbx"
+dest_files=[ "res://.import/path_stoneCircle.fbx-822f9ea928c15a3e989eebc07a5e214f.scn" ]
 
 [params]
 

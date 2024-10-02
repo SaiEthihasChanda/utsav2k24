@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roof-slanted-corner-b.png-6fb541349e5e71712fbd65b0197c8135.stex"
+path="res://.import/roof-slanted-corner-b.png-97ad28529610b11d6784f1575193f82c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_modular-buildings/Previews/roof-slanted-corner-b.png"
-dest_files=[ "res://.import/roof-slanted-corner-b.png-6fb541349e5e71712fbd65b0197c8135.stex" ]
+source_file="res://assets/kenney_modular-buildings/Previews/roof-slanted-corner-b.png"
+dest_files=[ "res://.import/roof-slanted-corner-b.png-97ad28529610b11d6784f1575193f82c.stex" ]
 
 [params]
 

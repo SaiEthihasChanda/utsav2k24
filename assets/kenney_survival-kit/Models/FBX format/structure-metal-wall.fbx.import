@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structure-metal-wall.fbx-e8488675bd9920d5109b9783a39bc7bb.scn"
+path="res://.import/structure-metal-wall.fbx-07bde46f49e9d8576afd6ac7b1691d08.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/structure-metal-wall.fbx"
-dest_files=[ "res://.import/structure-metal-wall.fbx-e8488675bd9920d5109b9783a39bc7bb.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/structure-metal-wall.fbx"
+dest_files=[ "res://.import/structure-metal-wall.fbx-07bde46f49e9d8576afd6ac7b1691d08.scn" ]
 
 [params]
 

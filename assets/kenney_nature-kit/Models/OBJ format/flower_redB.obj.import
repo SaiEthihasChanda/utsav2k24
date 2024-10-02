@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/flower_redB.obj-933b342abf0ae8074b72fc03d59bd90c.mesh"
+path="res://.import/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh"
 
 [deps]
 
-files=[ "res://.import/flower_redB.obj-933b342abf0ae8074b72fc03d59bd90c.mesh" ]
+files=[ "res://.import/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/flower_redB.obj"
-dest_files=[ "res://.import/flower_redB.obj-933b342abf0ae8074b72fc03d59bd90c.mesh", "res://.import/flower_redB.obj-933b342abf0ae8074b72fc03d59bd90c.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/flower_redB.obj"
+dest_files=[ "res://.import/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh", "res://.import/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/border-high-corner.fbx-d8450241b36d6d9620864922aac9c1dc.scn"
+path="res://.import/border-high-corner.fbx-a6beac56dee18ad5e72ee689a749ae03.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/border-high-corner.fbx"
-dest_files=[ "res://.import/border-high-corner.fbx-d8450241b36d6d9620864922aac9c1dc.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/border-high-corner.fbx"
+dest_files=[ "res://.import/border-high-corner.fbx-a6beac56dee18ad5e72ee689a749ae03.scn" ]
 
 [params]
 

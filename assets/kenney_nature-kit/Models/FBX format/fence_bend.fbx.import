@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence_bend.fbx-f8fadf9736b4904b60b283e8195f9347.scn"
+path="res://.import/fence_bend.fbx-925214fba48c86028136bc0575af887c.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/fence_bend.fbx"
-dest_files=[ "res://.import/fence_bend.fbx-f8fadf9736b4904b60b283e8195f9347.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/fence_bend.fbx"
+dest_files=[ "res://.import/fence_bend.fbx-925214fba48c86028136bc0575af887c.scn" ]
 
 [params]
 

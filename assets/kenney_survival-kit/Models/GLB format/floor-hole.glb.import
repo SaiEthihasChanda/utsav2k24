@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/floor-hole.glb-a12eaa93334196f12cfcc1daa5626451.scn"
+path="res://.import/floor-hole.glb-d6d44a59aaa782a226966d1367f9d071.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/GLB format/floor-hole.glb"
-dest_files=[ "res://.import/floor-hole.glb-a12eaa93334196f12cfcc1daa5626451.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/GLB format/floor-hole.glb"
+dest_files=[ "res://.import/floor-hole.glb-d6d44a59aaa782a226966d1367f9d071.scn" ]
 
 [params]
 

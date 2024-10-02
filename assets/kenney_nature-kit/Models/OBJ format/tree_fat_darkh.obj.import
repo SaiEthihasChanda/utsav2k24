@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tree_fat_darkh.obj-da9be53ba5ab8ea74e51eb80c816073e.mesh"
+path="res://.import/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh"
 
 [deps]
 
-files=[ "res://.import/tree_fat_darkh.obj-da9be53ba5ab8ea74e51eb80c816073e.mesh" ]
+files=[ "res://.import/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/tree_fat_darkh.obj"
-dest_files=[ "res://.import/tree_fat_darkh.obj-da9be53ba5ab8ea74e51eb80c816073e.mesh", "res://.import/tree_fat_darkh.obj-da9be53ba5ab8ea74e51eb80c816073e.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_fat_darkh.obj"
+dest_files=[ "res://.import/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh", "res://.import/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh" ]
 
 [params]
 

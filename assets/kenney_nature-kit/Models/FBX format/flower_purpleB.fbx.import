@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/flower_purpleB.fbx-cadbead3999a4afb340926f11acf4e89.scn"
+path="res://.import/flower_purpleB.fbx-b42bfb8314d58d604d92c940d30336e2.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/FBX format/flower_purpleB.fbx"
-dest_files=[ "res://.import/flower_purpleB.fbx-cadbead3999a4afb340926f11acf4e89.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/FBX format/flower_purpleB.fbx"
+dest_files=[ "res://.import/flower_purpleB.fbx-b42bfb8314d58d604d92c940d30336e2.scn" ]
 
 [params]
 

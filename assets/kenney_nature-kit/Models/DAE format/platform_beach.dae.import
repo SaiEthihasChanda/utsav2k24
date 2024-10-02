@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/platform_beach.dae-4ca5e47242f473add810b83902536b5a.scn"
+path="res://.import/platform_beach.dae-ddec937ecd7ad307802732423705685b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/platform_beach.dae"
-dest_files=[ "res://.import/platform_beach.dae-4ca5e47242f473add810b83902536b5a.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/platform_beach.dae"
+dest_files=[ "res://.import/platform_beach.dae-ddec937ecd7ad307802732423705685b.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bedroll-packed.fbx-1ce03d77fd4bc830644ccd3fe946bd71.scn"
+path="res://.import/bedroll-packed.fbx-eeed4b83477391a4719821027918113b.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_survival-kit/Models/FBX format/bedroll-packed.fbx"
-dest_files=[ "res://.import/bedroll-packed.fbx-1ce03d77fd4bc830644ccd3fe946bd71.scn" ]
+source_file="res://assets/kenney_survival-kit/Models/FBX format/bedroll-packed.fbx"
+dest_files=[ "res://.import/bedroll-packed.fbx-eeed4b83477391a4719821027918113b.scn" ]
 
 [params]
 

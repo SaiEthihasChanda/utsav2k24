@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence_bendCenter_SE.png-b7358996404b223435522a0a52f98100.stex"
+path="res://.import/fence_bendCenter_SE.png-5b8e7a818f2414ad1f2b62b8e6dacd12.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/fence_bendCenter_SE.png"
-dest_files=[ "res://.import/fence_bendCenter_SE.png-b7358996404b223435522a0a52f98100.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/fence_bendCenter_SE.png"
+dest_files=[ "res://.import/fence_bendCenter_SE.png-5b8e7a818f2414ad1f2b62b8e6dacd12.stex" ]
 
 [params]
 

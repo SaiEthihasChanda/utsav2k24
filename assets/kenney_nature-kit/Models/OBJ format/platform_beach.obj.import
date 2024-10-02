@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/platform_beach.obj-dcfa8d788d7ccab1b9c317b62dcaf106.mesh"
+path="res://.import/platform_beach.obj-6ad17569b2460aa916d12b957e1c24a4.mesh"
 
 [deps]
 
-files=[ "res://.import/platform_beach.obj-dcfa8d788d7ccab1b9c317b62dcaf106.mesh" ]
+files=[ "res://.import/platform_beach.obj-6ad17569b2460aa916d12b957e1c24a4.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/platform_beach.obj"
-dest_files=[ "res://.import/platform_beach.obj-dcfa8d788d7ccab1b9c317b62dcaf106.mesh", "res://.import/platform_beach.obj-dcfa8d788d7ccab1b9c317b62dcaf106.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/platform_beach.obj"
+dest_files=[ "res://.import/platform_beach.obj-6ad17569b2460aa916d12b957e1c24a4.mesh", "res://.import/platform_beach.obj-6ad17569b2460aa916d12b957e1c24a4.mesh" ]
 
 [params]
 

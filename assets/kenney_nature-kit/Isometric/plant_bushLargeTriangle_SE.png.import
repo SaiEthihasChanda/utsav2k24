@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plant_bushLargeTriangle_SE.png-3abbe0e8615f2287d72352f275d83b65.stex"
+path="res://.import/plant_bushLargeTriangle_SE.png-b30a132d7da3072951ac5b8059acf01e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/plant_bushLargeTriangle_SE.png"
-dest_files=[ "res://.import/plant_bushLargeTriangle_SE.png-3abbe0e8615f2287d72352f275d83b65.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/plant_bushLargeTriangle_SE.png"
+dest_files=[ "res://.import/plant_bushLargeTriangle_SE.png-b30a132d7da3072951ac5b8059acf01e.stex" ]
 
 [params]
 

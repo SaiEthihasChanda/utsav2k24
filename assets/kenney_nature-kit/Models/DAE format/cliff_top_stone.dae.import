@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff_top_stone.dae-5b340701ea7f673b0f8ec688429fdaa2.scn"
+path="res://.import/cliff_top_stone.dae-ded9ae7be92a5ba4931e08f1c3821abe.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/cliff_top_stone.dae"
-dest_files=[ "res://.import/cliff_top_stone.dae-5b340701ea7f673b0f8ec688429fdaa2.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_top_stone.dae"
+dest_files=[ "res://.import/cliff_top_stone.dae-ded9ae7be92a5ba4931e08f1c3821abe.scn" ]
 
 [params]
 

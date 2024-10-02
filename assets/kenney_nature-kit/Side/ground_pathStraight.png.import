@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ground_pathStraight.png-b4cb71f4d35e5a22449d07ebd2e2f8bf.stex"
+path="res://.import/ground_pathStraight.png-ad3a61a5f109415c9c16d71264888d18.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Side/ground_pathStraight.png"
-dest_files=[ "res://.import/ground_pathStraight.png-b4cb71f4d35e5a22449d07ebd2e2f8bf.stex" ]
+source_file="res://assets/kenney_nature-kit/Side/ground_pathStraight.png"
+dest_files=[ "res://.import/ground_pathStraight.png-ad3a61a5f109415c9c16d71264888d18.stex" ]
 
 [params]
 

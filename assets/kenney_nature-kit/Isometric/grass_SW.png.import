@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass_SW.png-c0612a174cfe3524e1f74d42fb3bfce3.stex"
+path="res://.import/grass_SW.png-43ae57ab353b987950c301bd4882dba8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/grass_SW.png"
-dest_files=[ "res://.import/grass_SW.png-c0612a174cfe3524e1f74d42fb3bfce3.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/grass_SW.png"
+dest_files=[ "res://.import/grass_SW.png-43ae57ab353b987950c301bd4882dba8.stex" ]
 
 [params]
 

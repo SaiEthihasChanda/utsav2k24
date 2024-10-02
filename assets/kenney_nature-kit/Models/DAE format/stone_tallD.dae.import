@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stone_tallD.dae-098111dd74bf1a86f22fce73a877ab48.scn"
+path="res://.import/stone_tallD.dae-3714e39e45a8f1923949f0546cdb1c65.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/DAE format/stone_tallD.dae"
-dest_files=[ "res://.import/stone_tallD.dae-098111dd74bf1a86f22fce73a877ab48.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/stone_tallD.dae"
+dest_files=[ "res://.import/stone_tallD.dae-3714e39e45a8f1923949f0546cdb1c65.scn" ]
 
 [params]
 

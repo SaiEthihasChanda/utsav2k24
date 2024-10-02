@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/door-rotate-round-d.fbx-b12282b2f8529e27cd6eaa62d70b2eae.scn"
+path="res://.import/door-rotate-round-d.fbx-aa367e79623e4698b623fc123d20cccd.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_building-kit/Models/FBX format/door-rotate-round-d.fbx"
-dest_files=[ "res://.import/door-rotate-round-d.fbx-b12282b2f8529e27cd6eaa62d70b2eae.scn" ]
+source_file="res://assets/kenney_building-kit/Models/FBX format/door-rotate-round-d.fbx"
+dest_files=[ "res://.import/door-rotate-round-d.fbx-aa367e79623e4698b623fc123d20cccd.scn" ]
 
 [params]
 

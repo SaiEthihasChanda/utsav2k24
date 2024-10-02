@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/grass_leafs.obj-ccf9675586010c34c1213a467c291fbc.mesh"
+path="res://.import/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh"
 
 [deps]
 
-files=[ "res://.import/grass_leafs.obj-ccf9675586010c34c1213a467c291fbc.mesh" ]
+files=[ "res://.import/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/grass_leafs.obj"
-dest_files=[ "res://.import/grass_leafs.obj-ccf9675586010c34c1213a467c291fbc.mesh", "res://.import/grass_leafs.obj-ccf9675586010c34c1213a467c291fbc.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/grass_leafs.obj"
+dest_files=[ "res://.import/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh", "res://.import/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh" ]
 
 [params]
 

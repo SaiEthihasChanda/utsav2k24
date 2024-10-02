@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/button-square.glb-a6f7a1cb61fe3070860487f06653ce65.scn"
+path="res://.import/button-square.glb-9874dc5905048f8caf810a5fcca20379.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_platformer-kit/Models/GLB format/button-square.glb"
-dest_files=[ "res://.import/button-square.glb-a6f7a1cb61fe3070860487f06653ce65.scn" ]
+source_file="res://assets/kenney_platformer-kit/Models/GLB format/button-square.glb"
+dest_files=[ "res://.import/button-square.glb-9874dc5905048f8caf810a5fcca20379.scn" ]
 
 [params]
 

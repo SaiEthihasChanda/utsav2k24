@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crops_wheatStageA_SE.png-2a41fa4a0580fef6692ebfea1370a65c.stex"
+path="res://.import/crops_wheatStageA_SE.png-acd0ae3a213bab2956f19d3edac4f7e6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Isometric/crops_wheatStageA_SE.png"
-dest_files=[ "res://.import/crops_wheatStageA_SE.png-2a41fa4a0580fef6692ebfea1370a65c.stex" ]
+source_file="res://assets/kenney_nature-kit/Isometric/crops_wheatStageA_SE.png"
+dest_files=[ "res://.import/crops_wheatStageA_SE.png-acd0ae3a213bab2956f19d3edac4f7e6.stex" ]
 
 [params]
 

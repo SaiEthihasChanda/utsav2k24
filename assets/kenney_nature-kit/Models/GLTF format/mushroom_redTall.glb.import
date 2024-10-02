@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/mushroom_redTall.glb-133b94973380c242f722a3813a5a8cad.scn"
+path="res://.import/mushroom_redTall.glb-e5bc40b1898872d498e3044de680db49.scn"
 
 [deps]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/GLTF format/mushroom_redTall.glb"
-dest_files=[ "res://.import/mushroom_redTall.glb-133b94973380c242f722a3813a5a8cad.scn" ]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/mushroom_redTall.glb"
+dest_files=[ "res://.import/mushroom_redTall.glb-e5bc40b1898872d498e3044de680db49.scn" ]
 
 [params]
 

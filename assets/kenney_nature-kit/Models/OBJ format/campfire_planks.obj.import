@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/campfire_planks.obj-9cc8c86309491b2f0c9b8fb66528d563.mesh"
+path="res://.import/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh"
 
 [deps]
 
-files=[ "res://.import/campfire_planks.obj-9cc8c86309491b2f0c9b8fb66528d563.mesh" ]
+files=[ "res://.import/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh" ]
 
-source_file="res://utsav2k24/assets/kenney_nature-kit/Models/OBJ format/campfire_planks.obj"
-dest_files=[ "res://.import/campfire_planks.obj-9cc8c86309491b2f0c9b8fb66528d563.mesh", "res://.import/campfire_planks.obj-9cc8c86309491b2f0c9b8fb66528d563.mesh" ]
+source_file="res://assets/kenney_nature-kit/Models/OBJ format/campfire_planks.obj"
+dest_files=[ "res://.import/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh", "res://.import/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh" ]
 
 [params]
 
